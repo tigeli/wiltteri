@@ -1,0 +1,25 @@
+! -------------------- wiltteri-whitelist-block.txt ----------------- !
+@@||asunnot.oikotie.fi^*/widget/ad/
+@@||asunnot.oikotie.fi/widget/ad/
+@@||eas.almamedia.fi/crossdomain.xml
+@@||eas.almamedia.fi/EAS_tag.1.0.js$domain=aamulehti.fi
+@@||eas.almamedia.fi/eas?target=_blank&$domain=aamulehti.fi
+@@||feissarimokat.com^*/advertisement.js
+@@||fusion.adtoma.com/script.js$domain=findance.com
+@@||gatling.nelonenmedia.fi^*/logo/$object-subrequest
+@@||ko.snstatic.fi/hs-omak/
+@@||ko.snstatic.fi/static/
+@@||moontv.fi/bannerit/fb_banneri.jpg
+@@||murobbs.plaza.fi^*/adframe.js
+@@||murobbs.plaza.fi^*/advertisement.js
+@@||muropaketti.com^*/adframe.js
+@@||muropaketti.com^*/advertisement.js
+@@||panachetech.com^$object-subrequest,domain=southparkstudios.fi
+@@||pics.kuvaton.com^*/false_advertising.
+@@||taskumuro.com^*/advertisement.js
+@@||tuuri.fi/mainokset/
+
+! Sanoma
+@@||adtech.de/?adrawdata/3.0/*;sub1=$domain=hs.fi|iltasanomat.fi
+@@||adtech.de/?adrawdata/3.0/*;|$object-subrequest,domain=jimtv.fi|kinotv.fi|livtv.fi|nelonen.fi|nelonenpro.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruokala.net|ruutu.fi
+@@||adtech.de/?advideo/3.0/*;vidAS=channel_intro;*;grp=17;$domain=radiosuomipop.fi

@@ -1,0 +1,10 @@
+! -------------------- wiltteri-general-block.txt ------------------- !
+/mainokset.
+/mainokset/*$domain=~op.fi
+/mainokset_
+/mainos.
+/mainos/*
+/mainos_
+/mainosbannerit/*$domain=~vr.fi
+_mainos.
+_mainosnappi.

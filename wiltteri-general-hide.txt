@@ -1,0 +1,6 @@
+! -------------------- wiltteri-general-hide.txt -------------------- !
+###mainokset
+###mainos
+##.mainokset
+##.mainos
+##.mainosbanneri

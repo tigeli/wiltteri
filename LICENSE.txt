@@ -1,0 +1,19 @@
+License
+=======
+
+The contents of this repository is licensed under the Creative
+Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) or any
+later version: <https://creativecommons.org/licenses/by-sa/3.0/>.
+
+"Wiltteri (http://wiltteri.net/)" should be attributed as the source
+of the material.
+
+
+Lisenssi
+========
+
+Tämä lähdemateriaali on suojattu Creative Commons Nimeä-JaaSamoin 3.0
+Ei sovitettu (CC BY-SA 3.0) -lisenssillä tai sen uudemmalla
+versiolla: <https://creativecommons.org/licenses/by-sa/3.0/deed.fi>.
+
+"Wiltteri (http://wiltteri.net/)" tulee mainita lähteenä.

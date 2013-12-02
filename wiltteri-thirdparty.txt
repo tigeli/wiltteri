@@ -1,0 +1,16 @@
+! -------------------- wiltteri-thirdparty.txt ---------------------- !
+||adservicemedia.dk^$third-party
+||bmm.fi^$third-party
+||cromet.fi/commercials/$third-party
+||faarao.org^$third-party
+||hotellimaailma.fi^$third-party
+||indiedays.com/sidebar-$third-party
+||kannet.kuvalehdet.fi^*/w100_
+||leiki.com^*/smartbanners/
+||nostoads.com^$third-party
+||obd.fi^$third-party
+||ruoka.fi/extrat/nostot/
+||saimaanpalvelut.fi^$third-party
+||snstatic.fi^*/sanoma_bt.js
+||tassa.fi^$third-party
+||userneeds.dk^$third-party
