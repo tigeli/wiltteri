@@ -277,8 +277,6 @@
 ||fi-reggae.com/kamppikset/
 ||fiercermedia.fi/wp-content/uploads/2011/08/fiercer-media-referenssit.png^
 ||fightclubfinland.fi/tiedostot/elmo_sports_grill_logo.jpg
-||files.snstatic.fi/IS/2012/12/KCM
-||files.snstatic.fi/IS/KCM-kampanja/
 ||fillari-lehti.fi/obannerit.asp
 ||fillari-lehti.fi/ybannerit.asp
 ||fillarifoorumi.fi/forum/images/bannerit/
@@ -433,7 +431,6 @@
 ||hpk.fi/templates/hpk/images/logot/
 ||hs.fi/static/hs3/js/zigmedia.js
 ||hs.fi/uutisboksi/
-||hs10.snstatic.fi/webkuva/oletus/560/1305573530110
 ||hunks.fi^*/sponsors.swf
 ||hurrikaani.fi/SIRA_Files/images/Logot/Kumppanit_Sponsorit/
 ||huumaa.net/images/banners/
@@ -493,7 +490,6 @@
 ||ircpics.com/images/new468x60.jpg
 ||ircquotes.fi/easypokerdeals_banner_black.png
 ||iro.fi^$third-party
-||is*.snstatic.fi/static/images/*otsikko
 ||iskelma.fi/files/banners/
 ||iskelma.fi/graph/iskelma_mobile_wallpaper.jpg
 ||iskelma.fi/uutiskuvat/nettitarjoukset280x60.jpg
@@ -655,7 +651,6 @@
 ||kmvlehti.fi^*/alma_init_cjs.js
 ||kmvlehti.fi^*/meedio_kmv_lehti.js
 ||kmvlehti.fi^*/mpbanner/
-||ko.snstatic.fi^$third-party
 ||kodinkuvalehti.fi/files/images/cover/thumb/
 ||kodittomat.fi/images/banners/
 ||kokkola.fi/etusivu/*/etusivu/_files/*/default/asuntomessut_p.jpg
@@ -1382,12 +1377,6 @@
 ||snadistadi.fi/images/wwwkuvat/logo_*.png^
 ||snorkkeli.net/images/banners/
 ||snowcastle.net/fi/images/sponsorit
-||snstatic.fi^*/ads/
-||snstatic.fi/hise-$domain=hintaseuranta.fi
-||snstatic.fi/Huuto-$domain=huuto.net
-||snstatic.fi/is-asunnot-iframe/$domain=asunnot.oikotie.fi
-||snstatic.fi/ot-metro-630/$domain=asunnot.oikotie.fi
-||snstatic.fi/ot-otty-otas-300-A/$domain=tyopaikat.oikotie.fi
 ||soccernet.fi/ad
 ||sodankyla.fi/media/bannerit/
 ||sodexo.fi^*/banner_sidebar_left/

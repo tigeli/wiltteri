@@ -5,8 +5,6 @@
 @@||feissarimokat.com^*/advertisement.js
 @@||fusion.adtoma.com/script.js$domain=findance.com
 @@||gatling.nelonenmedia.fi^*/logo/$object-subrequest
-@@||ko.snstatic.fi/hs-omak/
-@@||ko.snstatic.fi/static/
 @@||moontv.fi/bannerit/fb_banneri.jpg
 @@||murobbs.plaza.fi^*/adframe.js
 @@||murobbs.plaza.fi^*/advertisement.js

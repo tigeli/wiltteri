@@ -23,6 +23,8 @@
 ||obd.fi^$third-party
 ||ruoka.fi/extrat/nostot/
 ||saimaanpalvelut.fi^$third-party
-||snstatic.fi^*/sanoma_bt.js
 ||tassa.fi^$third-party
 ||userneeds.dk^$third-party
+! Sanoma
+||ko.snstatic.fi^
+||snstatic.fi^*/sanoma_bt.js
