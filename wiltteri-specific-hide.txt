@@ -4,7 +4,7 @@
 a-kiltojenliitto.fi###bottom
 aamukampa.net##.mainosteksti
 aamulehti.fi##.adContainer
-aamulehti.fi##div[style="float:left; width:956px; height:190px;"]
+aamulehti.fi##div[style*="width:956px; height:190px;"]
 aamuposti.fi###block-lehtiyhtyma_site-ads_emediate_boksi_1
 aamuposti.fi###block-lehtiyhtyma_site-ads_emediate_boksi_2
 aamuposti.fi###block-lehtiyhtyma_site-ads_emediate_boksi_3
@@ -344,7 +344,6 @@ etujoukkohelsinki.fi###flash234
 etujoukkohelsinki.fi##CENTER
 etuovi.com###ads_col_right
 etuovi.com###ads_col_right_ip
-etuovi.com###almafooter
 etuovi.com###etusivu_kl_nostopala
 etuovi.com###panorama_top
 etusivu.net###canadansanomat
@@ -390,7 +389,6 @@ fi##.bannerlist
 fi##.crossPromoWrapper.crossPromoWrapper_talouselama
 fi##.crossPromoWrapper.crossPromoWrapper_tektal
 fi##.crossPromoWrapper.crossPromoWrapper_tivi
-fi###almafooteri
 fi###hsfiHslice
 fi###is-promo-box
 fi###ISUutisOtsikot
@@ -666,14 +664,8 @@ ilmoitukset.com##TD[width="138"]
 ilonpolku.fi##TD.navigation IMG
 ilosaarirock.fi###footerimg
 ilotalo.com##TD[colspan="3"]
-iltalehti.fi###kl_nosto
 iltalehti.fi###kl_nosto_13
-iltalehti.fi###mnstrBox
 iltalehti.fi###monsterWrapper
-iltalehti.fi###vuodatus
-iltalehti.fi##div[class="dada_oikea"]
-iltalehti.fi##DIV[style="width: 410px; margin: 0px auto;"]
-iltalehti.fi##HR + A > IMG.etumiddle
 iltapulu.fi###header a[target="_blank"]
 iltasanomat.fi##.hr + IMG.jattikuva
 iltasanomat.fi##.leikiwidget
@@ -744,12 +736,16 @@ jamkids.fi##BR + BR + A[target="_blank"] > IMG
 jamkids.fi##DIV[style="text-align: center;"]
 jamkids.fi##TABLE TD > OBJECT
 jamsa.fi##.textsize[style="text-align: center;"]
-jamsanseutu.fi##DIV > A > CENTER > IMG
+jamsanseutu.fi##.adContainer
+jamsanseutu.fi##.adContainerWithMeta
+jamsanseutu.fi##div[style*="width:956px; height:190px;"]
 jamsek.fi##.banner
 jamsek.fi##IMG.contentImg[width="118"]
 jamsek.fi##IMG.contentImg[width="173"]
 jamsek.fi##TD.layoutRightTd
-janakkalansanomat.fi##DIV > A > CENTER > IMG
+janakkalansanomat.fi##.adContainer
+janakkalansanomat.fi##.adContainerWithMeta
+janakkalansanomat.fi##div[style*="width:956px; height:190px;"]
 jannenjamit.fi##P[style="text-align: center;"]
 japs.sporttisaitti.com###zone-left .banner
 japs.sporttisaitti.com###zone-right .banner
@@ -831,9 +827,8 @@ kaha.fi###HomeMidContainer
 kaha.fi##TD.RightSideLogo
 kaikkikuvaa.fi##.container > div.sixteen.columns.content.whitebg > p.center
 kainuunliikunta.fi##.banner
-kainuunsanomat.fi##a[href*="ccdeitti.fi"]
-kainuunsanomat.fi##a[href*="mikko.fi"]
-kainuunsanomat.fi##DIV + * + * + * + * + * + * CENTER
+kainuunsanomat.fi##.adContainer
+kainuunsanomat.fi##div[style*="width:956px; height:190px;"]
 kaisafest.fi###footer
 kakkusankarit.fi##.ContextBoxBody.NavBarElement3
 kaksplus.fi###cooperation
@@ -864,7 +859,9 @@ kamppailuopisto.com##BR + BR + IMG
 kamppi.fi###Advert
 kangasala.fi##TD.captionModel0
 kangasniemenmusiikkiviikot.fi###ohje_teksti A IMG
-kankaanpaanseutu.fi##DIV > A > CENTER > IMG
+kankaanpaanseutu.fi##.adContainer
+kankaanpaanseutu.fi##.adContainerWithMeta
+kankaanpaanseutu.fi##div[style*="width:956px; height:190px;"]
 kannus.fi##TABLE[style="width: 291px; height: 72px;"]
 kanoottiliitto.fi###zone-left
 kanresta.fi##DIV > A > IMG
@@ -910,10 +907,6 @@ kauppakalenteri.fi##P > BR + A > IMG
 kauppakalenteri.fi##TD + TD + TD[valign="top"]
 kauppakamarikauppa.fi##.class-banner
 kauppakamarikauppa.fi###top3_bannerarea
-kauppalehti.fi##.blackbox
-kauppalehti.fi##.clear + DIV.line + * + DIV.module
-kauppalehti.fi###blogs + * + * + DIV.module
-kauppalehti.fi##H3 + * + P.img
 kaupunginosat.net##.moduletable > P
 kaupunginosat.net##LI > A > IMG
 kaupunkilehtiankkuri.fi###topBanner
@@ -1007,7 +1000,9 @@ kivakoulu.fi###footer
 kivenlahtirock.com###block-views-Sponsorit-block_1
 klassinen.fi##DIV[style="clear: both; padding-top: 20px;"] + DIV[style="clear: both; padding-top: 20px;"]
 klustermus.fi###tukijat
-kmvlehti.fi##DIV > A > CENTER > IMG
+kmvlehti.fi##.adContainer
+kmvlehti.fi##.adContainerWithMeta
+kmvlehti.fi##div[style*="width:956px; height:190px;"]
 kodinkuvalehti.fi###footerCovers
 kodinkuvalehti.fi###footerLinks
 kohtaamo.net##.footerlogos
@@ -1095,8 +1090,9 @@ kp24.fi###boxisisalto
 kpallo.com##P IMG
 kreikanlomat.fi###alavasenlaatikko > A > IMG
 kristityt.fi##td[width="590"]
-kuhmolainen.fi##DIV > A > CENTER > IMG
-kuhmolainen.fi##div[style="float:left; width:956px; height:190px;"]
+kuhmolainen.fi##.adContainer
+kuhmolainen.fi##.adContainerWithMeta
+kuhmolainen.fi##div[style*="width:956px; height:190px;"]
 kulttuuripalvelukaiku.fi###sidebar a > img
 kuluttajaliitto.fi##.rightblock h3:last-child
 kuluttajaliitto.fi##IMG[src="files/1482/textsize/Zaldo_148x50_vaaka.jpg"]
@@ -1170,8 +1166,7 @@ lansi-savo.fi###block-esv-uranus-esv-uranus
 lansi-savo.fi###block-views-lunch-list-block
 lansivaylajuoksu.fi###zone-right
 lapinkansa.fi##.adContainer
-lapinkansa.fi##div[style="float:left; width:956px; height:190px;"]
-lapinkansa.fi##div[style="float:left; width:956px; height:335px;"]
+lapinkansa.fi##div[style*="width:956px; height:190px;"]
 laplandluosto.fi##.alaosa
 laplandluosto.fi###banners555
 laplandpyha.fi##.alaosa
@@ -1284,6 +1279,8 @@ lomasuomi.fi##img[alt="TableOnline.jpg"]
 lomasuomi.fi##P[style="text-align: center;"]
 lostinmusic.fi##DIV + DIV.span-7.colborder2
 lounaat.fi###header > td > a.header-img
+lounaislappi.fi##.adContainer
+lounaislappi.fi##div[style*="width:956px; height:190px;"]
 loviisa.fi###bannerit
 lprhcfest.com##td[height="170px"]
 lssy.fi##B + P[align="center"]
@@ -1308,6 +1305,7 @@ luosto.fi##.alaosa
 luosto.fi###banners555
 luoteisvayla.fi##.adContainer
 luoteisvayla.fi##.adContainerWithMeta
+luoteisvayla.fi##div[style*="width:956px; height:190px;"]
 luotettavakauppa.fi##div[style="height:20px;"] + table[width="900"]
 luottamus.fi##P[align="left"]
 luovatampere.fi##.contact > IMG
@@ -1386,7 +1384,6 @@ mbnet.fi##div[id^="oikotie"]
 mbnet.fi##footer#siteFooter
 meauto.fi##TD + TD > A > IMG
 meauto.fi##TD > OBJECT
-media-arkisto.com###almafooteri
 mediakasvatus.fi###banner_block
 mediathor.fi###ala
 mediuutiset.fi##div[class^="uratie"]
@@ -1402,7 +1399,9 @@ meilahdenliikuntakeskus.fi###rightBlock
 memphis.fi###banners
 menaiset.fi###footerCovers
 menaiset.fi###footerLinks
-merikarvialehti.fi##DIV > A > CENTER > IMG
+merikarvialehti.fi##.adContainer
+merikarvialehti.fi##.adContainerWithMeta
+merikarvialehti.fi##div[style*="width:956px; height:190px;"]
 merimieskirkko.fi##TD[width="200"]
 meripaiva-areena.fi###aside
 meripaiva-areena.fi###footer
@@ -1626,7 +1625,9 @@ nokiankaupunki.fi##.banner
 nokianpalloseura.sporttisaitti.com###content-middle .banner
 nokianpalloseura.sporttisaitti.com###zone-right a[target="_blank"] > img
 nokianteatteri.fi##TABLE.valikonAlusZone TD[align="center"]
-nokianuutiset.fi##DIV > A > CENTER > IMG
+nokianuutiset.fi##.adContainer
+nokianuutiset.fi##.adContainerWithMeta
+nokianuutiset.fi##div[style*="width:956px; height:190px;"]
 nordea.fi##.PictureLeftTextRightContainer
 nordicnet.fi##.pagecontainer-advertising
 norex.fi##DIV[style="padding: 200px 0pt 0pt 50px;"]
@@ -1803,11 +1804,10 @@ pogostanhiihto.fi##LI > A > IMG
 pohjanmaankaupat.fi##CENTER
 pohjola.fi##.tukisisalto-osa + * + * + DIV
 pohjola.fi###banneri
+pohjolansanomat.fi###secondaryCol div > a[target="_blank"] > center > img
+pohjolansanomat.fi###tertiaryCol div > a[target="_blank"] > center > img
 pohjolansanomat.fi##.adContainer
-pohjolansanomat.fi##.teaser.clearfix.nobg + DIV > A > CENTER
-pohjolansanomat.fi###mainCol CENTER
-pohjolansanomat.fi##a[href*="ccdeitti.fi"]
-pohjolansanomat.fi##a[href*="kinocity.fi"]
+pohjolansanomat.fi##div[style*="width:956px; height:190px;"]
 poimuri.fi##.footerLogo
 poimuri.xetnet.com###banners_left
 poimuri.xetnet.com###banners_right
@@ -1888,12 +1888,14 @@ puutarha.net##TABLE[width="188"]
 pyha-luostomatkailu.fi###footer-inner4
 pyha.fi##.alaosa
 pyha.fi###banners555
-pyhajokiseutu.fi##DIV > A > CENTER > IMG
+pyhajokiseutu.fi##.adContainer
+pyhajokiseutu.fi##div[style*="width:956px; height:190px;"]
 pyynikinkesateatteri.com###SAContent3
 qruiser.com###ads
 qruiser.com###stripe
 raahe.fi##IMG[width="192"]
-raahenseutu.fi##DIV > A > CENTER > IMG
+raahenseutu.fi##.adContainer
+raahenseutu.fi##div[style*="width:956px; height:190px;"]
 raakaidea.fi##TD[align="default"] > P > A > IMG
 radicalpictures.fi##A.banner
 radicalpictures.fi##CENTER > TABLE
@@ -1941,7 +1943,9 @@ randomi.fi##a[href^="http://clk.tradedoubler.com/click?"]
 randomi.fi##div[style="text-align: right; margin-bottom: -10px; margin-top: 10px;"]
 ranneliike.net##.box.px9
 ranneliike.net##DIV[align="right"]
-rannikkoseutu.fi##DIV > A > CENTER > IMG
+rannikkoseutu.fi##.adContainer
+rannikkoseutu.fi##.adContainerWithMeta
+rannikkoseutu.fi##div[style*="width:956px; height:190px;"]
 rantajatkat.fi###footer_mainokset
 rantajatkat.fi###mainoslinkit_oikea
 rantapallo.fi###car-suppliers
@@ -2074,9 +2078,8 @@ sarkaa.fi###footer
 sarkaa.fi##P + * + P[style="text-align: center;"]
 sastamala.fi##.vasen_sisalto
 satahamesoi.fi##table.Bottom
-satakunnankansa.fi##.col.last
-satakunnankansa.fi##a[href*="ccdeitti.fi"]
-satakunnankansa.fi##DIV + * + * + * + * + * + * CENTER
+satakunnankansa.fi##.adContainer
+satakunnankansa.fi##div[style*="width:956px; height:190px;"]
 satakunnanviikko.fi##.adslist
 sateenkaariperheet.fi##table[width="980"] > tbody > tr:nth-of-type(6) h3[style="text-align: center;"]
 sateenkaariperheet.fi##table[width="980"] > tbody > tr:nth-of-type(6) p[style="text-align: center;"]
@@ -2188,8 +2191,9 @@ sotajumala.com##.banner
 sotavasara.net##DIV[style="position: absolute; top: 0px; right: 10px; width: 160px;"]
 sotaveteraaniliitto.fi###footer p[style="float: right;"]
 sotiemmeveteraanit.fi###block-block-12 > DIV.content
-sotkamolehti.fi##DIV > A > CENTER > IMG
-sotkamolehti.fi##div[style="float:left; width:956px; height:190px;"]
+sotkamolehti.fi##.adContainer
+sotkamolehti.fi##.adContainerWithMeta
+sotkamolehti.fi##div[style*="width:956px; height:190px;"]
 southwood.fi##P + HR + P > IMG
 southwood.fi##TD
 speedmotorcircus.fi###right > DIV.block.block-block > DIV.content
@@ -2274,7 +2278,9 @@ suunnistusliitto.fi##IMG.imgfoot
 suunnistusliitto.fi##TD[align="center"]
 suupohja.fi##TD[style="width: 303px;"]
 suupohjanseutuverkko.fi##TD[style="text-align: center;"]
-suurkeuruu.fi##DIV > A > CENTER > IMG
+suurkeuruu.fi##.adContainer
+suurkeuruu.fi##.adContainerWithMeta
+suurkeuruu.fi##div[style*="width:956px; height:190px;"]
 suursoudut.fi###yhteistyo
 suursoudut.fi##a[target="_blank"] > img[width="150"][height="150"]
 svosk.fi###Oikea_palkki > p > a > img
@@ -2282,7 +2288,9 @@ svosk.fi###Vasen_palkki > p > a > img
 svosk.fi##img[src="index.2.gif"]
 svu.fi##TD[width="160"]
 svyl.net###botright
-sydansatakunta.fi##DIV > A > CENTER > IMG
+sydansatakunta.fi##.adContainer
+sydansatakunta.fi##.adContainerWithMeta
+sydansatakunta.fi##div[style*="width:956px; height:190px;"]
 synsam.fi##DIV[align="left"]
 sysmansuvisoitto.com###footer2
 tackla.fi##BR + BR + * > IMG
@@ -2388,7 +2396,6 @@ tekry.fi##P.txtbody TD > IMG
 telehaku.fi##TD.banneri_bannerit
 telehaku.fi##TD.valikko_bannerit_banneri
 telemark.fi##DIV[align="right"] IMG
-telkku.com,telkka.com,telkku.fi###almaFooter
 telkku.com,telkka.com,telkku.fi###klFrame
 telkku.com,telkka.com,telkku.fi###topBannerWrapper
 telkku.com,telkka.com,telkku.fi##.centerAreaAds
@@ -2522,6 +2529,9 @@ tyopaikat.oikotie.fi###adsRight
 tyopaikat.oikotie.fi###haku-partner-lifts
 tyopaikat.oikotie.fi###oikotie-ylapalkki
 tyopaikat.oikotie.fi###partner-lifts
+tyrvaansanomat.fi##.adContainer
+tyrvaansanomat.fi##.adContainerWithMeta
+tyrvaansanomat.fi##div[style*="width:956px; height:190px;"]
 udi.fi###footer
 uinti.com##.klikki
 uinti.com##img[src$="/Lahti%20aqua%20kopio.gif"]
@@ -2560,6 +2570,9 @@ uusifuengirola.fi##.spacer
 uusikaupunki.fi###ukifi-yritys-logot
 uusikaupunki.fi##NOBR
 uusimusta.fi###yleheader
+uusirovaniemi.fi##.adContainer
+uusirovaniemi.fi##.adContainerWithMeta
+uusirovaniemi.fi##div[style*="width:956px; height:190px;"]
 uusisuomi.fi###block-quicktabs-kaupalliset-kumppanimme
 uusisuomi.fi##.us_ad_sidebar_top_section_raha
 uusisuomi.fi###block-us-site-yrityskanava
@@ -2579,7 +2592,9 @@ vaellusnet.com##td[width="22%"] > a > img
 vaellusnet.com##td[width="22%"] > strong:last-child
 vaikutus.fi##.mainos_etusivu
 valepa.fi##.add_scroll_box
-valkeakoskensanomat.fi##DIV > A > CENTER > IMG
+valkeakoskensanomat.fi##.adContainer
+valkeakoskensanomat.fi##.adContainerWithMeta
+valkeakoskensanomat.fi##div[style*="width:956px; height:190px;"]
 valmu.com##td[style="padding-top:12px;"]
 valo-cd.fi###partners
 valoa-hanke.fi##TABLE[style="width: 265px; height: 67px;"]
@@ -2689,13 +2704,11 @@ voimisteluseura.fi###zone-left table
 voitotkotiin.com##P[style="text-align: center;"]
 volvia.fi##TD[width="181"]
 vsv.fi##P[align="left"]
-vuodatus.net###almafooteri
 vuodatus.net##DIV[style="text-align: center"] IMG
 vuokatti.fi##.mainospaikka_wide
 vuokatti.fi###column_right > .nosto_narrow:last-child
 vuokatticampus.fi##TR + * + * > TD[width="172"]
 vuokrakas.com##TD > DIV > A > IMG
-vuokraovi.com###almafooteri
 vuokraovi.com###banner
 vuokraovi.com###content_right_outer
 vuokraovi.com###electricityCalculator
@@ -2730,7 +2743,9 @@ ykkosakseli.fi##DT > A > IMG
 ykkosakseli.fi##DT > IMG
 ykkosbonus.com##DIV[align="center"] > A > IMG
 yla-savo.fi##a[href^="/modules/Banner/public/banner_redirect.aspx?id="]
-ylakainuu.fi##DIV > A > CENTER > IMG
+ylakainuu.fi##.adContainer
+ylakainuu.fi##.adContainerWithMeta
+ylakainuu.fi##div[style*="width:956px; height:190px;"]
 yleisotyo.fi###footer
 yleisurheilu.fi##.item-list
 ylikerroin.com##DIV[style="padding-left: 10px;"]

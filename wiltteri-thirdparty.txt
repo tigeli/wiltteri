@@ -1,6 +1,18 @@
 ! -------------------- wiltteri-thirdparty.txt ---------------------- !
-||adservicemedia.dk^$third-party
+||81.209.1.241^$subdocument
+||almamedia.fi/mp/$subdocument
+||autotalli.com/externalquicksearch?$subdocument
 ||bmm.fi^$third-party
+||eas.almamedia.fi^
+||etuovi.com/etuovi/flash/*_300x355.swf
+||iltalehti.fi/nostot/$subdocument
+||iltalehti.fi/uutisboksi/$subdocument
+||kauppalehti.fi^*/nosto/index.jsp$subdocument
+||kauppalehti.fi^*/nostolaatikko.jsp$subdocument
+||kauppalehti.fi^*/uutisikkuna/$subdocument
+||kotikokki.net/daily_recipe_*_lift.html$subdocument
+||mikko.fi^*/420x241ps.html$subdocument
+||adservicemedia.dk^$third-party
 ||cromet.fi/commercials/$third-party
 ||faarao.org^$third-party
 ||hotellimaailma.fi^$third-party
