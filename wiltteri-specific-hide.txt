@@ -95,12 +95,9 @@ artgoeskapakka.fi###logos
 artikla.com###spons
 artikla.com###spons_footer
 aspalsta.net##BR + CENTER
+asunnot.oikotie.fi###banners
 asunnot.oikotie.fi###etua-calculator
 asunnot.oikotie.fi###etua-lite-calculator
-asunnot.oikotie.fi###header-links
-asunnot.oikotie.fi###widget-ad-huuto
-asunnot.oikotie.fi###widget-ad-sahkovertailu
-asunnot.oikotie.fi##.widget-ad-own-city
 asuntomessut.fi##.button + P
 asuntotieto.com##td[width="150"]
 atoplkv.fi##TD[valign="bottom"] > A > IMG
@@ -128,7 +125,6 @@ autopartner.fi##.boxcontent > TABLE
 autopartner.fi###navi A
 autot.oikotie.fi###commercial
 autot.oikotie.fi###commercial-2
-autot.oikotie.fi###container-partners
 autotalli.com##.motoServiceAdvertisement
 autotalli.com###boxAdvertisement
 autotalli.com###partnerAdvertisementsWrapper
@@ -388,11 +384,6 @@ fi##.crossPromoWrapper.crossPromoWrapper_talouselama
 fi##.crossPromoWrapper.crossPromoWrapper_tektal
 fi##.crossPromoWrapper.crossPromoWrapper_tivi
 fi###hsfiHslice
-fi###oikotieAsunnot
-fi###oikotieAutot
-fi###oikotien-tyopaikat
-fi###oikotieRekry
-fi###oikotieTyopaikat
 fi##img[title="RAY tukee"]
 fillarikalenteri.fi###footer
 fillarikalenteri.fi###right_banner
@@ -1542,7 +1533,6 @@ nesteoilrallyfinland.fi##TD[style="width: 20%; border: medium none;"]
 nesteoilrallyfinland.fi##TD[style="width: 24%; border: medium none;"]
 net##.bannerlist
 net##.tsFrameContainer
-net###oikotieTyopaikat
 netmission.fi##.bannerContainer
 netmission.fi##.flashBanner
 netmission.fi##TABLE.coWorkers TD IMG
@@ -1655,7 +1645,6 @@ ohlk.fi##H3 + IMG
 oifm.fi###rightcolumn
 oifm.fi##DIV[style="clear: both; text-align: center; width: 100%; padding-top: 10px;"]
 oikeuttaelaimille.net##.bannergroup
-oikotie.fi###header-menu-wrap
 oikotie.fi###kavijaohjaus
 oikotie.fi###newsservice-feeds
 oindex.fi##.bottom
@@ -2520,10 +2509,7 @@ tuuri.fi###logos
 tuurinkonehuutokauppa.com##img[src$="/hankinta vinkit 2.jpg"]
 twangfest.fi##A > IMG
 tykkimaki.fi##.web_oikea_palsta > div > .web_listaus_item:nth-last-of-type(-n+3)
-tyopaikat.oikotie.fi###adsRight
-tyopaikat.oikotie.fi###haku-partner-lifts
-tyopaikat.oikotie.fi###oikotie-ylapalkki
-tyopaikat.oikotie.fi###partner-lifts
+tyopaikat.oikotie.fi##.prefooter-last
 tyrvaansanomat.fi##.adContainer
 tyrvaansanomat.fi##.adContainerWithMeta
 tyrvaansanomat.fi##div[style*="width:956px; height:190px;"]

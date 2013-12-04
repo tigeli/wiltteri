@@ -1,4 +1,5 @@
 ! -------------------- wiltteri-whitelist-hide.txt ------------------ !
+autot.oikotie.fi#@##ad-header
 download.fi#@##ad-top-banner-placeholder
 elisaviihde.fi#@#.outside_ad
 puhelinvertailu.com#@##ad-top-banner-placeholder

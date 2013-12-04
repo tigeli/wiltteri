@@ -1,6 +1,4 @@
 ! -------------------- wiltteri-whitelist-block.txt ----------------- !
-@@||asunnot.oikotie.fi^*/widget/ad/
-@@||asunnot.oikotie.fi/widget/ad/
 @@||eas.almamedia.fi/crossdomain.xml
 @@||feissarimokat.com^*/advertisement.js
 @@||fusion.adtoma.com/script.js$domain=findance.com

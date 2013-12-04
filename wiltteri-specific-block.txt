@@ -983,11 +983,7 @@
 ||nutriciababy.fi/bannerit/
 ||odl.fi/banners/
 ||ohjelmointikurssit.com/img/plate
-||oikotie.fi^*/img/front-rss
-||oikotie.fi/ext/$third-party
-||oikotie.fi/static/asunnot_is_nosto.html
-||oikotie.fi/static/images/logos/$image,match-case
-||oikotie.fi/static/swf/
+||oikotie.fi^*/img/front-rss-logo-
 ||oindex.fi/static/images/*_banner
 ||olekustannus.com/img/*banner
 ||olympia.fi/pics/banners/
@@ -1577,8 +1573,6 @@
 ||tuusniemi.fi/images/*banner
 ||tuusniemi.fi/images/logo
 ||tvshop.com/WMS/Upload/BannerImages/
-||tyopaikat.oikotie.fi^*/hintaseuranta/
-||tyopaikat.oikotie.fi^*/is_banner/
 ||tyosuhdepyora.fi/images/yhteistyossa.png^
 ||tyoterveyskirjasto.fi/sovellukset/tk/img2/*logo
 ||tyrvaansanomat.fi^*/alma_init_cjs.js

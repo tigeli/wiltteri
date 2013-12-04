@@ -29,9 +29,11 @@
 ! Sanoma
 ||cts.sanoma.fi^
 ||ko.snstatic.fi^
+||snstatic.fi^*/ads/
 ||snstatic.fi^*/sanoma_bt.js
 ||iltasanomat.fi/promo/$subdocument
 ||iltasanomat.fi^*/uutisboksi/$subdocument
 ||meidanperhe.fi^*/promobox/$subdocument
+||oikotie.fi/static/asunnot_*_nosto.html$subdocument
 ||omakaupunki.hs.fi^*/iframe/$subdocument
-||sestatic.net^*/banner-iltasanomat.html
+||sestatic.net^*/banner-iltasanomat.html$subdocument
