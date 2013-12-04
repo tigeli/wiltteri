@@ -1446,7 +1446,6 @@ moottoriliitto.fi##IMG[width="420"][height="45"]
 mopo-osa.com##BR + * TD > A > IMG
 mosanomat.com##.boksi > P > A > IMG
 motonet.fi###presentcard
-motopalsta.com###container-partners
 motot.net##.mainospalkkiMainos
 motot.net##DIV > BR + A > IMG
 movenet.fi###alabanneri

@@ -881,8 +881,6 @@
 ||motiva.fi/banner/
 ||motivus.fi/kuvat/motivus_banneri.gif
 ||motivus.fi/kuvia/bannerit/
-||motopalsta.com/bannerit/
-||motopalsta.com/images/Procycle
 ||movika.fi/tpp/images/*pelikaani
 ||mpilmoitukset.com/*/images/banners/
 ||mrjones.fi/bannerit/
