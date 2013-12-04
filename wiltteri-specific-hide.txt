@@ -821,13 +821,10 @@ kalajoenjuhannus.com###footer
 kalajoenjuhannus.com##P[style="text-align: center;"]
 kalakortti.com##img[src$="/VeneBat_eivuotta.jpg"]
 kalastajan.info##.sbicontent
-kaleva.fi###ban_3
+kaleva.fi###banner-top
+kaleva.fi##.ads
 kaleva.fi##.block-tarjousmylly-paivan-vinkit
 kaleva.fi##.block-tarjousmylly-rekry
-kaleva.fi##.section.ads
-kaleva.fi##div[id^="oikotie"]
-kaleva.fi##script[src$="EAS_tag.1.0.js"] + * + div[style*="2700px;"]:last-child
-kaleva.fi##tr > td[valign="top"][style*="hor_fade_333w_2008.jpg"]:last-child
 kalevalasyndicate.fi##DIV > IMG
 kalliolainen.com##TABLE.leipis
 kalorilaskuri.fi##.mmargin
