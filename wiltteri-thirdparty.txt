@@ -30,5 +30,8 @@
 ||cts.sanoma.fi^
 ||ko.snstatic.fi^
 ||snstatic.fi^*/sanoma_bt.js
+||iltasanomat.fi/promo/$subdocument
+||iltasanomat.fi^*/uutisboksi/$subdocument
 ||meidanperhe.fi^*/promobox/$subdocument
 ||omakaupunki.hs.fi^*/iframe/$subdocument
+||sestatic.net^*/banner-iltasanomat.html

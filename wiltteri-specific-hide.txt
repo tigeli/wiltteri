@@ -206,8 +206,6 @@ clubliberte.fi##TD[width="150"]:last-child > A > IMG
 cmsclub.fi###sidelist_banners_bottomcenter
 collieyhdistys.fi##img[src="RC.jpg"]
 com##.bannerlist
-com##.is-navi-container
-com###is-promo-box
 como.fi##UL.pro15
 corgiseura.net##img[src$="Royal_Canin_front.jpg"]
 corner.fi###col-right-sidebar
@@ -390,8 +388,6 @@ fi##.crossPromoWrapper.crossPromoWrapper_talouselama
 fi##.crossPromoWrapper.crossPromoWrapper_tektal
 fi##.crossPromoWrapper.crossPromoWrapper_tivi
 fi###hsfiHslice
-fi###is-promo-box
-fi###ISUutisOtsikot
 fi###oikotieAsunnot
 fi###oikotieAutot
 fi###oikotien-tyopaikat
@@ -674,23 +670,19 @@ iltalehti.fi###kl_nosto_13
 iltalehti.fi###monsterWrapper
 iltamakasiini.fi##.promo_slider_wrapper
 iltapulu.fi###header a[target="_blank"]
-iltasanomat.fi##.hr + IMG.jattikuva
-iltasanomat.fi##.leikiwidget
-iltasanomat.fi##.nosto.bg_orange
-iltasanomat.fi###ad-container-article3
 iltasanomat.fi###ad-container1
-iltasanomat.fi###KCMPromo
+iltasanomat.fi###ad-container2
+iltasanomat.fi###ad-container3
+iltasanomat.fi###ad-container-article1
+iltasanomat.fi###ad-container-article2
+iltasanomat.fi###ad-container-article3
+iltasanomat.fi###footer-area a[target="_blank"]
+iltasanomat.fi###geouutiset
 iltasanomat.fi###main > .main-story + .html-container
-iltasanomat.fi###pelikone-widget
-iltasanomat.fi###sdigi_tapahtumaopas
-iltasanomat.fi###verkkomedia
-iltasanomat.fi##A + * + DIV.hr + A > IMG.jattikuva
-iltasanomat.fi##A[href="http://www.facebook.com/iltasanomat/"] > IMG
-iltasanomat.fi##div[class="nosto bg_blue"]
-iltasanomat.fi##div[class="nosto bg_yellow"]
-iltasanomat.fi##div[class="tsFrameContainer"]
-iltasanomat.fi##div[id^="oikotie"]
-iltasanomat.fi##div[style="padding-left:66px;margin-top:10px;margin-bottom:10px;padding-top:15px;padding-bottom:15px;border-top:solid 1px #ccc; border-bottom:solid 1px #ccc;"]
+iltasanomat.fi##.ad-container
+iltasanomat.fi##.oikotie_nosto
+iltasanomat.fi##.tsr-advertorial
+iltasanomat.fi##div[style*="width:658px;height:250px;"]
 ilves.com##.bannerit
 ilves.fi##P[align="center"] + * > CENTER
 imaginedayspa.fi###div_logo
@@ -1549,10 +1541,7 @@ nesteoilrallyfinland.fi##TD[style="width: 16%; border: medium none;"]
 nesteoilrallyfinland.fi##TD[style="width: 20%; border: medium none;"]
 nesteoilrallyfinland.fi##TD[style="width: 24%; border: medium none;"]
 net##.bannerlist
-net##.is-navi-container
 net##.tsFrameContainer
-net###is-promo-box
-net###ISUutisOtsikot
 net###oikotieTyopaikat
 netmission.fi##.bannerContainer
 netmission.fi##.flashBanner

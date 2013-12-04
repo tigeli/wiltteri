@@ -1,7 +1,6 @@
 ! -------------------- wiltteri-specific-block.txt ------------------ !
 ||1-tori.net/pics/*lotto.gif
 ||1-tori.net/pics/jokeri.gif
-||131.207.75.64/fi/iltasanomat/isuutiset.html
 ||193.93.132.142/*ads
 ||194.188.93.124/scripts/edoris/edoris.dll?
 ||216.92.95.133/parisuhde/ad
@@ -461,11 +460,6 @@
 ||iltapulu.fi/ads/
 ||iltapulu.fi^*/klikklik.png
 ||iltapulu.fi^*/nebula_footer.png
-||iltasanomat.fi/_cache/oikotie_jobs.html
-||iltasanomat.fi/out/
-||iltasanomat.fi/promo/
-||iltasanomat.fi/rss/uutisboksi/
-||iltasanomat.fi/rss/uutisotsikot/
 ||ilves.com/gfx/yhteistyokumppanit/
 ||ilves.com/wp-content/themes/ilves_new/gfx/banneri/
 ||ilves.com/wp-content/themes/ilves_new/gfx/sponsorit/
@@ -1092,8 +1086,6 @@
 ||pk-35vantaa.fi/flash/
 ||pk-35vantaa.fi/images/stories/veikkaus
 ||pk-numismaatikot.fi/kannatus/
-||pk.sestatic.fi^$third-party
-||pkimg.sestatic.fi/thumb/
 ||pleijerit.net/images/banners/
 ||pohjalaisia.com/sport/pesisjunkkarit/banner/
 ||pohjalaisia.com/sport/petojussit/banner/
@@ -1327,8 +1319,6 @@
 ||seniorinetti.fi/sites/seniorinetti.fi/files/banners/
 ||seniorinetti.fi/themes/base/images/kumppanit/
 ||services.corame.fi/tervemedia/partner-feed/$third-party
-||sestatic.fi/ISBoksi/ISBoksi.html
-||sestatic.net^*/banner-iltasanomat.html
 ||seutuneloset.fi/images/CCDeitti-silma-200x200.jpg
 ||seven-1.com/matkalehti/
 ||sexhibition.fi/*.swf
@@ -1772,7 +1762,6 @@
 |http://87.108.55.22/ads/
 |http://kuvaton.com/jouluarvonta2012.gif
 |http://material.dropinmarket.com/dynaamisetbannerit/
-|http://n.sestatic.fi/sites/ruutu.fi/files/images/*_ruutu_wallpaper
 |http://netti.mtvmedia.fi/media/*/*.swf
 |http://www.grl.fi/*/images/banners/
 |http://www.seiska.fi/flashfiles/*banner*swf
