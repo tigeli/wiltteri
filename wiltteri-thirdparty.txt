@@ -34,6 +34,6 @@
 ||iltasanomat.fi/promo/$subdocument
 ||iltasanomat.fi^*/uutisboksi/$subdocument
 ||meidanperhe.fi^*/promobox/$subdocument
-||oikotie.fi/static/asunnot_*_nosto.html$subdocument
+||oikotie.fi/static/$subdocument
 ||omakaupunki.hs.fi^*/iframe/$subdocument
 ||sestatic.net^*/banner-iltasanomat.html$subdocument

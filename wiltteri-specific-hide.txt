@@ -318,11 +318,6 @@ espoonpesis.fi##img[src$="/Tempur.jpeg"]
 espoontikka.fi##TD.captionModel0 + * IMG
 espoontikka.fi##TD.captionModel0[style="width: 110px;"] IMG
 ess.fi##.ad
-ess.fi##.ad-notice-d
-ess.fi##.ad-notice-u
-ess.fi###bannerColumn
-ess.fi###itahameNosto
-ess.fi###oikotieAsunnot + DIV
 etalouspro.fi###mainfooter a.logolink
 etapahtuma.fi##SPAN.normal + DIV
 etatyopaiva.fi###idaho
