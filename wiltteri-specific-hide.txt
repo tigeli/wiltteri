@@ -2096,8 +2096,6 @@ seutuneloset.fi##BR + A > IMG
 sevilla.fi###col-right
 sexpert.fi##.bottom-oikea
 sey.fi##.logot
-sf3d.fi###mainoscontainer
-sf3d.fi##IMG[src="http://www.sf3d.fi/sites/default/files/sf3d_banner.jpg"]
 sfnet.fi##tbody:last-child > tr.top:last-child
 sfnet.fi##td[class="otsikko2"]
 shl.fi###banner-top-slot
