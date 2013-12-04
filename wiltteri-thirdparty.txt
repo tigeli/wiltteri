@@ -36,4 +36,6 @@
 ||meidanperhe.fi^*/promobox/$subdocument
 ||oikotie.fi/static/$subdocument
 ||omakaupunki.hs.fi^*/iframe/$subdocument
+||sanomamagazines.fi/promobox/$subdocument
 ||sestatic.net^*/banner-iltasanomat.html$subdocument
+||tiede.fi/uutisboksi/$subdocument

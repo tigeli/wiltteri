@@ -822,8 +822,6 @@
 ||matkaviikko.fi/banner/
 ||mato78.com/openx1/
 ||maxinetti.fi/images/banners/
-||mbnet.fi/pohjat/etusivunosat/keskibannerit/
-||mbnet.fi/promoboksi/
 ||meauto.fi/giffit/flash_backup
 ||meautot.fi/images/bannerit/
 ||media.a-lehdet.fi/wallpapers/
@@ -1523,7 +1521,6 @@
 ||thaimaansuomalainen.com/archive/191/banner/
 ||tiaksaa.fi/images/banners/
 ||tiede.fi/images/*banner
-||tiede.fi/uutisboksi/
 ||tiedeuutiset.fi/sideimage.aspx?id=
 ||tienaus.com/img/*banner
 ||tietosuoja-lehti.fi/media/ban_
@@ -1719,7 +1716,6 @@
 ||wknd.fi^*/nrj-logo.png
 ||wknd.fi^*/sponsor-
 ||wsoyoppimateriaalit.fi/flash/*banner/*.swf
-||wwwmedia.sanomamagazines.fi/promobox/
 ||yhdistysavain.fi^*/unions.jpg
 ||yhl.fi/images/pardia_logo.gif^
 ||yhteishyva.fi/yhteishyva/banneriHallinta/bannerit/
