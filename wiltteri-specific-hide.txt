@@ -101,7 +101,6 @@ asunnot.oikotie.fi###etua-lite-calculator
 asuntomessut.fi##.button + P
 asuntotieto.com##td[width="150"]
 atoplkv.fi##TD[valign="bottom"] > A > IMG
-atvpalsta.com###container-partners
 audiclub.fi##td[height="90"]
 audiovideo.fi##.view-mainospaikka-j-ttibanneri
 audiovideo.fi##.view-mainospaikka-suurtaulu-vasen
