@@ -2619,7 +2619,6 @@ veikkaussivut.com##.offer
 venajaseura.com##.left_banners
 venenetti.fi##.ad
 venenetti.fi##.om-magazines
-venepalsta.com###container-partners
 venesatama.com##TD#sidebar
 vepsu.fi,vps-vaasa.fi###rt-bottom
 vepsu.fi,vps-vaasa.fi###rt-sidebar-b > .title6:nth-of-type(-n+3)
