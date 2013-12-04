@@ -1893,6 +1893,7 @@ radiosuomipop.fi###banner1
 radiosuomipop.fi###banner2
 raflaopas.com###linkit
 raflaopas.fi###linkit
+raisio.fi###right > form[action*="raisio-opas.com/haku/"]
 rajatsi.fi###footer
 rakas.net###block-block-1 DIV.content
 rakennuslehti.fi##.promoBasic + * + * + * + * + * + * + * DIV.inner

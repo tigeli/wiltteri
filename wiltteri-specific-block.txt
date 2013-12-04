@@ -1157,11 +1157,7 @@
 ||raflaopas.fi/bannerit/
 ||raflaopas.net/bannerit/
 ||rahtinetti.com/datafiles/banners/
-||raisio.fi/uploads/5j7po6g8.gif
-||raisio.fi/uploads/776xsyg.jpg
-||raisio.fi/uploads/cf0rojzwqfht.gif
-||raisio.fi/uploads/dgicw9.gif
-||raisio.fi/uploads/lcfszxiqialugg.jpg
+||raisio.fi^*/raisiovisa-220x57px.jpg
 ||raisiokeskus.fi/arch/bannerit/
 ||rajamaenrykmentti.fi/kuvat/logot/
 ||rakennuslehti.fi/img/*_promo.
