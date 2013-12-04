@@ -672,6 +672,7 @@ ilosaarirock.fi###footerimg
 ilotalo.com##TD[colspan="3"]
 iltalehti.fi###kl_nosto_13
 iltalehti.fi###monsterWrapper
+iltamakasiini.fi##.promo_slider_wrapper
 iltapulu.fi###header a[target="_blank"]
 iltasanomat.fi##.hr + IMG.jattikuva
 iltasanomat.fi##.leikiwidget

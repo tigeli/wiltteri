@@ -24,6 +24,7 @@
 ||ruoka.fi/extrat/nostot/
 ||saimaanpalvelut.fi^$third-party
 ||tassa.fi^$third-party
+||tracking*.euroads.fi^$third-party
 ||userneeds.dk^$third-party
 ! Sanoma
 ||cts.sanoma.fi^
