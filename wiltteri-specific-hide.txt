@@ -1654,6 +1654,7 @@ nups.fi###sponsor
 nupshockey.fi##.mod_bannerslider
 nurmeksenelokuvajuhlat.fi###banners
 nykyaika.net##TD[width="43"] + TD
+nyt.fi##.ad-container
 ocf.fi##p[style="text-align: center;"]
 offerium.fi###dontmiss
 ohjauspiste.fi###content_ala > DIV > IMG
