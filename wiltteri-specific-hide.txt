@@ -374,9 +374,6 @@ ffp-motorsport.com###mainright
 fi.msn.com##.rowArea + * + DIV.rowArea
 fi.msn.com###msnie8
 fi##.bannerlist
-fi##.crossPromoWrapper.crossPromoWrapper_talouselama
-fi##.crossPromoWrapper.crossPromoWrapper_tektal
-fi##.crossPromoWrapper.crossPromoWrapper_tivi
 fi###hsfiHslice
 fi##img[title="RAY tukee"]
 fillarikalenteri.fi###footer
@@ -1409,9 +1406,6 @@ metsavetoomus.fi##DIV[align="center"]
 mielenterveysseura.fi##.blogi .p4table:last-child
 migri.fi##TABLE + * + * + * + * TD.RightBox
 migsalibandy.net##TABLE + * + * TR[valign="middle"][align="center"] > TD
-mikropc.net##.crossPromoWrapper
-mikropc.net##.samBanner
-mikropc.net##.samTop
 mikseri.net###pop_digital_header_bar_container
 minimarathon.fi###right
 minunasuntoni.fi###ads
@@ -1438,6 +1432,10 @@ motot.net##DIV > BR + A > IMG
 movenet.fi###alabanneri
 movie-tv.fi##.banner
 mp-foorumi.com##CENTER
+mpc.fi##.crossPromoWrapper
+mpc.fi##.samBanner
+mpc.fi##.samTop
+mpc.fi##.uratie_box
 mpifinland.org###sponsorit
 mtgsuomi.fi###sponsors
 mtv.fi##.ad

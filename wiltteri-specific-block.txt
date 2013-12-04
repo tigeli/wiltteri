@@ -1483,7 +1483,6 @@
 ||taksifoorumi.fi/banneri/
 ||takuuhuuto.fi/data/banners/
 ||talentum.com/uratie/radiomedia/
-||talentum.com/x.gif
 ||talka.fi/images/stories/bannerit/
 ||talko.fi/images/banners/
 ||taloforum.fi/talobuttons/
