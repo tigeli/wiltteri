@@ -1361,7 +1361,6 @@
 ||speedmotorcircus.fi/sites/speedmotorcircus.fi/themes/speedmotorcircus/img/footer
 ||sportti.com/kuvat/
 ||sporttimedia.fi/kuvat/*banner
-||sporttipassi.fi/flash/
 ||sro.fi/images/banners/
 ||ssl.fi/SSL/sslweb.nsf/*/$FILE/*banner
 ||sss.fi^*/Mainoskaruselli.png
