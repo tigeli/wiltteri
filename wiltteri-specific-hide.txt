@@ -2414,9 +2414,11 @@ tietoteekkarikilta.fi###valikko div[style="text-align: center; border-top: 1px s
 tietoturvaexpert.fi###mainfooter a.logolink
 tietoturvakoulu.fi##img[src="/images/5CK1AwSkL/EU.jpg"]
 tietoviikko.fi##.crossPromoWrapper
-tietoviikko.fi##.promoPic
+tietoviikko.fi##.fp_promoPictureOnly
+tietoviikko.fi##.interstitial
 tietoviikko.fi##.samBanner
 tietoviikko.fi##.samTop
+tietoviikko.fi##.uratie_box
 tiilikatto.fi##HR + P[style="text-align: center;"]
 tikkuri.fi##.banner
 tikkurilanpalloseura.fi###zone-left .contentImageArea
