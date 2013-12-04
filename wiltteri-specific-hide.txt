@@ -914,7 +914,6 @@ keitelejazz.fi##P[align="Left"] IMG
 keittiomaailma.fi##.mid
 kelkkakerho.fi##.multithumb
 kelkkakerho.fi##img[src$="/menokone%202013.png"]
-kelkkapalsta.com###container-partners
 kellojokinen.net###SAContent4 > P[align="center"]
 keltainenporssi.fi##.banner_mp_box
 keltainenporssi.fi##.bg10 img[width="160"]:last-of-type
