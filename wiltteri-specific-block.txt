@@ -431,7 +431,6 @@
 ||hunks.fi^*/sponsors.swf
 ||hurrikaani.fi/SIRA_Files/images/Logot/Kumppanit_Sponsorit/
 ||huumaa.net/images/banners/
-||huuto.net/css/lift/
 ||hymy.fi^*/bannerit/
 ||hyria.fi/files/*/textsize/
 ||hyvari.com/images/sponsorit/
