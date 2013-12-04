@@ -1429,6 +1429,7 @@ meteli.net##TABLE#contents-table + TABLE TD
 metkaweb.fi###sidebar2
 metku.net##TD[align="center"] > A > IMG
 metro.fi##.ads-ad
+metro.fi##div[style*="width:375px; height:250px;"]
 metropoli.net##.hentry-sidebar
 metropoli.net##DIV[style="position: absolute;"]
 metropoli.net##UL#menu-top-menu
