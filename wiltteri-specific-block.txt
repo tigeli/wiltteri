@@ -1321,10 +1321,6 @@
 ||ski.fi/files/skifi/*bannerit/
 ||skootterini.com/images/banners/
 ||slamitnet.1g.fi/kuvat/Bannerit$third-party
-||sliippikuva.net/Kuvia/kmsahkoasennus.jpg
-||sliippikuva.net/Kuvia/matkailuautorenting.jpg
-||sliippikuva.net/Kuvia/opiferum.jpg
-||sliippikuva.net/Kuvia/suomiopas_1.jpg
 ||sll.fi/bannerit/
 ||sm-liiga.fi/media/banners/
 ||smartit.fi^*/etusivunbannerit/

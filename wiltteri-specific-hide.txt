@@ -2132,7 +2132,10 @@ skvl.net##.oikea img
 skvl.net##.vasen img
 sky-bar.fi##P > A > IMG
 slalom-seura.fi###oikeadiv > .box1:last-child
-sliippikuva.net##IMG[style="border: 0px solid; width: 468px; height: 50px;"]
+sliippikuva.net##img[style*="width: 468px; height: 50px;"]
+sliippikuva.net##td[style*="width: 462px;"] > br:first-child + div[style*="text-align: center;"]
+sliippikuva.net##td[style*="width: 470px;"] > br:first-child + div[style*="text-align: center;"]
+sliippikuva.net##td[style="text-align: center; background-color: rgb(255, 255, 255); width: 155px; vertical-align: top;"]
 sm-liiga.fi##.bottom-banners
 sm-liiga.fi###liigaPorssi
 smartbuilder.fi##TD > IMG + IMG
