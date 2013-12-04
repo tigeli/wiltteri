@@ -2458,10 +2458,11 @@ tps.fi###rightBanners
 tredea.fi###token-29235
 trety.org###rt-sidebar-a > .rt-block:last-child
 trivago.fi###skyscraper
+ts.fi###aamuset_feed_div
+ts.fi###precontent-ads
 ts.fi##.adOuterContainer
-ts.fi##.bannerArea
-ts.fi##.bannerGeneric
-ts.fi##div[id^="oikotie"]
+ts.fi##.banner-box
+ts.fi##.footer-banner
 ttlry.fi###block-views-banners-block_1
 ttt-teatteri.fi##TH > A > IMG
 tuhatkunta.fi##CENTER > A > IMG

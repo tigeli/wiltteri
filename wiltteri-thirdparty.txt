@@ -34,7 +34,8 @@
 ||iltasanomat.fi/promo/$subdocument
 ||iltasanomat.fi^*/uutisboksi/$subdocument
 ||meidanperhe.fi^*/promobox/$subdocument
-||oikotie.fi/static/$subdocument
+||oikotie.fi/ext/$subdocument
+||oikotie.fi/static/$subdocument,object
 ||omakaupunki.hs.fi^*/iframe/$subdocument
 ||sanomamagazines.fi/promobox/$subdocument
 ||sestatic.net^*/banner-iltasanomat.html$subdocument

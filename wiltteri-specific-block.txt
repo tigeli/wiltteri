@@ -251,7 +251,6 @@
 ||europorssi.com/images/bann
 ||euroviisuklubi.fi/images/banners/
 ||event-travel.fi/static/images/partners/
-||ext-media.ts.fi/video/viking/
 ||extraviihde.fi/images/stories/banners/
 ||f-musiikki.fi/images/stories/bannerit/
 ||f1-forum.fi/banner
@@ -1543,7 +1542,9 @@
 ||trainer4you.fi/images/banners/
 ||travel.fi/travelfi/layout_images/*banner
 ||treseta.fi/images/banners/
-||ts.fi/TS_EAS_fif_v4.html
+||ts.fi/export/$subdocument
+||ts.fi/external/$subdocument
+||ts.fi/TS_EAS_fif_v5.html
 ||tsv.fi/images/*banner
 ||ttlry.fi/sites/ttl.ttlry.mearra.com/files/imagecache/banner/banner-images/
 ||tukinainen.fi^*/banners/
@@ -1758,6 +1759,4 @@
 |http://www.postikortti.com/*banneri*.jpg
 |http://www.rafla.fi/banner_182x600.swf
 |http://www.suomikauppa.fi/images/banners/
-|http://www.ts.fi/*/TSads*.js
-|http://www.ts.fi/*oikotie.
 |http://www.vakuutuskone.com/Images/DatabaseImage.aspx?TableName=Advertisement
