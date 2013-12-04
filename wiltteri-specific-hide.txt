@@ -1359,7 +1359,10 @@ meauto.fi##TD + TD > A > IMG
 meauto.fi##TD > OBJECT
 mediakasvatus.fi###banner_block
 mediathor.fi###ala
-mediuutiset.fi##div[class^="uratie"]
+mediuutiset.fi###topBanners
+mediuutiset.fi##.crossPromoWrapper
+mediuutiset.fi##.samBanner
+mediuutiset.fi##.uratie_box
 megachat.fi##FONT > A > IMG
 megachat.fi##IMG[width="150"]
 meidancostablanca.com##CENTER > A > IMG
