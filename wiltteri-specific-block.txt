@@ -1320,10 +1320,6 @@
 ||sixdegrees.wm.fi/6d/images/banners/
 ||ski.fi/files/skifi/*bannerit/
 ||skootterini.com/images/banners/
-||slalom-seura.fi/*/gfx/logo_bikeplanet.gif
-||slalom-seura.fi/*/gfx/logo_vihtiski.gif
-||slalom-seura.fi/*/gfx/skisport_logo.png
-||slalom-seura.fi/sm20*/gfx/sponsors
 ||slamitnet.1g.fi/kuvat/Bannerit$third-party
 ||sliippikuva.net/Kuvia/kmsahkoasennus.jpg
 ||sliippikuva.net/Kuvia/matkailuautorenting.jpg
