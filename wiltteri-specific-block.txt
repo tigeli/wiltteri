@@ -1187,14 +1187,6 @@
 ||rautalampilehti.fi/images/banners/
 ||ravia.fi/banner/
 ||ravintola.fi/files/yhteistyo/
-||ravioskorpi.net/images/agrimarket.gif
-||ravioskorpi.net/images/httk.jpg
-||ravioskorpi.net/images/jokisalo.png
-||ravioskorpi.net/images/logosx.png
-||ravioskorpi.net/images/parimateria.png
-||ravioskorpi.net/images/simola.png
-||ravioskorpi.net/images/sp.gif
-||ravioskorpi.net/images/sysmanop.jpg
 ||rc-harrastus.com/banners/
 ||reisjarvi.fi/maakuntaviesti/Maakuntaviesti_tiedostot/Images/*banner
 ||reittipiste.fi/images/mokkimainos.jpg^
