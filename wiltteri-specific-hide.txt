@@ -1912,7 +1912,6 @@ radiodei.fi###palsta3
 radiodei.fi###top
 radiofinlandia.net##.banneritem
 radiohau.com###banneri
-radiohelsinki.fi##.banners-right
 radiojkl.fi##TD + TD.topbar > A
 radiomega.fi##TD + TD.topbar > A
 radiopooki.fi###konsernipalkki
