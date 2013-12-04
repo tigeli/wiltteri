@@ -429,8 +429,6 @@
 ||hostinger.fi/banners/
 ||hotlips.fi/tiedostot/bannerit*/
 ||hpk.fi/templates/hpk/images/logot/
-||hs.fi/static/hs3/js/zigmedia.js
-||hs.fi/uutisboksi/
 ||hunks.fi^*/sponsors.swf
 ||hurrikaani.fi/SIRA_Files/images/Logot/Kumppanit_Sponsorit/
 ||huumaa.net/images/banners/
@@ -1000,7 +998,6 @@
 ||olekustannus.com/img/*banner
 ||olympia.fi/pics/banners/
 ||omafirma.fi/image/hppp_2009_reverse_vert.gif
-||omakaupunki.hs.fi/ads_messages/$third-party
 ||omakuva.org/mainosmokkula/
 ||omatieto.fi/images/common/banner
 ||omatieto.fi/tuot/banneri/

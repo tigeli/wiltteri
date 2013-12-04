@@ -4,7 +4,6 @@
 @@||eas.almamedia.fi/crossdomain.xml
 @@||feissarimokat.com^*/advertisement.js
 @@||fusion.adtoma.com/script.js$domain=findance.com
-@@||gatling.nelonenmedia.fi^*/logo/$object-subrequest
 @@||moontv.fi/bannerit/fb_banneri.jpg
 @@||murobbs.plaza.fi^*/adframe.js
 @@||murobbs.plaza.fi^*/advertisement.js
@@ -14,8 +13,8 @@
 @@||pics.kuvaton.com^*/false_advertising.
 @@||taskumuro.com^*/advertisement.js
 @@||tuuri.fi/mainokset/
-
 ! Sanoma
 @@||adtech.de/?adrawdata/3.0/*;sub1=$domain=hs.fi|iltasanomat.fi
 @@||adtech.de/?adrawdata/3.0/*;|$object-subrequest,domain=jimtv.fi|kinotv.fi|livtv.fi|nelonen.fi|nelonenpro.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruokala.net|ruutu.fi
 @@||adtech.de/?advideo/3.0/*;vidAS=channel_intro;*;grp=17;$domain=radiosuomipop.fi
+@@||gatling.nelonenmedia.fi^*/logo/$object-subrequest

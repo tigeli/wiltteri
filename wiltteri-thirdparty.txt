@@ -26,5 +26,8 @@
 ||tassa.fi^$third-party
 ||userneeds.dk^$third-party
 ! Sanoma
+||cts.sanoma.fi^
 ||ko.snstatic.fi^
 ||snstatic.fi^*/sanoma_bt.js
+||meidanperhe.fi^*/promobox/$subdocument
+||omakaupunki.hs.fi^*/iframe/$subdocument

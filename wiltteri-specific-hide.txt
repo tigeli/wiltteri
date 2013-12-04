@@ -612,11 +612,17 @@ hpk.fi##.header-top
 hps.fi##.banner a[href*="jalkkis.net"]
 hps.fi##.banner a[href*="www.eerikkila.fi"]
 hps.fi##.banner a[href*="www.ortolaakarit.fi"]
-hs.fi##.hise_seo_tuotteet_300
+hs.fi###area-huutonet
 hs.fi###area-metro-is
-hs.fi###corporate-footer
-hs.fi###oikotie-careers-outbound-module
+hs.fi###area-tvhsfi
+hs.fi###kampanja-banneri-980
+hs.fi###multi-ad-element
+hs.fi###oikotie-ad
+hs.fi###oikotie-asunnot-ad
 hs.fi###ts-outbound-module
+hs.fi##.ad-container
+hs.fi##.ad-container-nobg
+hs.fi##.advert
 hsk.fi##.banner
 htu.fi###right_float_box IMG
 htu.fi##DIV[style="clear: both; padding-top: 20px;"]
@@ -1672,7 +1678,6 @@ oluset.fi##.left
 olympia.fi##BR + BR + A > IMG
 omaisten.org##img[src$="/prospect_logo_box_small.gif"]
 omaisten.org##img[src$="/raytukee.png"]
-omakaupunki.hs.fi##.ads-ad
 omnia.fi##A[target="_blank"][style="background-image: none; padding: 0pt;"] > IMG
 omvf.net###footer-crosslink + * IMG
 opaskoirakoulu.fi##.headlines.single
