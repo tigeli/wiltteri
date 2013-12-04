@@ -2358,7 +2358,10 @@ tekniikanmaailma.fi##.YK_feedbox
 tekniikantyot.fi##TD + TD + TD[width="100%"]
 tekniikantyot.fi##TD[width="206"][align="center"]
 tekniikkaparkki.fi##CENTER
-tekniikkatalous.fi##div[class^="uratie"]
+tekniikkatalous.fi##.crossPromoWrapper
+tekniikkatalous.fi##.samBanner
+tekniikkatalous.fi##.samTop
+tekniikkatalous.fi##.uratie_box
 teknolelu.fi##.box > DIV.textwidget
 tekry.fi##P.txtbody TD > IMG
 telehaku.fi##TD.banneri_bannerit
