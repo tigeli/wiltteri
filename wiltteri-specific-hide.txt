@@ -1291,9 +1291,7 @@ lyy.fi##.kampanja
 maabrandi.fi##.sidebar_2.sbar3
 maailma.net###block-block-24 > H2 + DIV.content
 maailmankirjat.fi##TD[align="center"]
-maapallo.fi##.hr2 + P
-maapallo.fi##DIV + * + * + * + A + * + * + A > IMG
-maapallo.fi##DIV + DIV + A > IMG
+maapallo.fi##.advertisements > a[target="_blank"] > img
 maaporssi.fi###alapalkki
 maaporssi.fi###cooperation
 maaporssi.fi###ylamainokset
