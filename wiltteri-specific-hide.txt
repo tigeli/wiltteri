@@ -427,6 +427,7 @@ flightforum.fi###TopBanner
 flowfestival.com##.flowfestival_widget_partners
 flug.fi###flug-tukijat
 flyingpelicans.net###index-gallup > P IMG
+fonecta.fi##.banner-container
 foreca.fi##.top-banners
 foreca.fi##div[style="width: 1450px; height: 400px;"]
 foregolf.fi##.useful_banner_manager_banners_rotation
