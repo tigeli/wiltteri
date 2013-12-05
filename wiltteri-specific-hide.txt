@@ -914,9 +914,7 @@ keltainenporssi.fi##div[onclick="document.getElementById('banner_text').click()"
 kemi.fi##TD[width="20%"]
 kemora.fi###fotter
 kennelliitto.fi###_ctl0_cphMainContent_Koiramme1_radKoiramme_RadEditor
-kepli.fi###zone-left a[target="_blank"] > img
-kepli.fi###zone-right a[target="_blank"] > img
-kepli.fi##img[src$="/sporttiklubi_165x70px%20%284%29.gif"]
+kepli.fi##a[target="_blank"] > img[style*="margin: 0 5px 5px 5px;"]
 kerava.fi###navbar3
 kerubi.fi###spanfooter
 kerubi.fi##img[src="images/liityjaseneksi.png"]
