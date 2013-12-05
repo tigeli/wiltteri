@@ -2299,7 +2299,6 @@ tampere-talo.fi###spons
 tampereairshow.fi###partners
 tampereensosiaalifoorumi.fi##DIV[style="border-top: 1px solid rgb(102, 153, 51); position: relative; left: -437px; top: 90px; width: 894px; height: 80px; text-align: center;"]
 tampereensuomalainenklubi.fi##TABLE.kuvataulu
-tampereenteatteri.fi##DIV > TABLE TR > TD IMG
 tampereflamenco.com##TD.logot
 tampereunited.com##.cms_banner
 tampereunited.com##.front_column_right.float_right
