@@ -1400,7 +1400,6 @@ metropoli.net##UL#menu-top-menu
 metropolia.fi###bannerit
 metsavetoomus.fi##DIV[align="center"]
 mielenterveysseura.fi##.blogi .p4table:last-child
-migri.fi##TABLE + * + * + * + * TD.RightBox
 migsalibandy.net##TABLE + * + * TR[valign="middle"][align="center"] > TD
 mikseri.net###pop_digital_header_bar_container
 minimarathon.fi###right
