@@ -1201,8 +1201,8 @@ lepakkolaakso.net##.box.px9
 lepakkolaakso.net##DIV[align="right"]
 lestadiolaisuus.info##BR + A > IMG
 levi.fi###basic-banners
+lieksabrass.com###adds
 lieksabrass.com###sponsors
-lieksabrass.com##H1 + * + * + * + * + * + * + * + * + P > IMG
 lieroxfin.net###LootSis > CENTER > A > IMG
 liiga.fi##.bottom-banners
 liigaeura.fi##.column2.float_left

@@ -735,7 +735,8 @@
 ||levi.fi/media/banners/
 ||levi.fi/media/files/bannereita/
 ||levi.fi/media/img/2010/levi-op-2011.png
-||lieksabrass.com/images/banners/
+||lieksabrass.com^*/banners/
+||lieksabrass.com^*/PielisenOP_vaaka_4V%20logo.jpg
 ||liiga.fi/media/banners/
 ||liikekieli.com/images/banners/
 ||liikkuvakoti.fi/sites/all/themes/mat/images/footer-logot.png
