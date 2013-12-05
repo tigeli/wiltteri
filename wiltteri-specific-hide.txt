@@ -2231,10 +2231,7 @@ suomiareena.fi###banner5
 suomiareena.fi###jarjestajat
 suomiareena.fi###kumppanit
 suomiespanjaseura.fi###ilmo img
-suomimeloo.fi##img[src$="/craft_uusi.jpeg"]
-suomimeloo.fi##img[src$="/Sponsorit_2013.gif"]
-suomimeloo.fi##img[src$="/vikingline_pun_res72.jpeg"]
-suomimeloo.fi##img[src$="/welho%2bvaahteranlehti%2baallot%2blogo%2bwelhonpesa%2btekstill%c3%a4.jpeg"]
+suomimeloo.fi##a[target="_blank"] > img[width="115"]
 suomiopas.fi##.oikea a[target="_blank"] > img
 suomiruotsimaaottelu.fi###footer DIV.view-content
 suoraplus.fi##.frontBanner1

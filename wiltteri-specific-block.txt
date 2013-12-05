@@ -1426,6 +1426,8 @@
 ||suomiareena.fi/wp-content/themes/test/images/*banner
 ||suomihuuto.fi/banner_suomihuuto.php?
 ||suomikauppa.fi/affiliate/
+||suomimeloo.fi^*/welho%2bvaahteranlehti%2baallot%2blogo%2bwelhonpesa%2btekstill%C3%A4.jpeg
+||suomimeloo.fi^*/vikingline_pun_res72.jpeg
 ||suomipoke.com/banskut/
 ||suonenjoki.fi/kuvat/*banner
 ||suorahuuto.fi/banners/
