@@ -831,9 +831,8 @@ kalpa-hockey.fi###banners
 kalpa-hockey.fi###sponsors
 kamera-lehti.fi###banners
 kamera-lehti.fi###etubanners
-kampaamoverkko.fi##a[href*="tradedoubler.com/click?p"]
-kampaamoverkko.fi##div[style="margin-top: 25px; margin-bottom: 35px; display: block;"]
-kampaamoverkko.fi##td[background="imgs/mainostausta.gif"]
+kampaamoverkko.fi##a[href*="tradedoubler.com/click?"]
+kampaamoverkko.fi##td[background*="/mainostausta.gif"]
 kamppailuopisto.com##BR + BR + IMG
 kamppi.fi###Advert
 kangasala.fi##TD.captionModel0
