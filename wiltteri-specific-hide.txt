@@ -322,12 +322,9 @@ etatyopaiva.fi###idaho
 etatyopaiva.fi###mukana_logot
 etela-karjala.fi##.LaatikkoKuvalinkit DIV.LaatikkoLinkki
 etelapohjanmaa.fi##TD[align="right"]
-etujoukkohelsinki.fi###box_karuselli
-etujoukkohelsinki.fi###box_ykkostarjous
-etujoukkohelsinki.fi###content-top
-etujoukkohelsinki.fi###content-top-gray
-etujoukkohelsinki.fi###flash234
-etujoukkohelsinki.fi##CENTER
+etujoukkohelsinki.fi###content-edut-right
+etujoukkohelsinki.fi###new-content-banners
+etujoukkohelsinki.fi###top-banner
 etuovi.com###ads_col_right
 etuovi.com###ads_col_right_ip
 etuovi.com###etusivu_kl_nostopala

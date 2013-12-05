@@ -242,8 +242,6 @@
 ||espoonvapaaehtoisverkosto.fi/logot/
 ||et-opetus.fi/images/banners/
 ||etargetnet.com^$domain=~etargetnet.com
-||etujoukkohelsinki.fi/uploads/media/*banner
-||etujoukkohelsinki.fi/uploads/pics/*banneri
 ||etuovi.com/crometapp/product/realties/common/public/index_pikahaku.jsp?
 ||etuovi.com/vuokraovi/flash/750x300.swf
 ||eturivi.net/images/kuvitus_logot.gif
