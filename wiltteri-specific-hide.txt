@@ -1448,6 +1448,7 @@ murobbs.plaza.fi##a[href*="emediate.se"]
 murobbs.plaza.fi##td.alt1[align="center"]:first-child:last-child
 murobbs.plaza.fi##td.thead[align="left"]:first-child:last-child
 muropaketti.com#@#.advertorial
+muropaketti.com##.hv--ad
 muropaketti.com##.nostoboksi > div:first-child
 muropaketti.com##.om-magazines
 muropaketti.com###tmnostoboksi
