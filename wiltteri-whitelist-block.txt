@@ -12,7 +12,9 @@
 @@||taskumuro.com^*/advertisement.js
 @@||tuuri.fi/mainokset/
 ! Sanoma
-@@||adtech.de/?adrawdata/3.0/*;sub1=$domain=hs.fi|iltasanomat.fi
-@@||adtech.de/?adrawdata/3.0/*;|$object-subrequest,domain=jimtv.fi|kinotv.fi|livtv.fi|nelonen.fi|nelonenpro.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruokala.net|ruutu.fi
-@@||adtech.de/?advideo/3.0/*;vidAS=channel_intro;*;grp=17;$domain=radiosuomipop.fi
-@@||gatling.nelonenmedia.fi^*/logo/$object-subrequest
+@@||adtech.de/?adrawdata/3.0/*;sub1=$object-subrequest,domain=hs.fi|iltasanomat.fi
+@@||adtech.de/?adrawdata/3.0/*;|$object-subrequest,domain=jimtv.fi|livtv.fi|nelonen.fi|nelonenpro.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruokala.net|ruutu.fi
+@@||adtech.de/?advideo/3.0/*//cc=2;*;alias=*_pauseover;$object-subrequest,domain=jimtv.fi|livtv.fi|nelonen.fi|nelonenpro.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruokala.net
+@@||adtech.de/?advideo/3.0/*//cc=2;vidAS=channel_intro;$object-subrequest,domain=jimtv.fi|livtv.fi|nelonen.fi|nelonenpro.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruokala.net
+@@||adtech.de/?advideo/3.0/*//cc=2;vidAS=post_roll;$object-subrequest,domain=jimtv.fi|livtv.fi|nelonen.fi|nelonenpro.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruokala.net
+@@||gatling.nelonenmedia.fi^*/logo/$object-subrequest,domain=hs.fi|iltasanomat.fi|jimtv.fi|livtv.fi|nelonen.fi|nelonenpro.fi|radioaalto.fi|radiorock.fi|radiosuomipop.fi|ruokala.net|ruutu.fi
