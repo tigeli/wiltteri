@@ -702,6 +702,7 @@
 ||laatukontaktit.fi/*_885x100.
 ||laatulehdet.net/images/logot/
 ||lahdenkansanopisto.fi/uploads/Image/*banner
+||lahdenkeilahalli.fi^*/nosto_scandic_lahti*.png
 ||lahitaksi.fi/images/*banner
 ||lainapalmu.fi/img/*banner$third-party
 ||laine.net/cartel/images/sponssit/
