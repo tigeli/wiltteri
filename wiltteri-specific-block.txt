@@ -552,6 +552,7 @@
 ||kalastajanmaailma.com/PublisherFishinglordsBannerPicture?
 ||kalastuslinkit.com/bann/
 ||kaleva.fi^*/avoimia-tyopaikkoja-paperilehdesta/$subdocument
+||kaleva.fi^*/EAS_fif.js
 ||kaleva.fi^*/paivan-vinkit-paperilehdesta/$subdocument
 ||kalevatravel.fi/cms*/*bannerit/
 ||kalpa-hockey.fi/media/*banneri_
