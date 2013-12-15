@@ -2712,7 +2712,7 @@ yleisotyo.fi###footer
 yleisurheilu.fi##.item-list
 ylikerroin.com##DIV[style="padding-left: 10px;"]
 ylilauta.org###title + br + div > a
-ylilauta.org##.boardheader + hr + .center
+ylilauta.org##.boardheader + hr + .center > :not(form)
 ylilauta.org##blockquote + hr + .center
 ylilauta.org##div[id^="thread_"] + br + .center
 ylilauta.org##a[href*="affiliatelounge.com"]
