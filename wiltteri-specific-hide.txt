@@ -2282,9 +2282,10 @@ talotekniikka-lehti.fi##LI
 talotekniikka-lehti.fi##NOLAYER
 talous.com##TD[valign="top"] IMG
 talous.net##P + P IMG
-talouselama.fi##.adDisclaimer.afterAd
-talouselama.fi##.adDisclaimer.beforeAd
+talouselama.fi##.adDisclaimer
+talouselama.fi##.promoBox
 talouselama.fi##.samBanner
+talouselama.fi##.uratie_box
 taloussanomat.fi##.ad
 taloussanomat.fi##.generalPromo.sitePromo.isPromo
 taloussanomat.fi##.leikiMarkkinapaikat
