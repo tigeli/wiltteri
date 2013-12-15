@@ -1323,6 +1323,10 @@ margaretha.fi###side_bar
 mariacos.fi##A > IMG
 marineparts.fi##.bannergroup
 mariska.fi##DIV[align="center"] > IMG
+marmai.fi##.adDisclaimer
+marmai.fi##.promoBox
+marmai.fi##.samBanner
+marmai.fi##.uratie_box
 martat.fi##.banner
 martinlaaksonsahko.fi###jsn-puser9_inner
 mascus.fi##.fairsBox
