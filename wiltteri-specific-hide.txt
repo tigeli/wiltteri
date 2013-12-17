@@ -772,7 +772,7 @@ juoksija-lehti.fi##TD#dnn_ctr8664_ContentPane
 juoksufoorumi.fi##CENTER
 juontajat.fi##.alapalkki
 juontajat.fi##TD.sisalto_oikea
-jurassicrock.fi##IMG.sponsors
+jurassicrock.fi##img[usemap*="sponssit"]
 jutajaiset.fi##.shadow
 jymy.net##.div_advert300
 jymy.net##.div_blackbox650 + DIV.div_blackbox650
