@@ -819,7 +819,6 @@
 ||matkaviikko.fi/banner/
 ||mato78.com/openx1/
 ||maxinetti.fi/images/banners/
-||meauto.fi/giffit/flash_backup
 ||meautot.fi/images/bannerit/
 ||media.a-lehdet.fi/wallpapers/
 ||media.hongkong.fi/container.swf?

@@ -1342,8 +1342,6 @@ mato78.com##CENTER
 mato78.com##div[class="moduletable-jimms"]
 mbnet.fi###otTp-container
 mbnet.fi###topbanner
-meauto.fi##TD + TD > A > IMG
-meauto.fi##TD > OBJECT
 mediakasvatus.fi###banner_block
 mediathor.fi###ala
 mediuutiset.fi###topBanners
