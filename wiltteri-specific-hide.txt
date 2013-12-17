@@ -1458,8 +1458,8 @@ muropaketti.com##IMG[src="http://plaza.fi/s/img/muro/bulldogtestimuro.jpg"]
 muropaketti.com##IMG[style="margin:0 auto;display:block"]
 musiikinaika.org##TABLE[width="614"]
 musiikkikullas.fi###kuvat
-musiikkimedia.fi###footer > TABLE
-musiikkimedia.fi##DIV[style="text-align: left;"]
+musiikkimedia.fi###logos
+musiikkimedia.fi###partners
 musiikkisaatio.fi##P + H2 + P + P
 musiikkisaatio.fi##TABLE + P + H2 + P
 musiikkitalo.fi###partners
