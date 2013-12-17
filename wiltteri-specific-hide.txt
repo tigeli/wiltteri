@@ -279,7 +279,6 @@ elamasivakuutus.fi###banners
 eliittikisat.fi###footer
 elisa.net###wrapelement_ads_right DIV
 elitisti.net###sponsor-area
-elixia.fi##TABLE#footer
 elixir.fi##.content_box_wide IMG.banner_image
 elixir.fi###footer > IMG.footer_logo
 ellit.fi###topadwrapper
