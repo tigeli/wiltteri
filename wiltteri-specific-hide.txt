@@ -705,9 +705,6 @@ iuinno.fi##DIV + P > A > IMG
 jaajo.fi##P[align="center"]
 jaakkoteppo.fi##P[align="center"] + P > IMG
 jaapuisto.fi###the-content-left > .text-content-frame:last-child
-jamkids.fi##BR + BR + A[target="_blank"] > IMG
-jamkids.fi##DIV[style="text-align: center;"]
-jamkids.fi##TABLE TD > OBJECT
 jamsa.fi##.textsize[style="text-align: center;"]
 jamsanseutu.fi##.adContainer
 jamsanseutu.fi##.adContainerWithMeta
