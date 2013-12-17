@@ -445,6 +445,7 @@ galleriaantares.fi###partners
 galleryibis.com##IMG[style="position: absolute; z-index: 10; right: 0px; top: 80px; display: inline-block; border: medium none;"]
 gameli.fi###footer
 game-pro.fi###mainfooter a.logolink
+gaming.fi##.mainos-text
 gardengym.fi###left BR + BR + A > IMG
 gastronautti.fi##DIV[align="right"]
 gastronautti.fi##TD BR + A > IMG
