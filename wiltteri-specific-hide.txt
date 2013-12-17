@@ -624,7 +624,6 @@ iceway.fi###contentbottom
 ictnet.fi###ClusterOfOstrobothniaContainer_BelowSideMenu_idContent
 ifbb.fi##.right_column
 ifpi.fi###banner-container
-igolehti.fi##IMG.banneri
 ihanalehti.fi##.kehys_0 a[target="_blank"]
 ihanalehti.fi##.kehys_v a[target="_blank"]
 ihmisoikeuspeli.fi##IMG.logot
