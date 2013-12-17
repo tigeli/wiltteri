@@ -1148,8 +1148,6 @@ lappeenrannanteatteri.fi##DIV[style="text-align: right; margin-right: 35px;"] + 
 lappeenranta-imatra.fi##TD[align="center"]
 lappeenranta.fi###content3
 lappeenranta.fi##TD#tdZoneRight
-lappiosat.fi##P + * + * + P[align="center"]
-lappiosat.fi##UL + * + * + P[align="center"]
 laser24.fi##.logot
 laserht.fi##H3 + A > IMG
 lasna.net##img[src$="/ray.gif"]
