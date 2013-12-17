@@ -665,7 +665,6 @@ imaginedayspa.fi###div_logo
 imatrangolf.fi##.bannergroup
 imatranpalloseura.fi###Mod50
 imatranurheilijat.fi###ja-col2
-immu-hanke.fi###footer > IMG
 imperiumi.net###laby_logo
 imps.fi##.banneritem
 inarilainen.fi###extra
