@@ -1487,8 +1487,7 @@ myyjaosta.com##.affiliates
 myyttilukukansasta.fi###sidebar.right img
 naamakustannus.net##LI > A > IMG
 naantalinmatkailu.fi###rightContent > .systemBanner
-naantalinmusiikkijuhlat.fi##.banners IMG
-naantalinmusiikkijuhlat.fi##TD[style="height: 49px;"]
+naantalinmusiikkijuhlat.fi##.footer_logos
 naantalintennispoka.fi##.tukijat
 nahkafoorumi.com###wrapheader
 naimisiin.info##IFRAME[src="http://banner.mobicross.net/show.php?id=10"]

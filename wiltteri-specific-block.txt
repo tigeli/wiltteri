@@ -897,6 +897,7 @@
 ||muwi.fi/puoti/images/banners/
 ||mynamaki.fi/uploads/images/Sivupohja/lukiologo*.jpg
 ||mypa.fi^*/bannerit/
+||naantalinmusiikkijuhlat.fi/NaantaliShopOnline_295x454.gif
 ||naantalintennispoka.fi/Images/logo-*.gif^
 ||naapuri.fi/@Bin/*/pikku-
 ||naistenkymppi.fi/bannerit/
