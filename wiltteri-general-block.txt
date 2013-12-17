@@ -1,6 +1,6 @@
 ! -------------------- wiltteri-general-block.txt ------------------- !
 /mainokset.
-/mainokset/*$domain=~op.fi
+/mainokset/*$domain=~hansainfo.fi|~op.fi
 /mainokset_
 /mainos.
 /mainos/*

@@ -348,7 +348,6 @@
 ||hamppu.net/forum/banner/
 ||hangup.fi/banner/
 ||hankintavinkit.fi/images/banners/
-||hansainfo.fi/images/bannerit/
 ||harder.fi/images/banners/
 ||harjoittelu.net/images/bannerit/
 ||hartwall-areena.com/*/banner/
