@@ -1109,7 +1109,6 @@ kyronniemi.fi##.bannerit
 kyyla.org##BR + A > IMG
 laajasalongolf.com##.lispacer.vallinksboxbg
 laatukontaktit.fi##.laatikko_mainos
-laaturemontti.fi##UL#logot
 laatutakuu.fi##.footer > P > IMG
 laboratorio.fi##TD.ver-bar-1.bottom
 ladyjohanna.com##.oikeabottom
