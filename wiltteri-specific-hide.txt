@@ -1012,10 +1012,6 @@ koovee.fi##.vasenala
 kopteri.net##.ad
 kopteri.net##IMG#img_src_2
 kopteri.net##TD.narrow-column
-korjaamo.fi###banners IMG
-korjaamo.fi###block-views-banners-block_1
-korjaamo.fi###block-views-banners-block_2
-korjaamo.fi###spons
 korpikorpi.fi##TD > BR + A > IMG
 korpisoturi.fi##img[src^="data:image/png;base64,"]
 korroosio.fi##TD + TD[align="center"] > IMG
