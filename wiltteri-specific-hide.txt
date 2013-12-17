@@ -127,7 +127,6 @@ autotalli.com###boxAdvertisement
 autotalli.com###partnerAdvertisementsWrapper
 autotalli.com###rightBanner
 autotalli.com###rightContent > #frontPageArticles
-autotoday.fi##object#oikotie
 avainahjo.fi##TD.box
 avantimusic.fi###sponsor
 avoimet.com##.kapeat_kirjaimet.f10px.teksti_oikealle.oikea_marginaali
