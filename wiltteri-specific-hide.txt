@@ -1584,7 +1584,6 @@ niveltieto.net##td[width="173"]
 nkl.fi##.banners
 nkl.fi##.headlines > .logos img
 nkl.fi###menu .logo
-nkm.fi###footer > CENTER
 nokian-krp.com##DIV[style="margin: 0pt 0pt 10px; text-align: center;"]
 nokiankaupunki.fi##.banner
 nokianpalloseura.sporttisaitti.com###content-middle .banner
