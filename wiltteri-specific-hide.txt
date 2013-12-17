@@ -1492,7 +1492,7 @@ myyitseasuntosi.com###columnC_3columns
 myyjaosta.com##.affiliates
 myyttilukukansasta.fi###sidebar.right img
 naamakustannus.net##LI > A > IMG
-naantalinmatkailu.fi##TD#banners
+naantalinmatkailu.fi###rightContent > .systemBanner
 naantalinmusiikkijuhlat.fi##.banners IMG
 naantalinmusiikkijuhlat.fi##TD[style="height: 49px;"]
 naantalintennispoka.fi##.tukijat
