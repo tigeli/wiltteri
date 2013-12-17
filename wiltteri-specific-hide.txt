@@ -1929,6 +1929,7 @@ ravintola.fi###side
 ravintolapiilopaikka.fi###sidebar1
 ravintolapiilopaikka.fi###sidebar2
 rax.fi###frontpage_theme
+refashion.fi###blogBanner > a[href*="utm_medium=Blogibanneri"]
 reginainen.fi##TD[align="center"]
 reilurekrytointi.fi###footer img
 rekrytointikoulutus.fi###mainfooter a.logolink
