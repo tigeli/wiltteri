@@ -2555,7 +2555,6 @@ vanajanlinna.fi##.banner
 vannecenter.net##TD + TD[align="center"]
 vantaalla.info##DIV[align="center"]
 vantaan-a-kilta.fi##BR + * + * + BR + IMG
-vantaanenergia.fi##.inner > OBJECT
 vantaannuoretasujat.net##img[src$="/vantaan-kaupunki.jpg"]
 vapaa-ajankalastaja.fi##TD + TD[valign="top"][rowspan="4"]
 vapaatohjelmat.fi##DIV[align="center"]
