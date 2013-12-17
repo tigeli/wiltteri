@@ -1037,7 +1037,9 @@ kotimaa24.fi###topbanner
 kotimaa24.fi##iframe[src*="banneri"]
 kotipaikka.com##.titlebar > center:last-of-type > p
 kotipalvelu1.fi###really
-kotipuutarhuri.com##DL#partners
+kotipuutarhuri.com###banner_carousel
+kotipuutarhuri.com###flash_banner
+kotipuutarhuri.com###partners
 kotirinki.fi##A + BR + P + DIV
 kotirinki.fi##DIV > BR + A > IMG
 kotiseudunsanomat.net##DIV[align="center"] > P
