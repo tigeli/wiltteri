@@ -2474,9 +2474,6 @@ tuomiokirkko.helsinginseurakunnat.fi##TD#tdZoneRight
 tuoreeksterveeks.fi###content-middle .contentImageArea
 tups.fi##.banner
 turku2011.fi###footer-sponsors
-turkuenergia.fi##DIV[style="padding-top: 5px; padding-bottom: 5px;"]
-turkuenergia.fi##P[align="center"] > A > IMG
-turkuenergia.fi##TD#topBanners
 turkumodern.com##.icons IMG
 turkusoundcheck.com###sponssit-row
 turmion-katilot.info##.release
