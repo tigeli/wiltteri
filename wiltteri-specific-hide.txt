@@ -1277,7 +1277,7 @@ luottamus.fi##P[align="left"]
 luovatampere.fi##.contact > IMG
 luovatampere.fi##.tsi_bannerslot.tsi_bannerslot_2
 lupiini.com##CENTER
-luuppi.fi##TD.sponsori
+luuppi.fi##.sponsori
 luuri.com##TABLE + * + *
 luvy.fi##.right_logo
 lykky.fi###footer
