@@ -2719,12 +2719,14 @@ yleisurheilu.fi##.item-list
 ylikerroin.com##DIV[style="padding-left: 10px;"]
 ylilauta.org###title + br + div > a
 ylilauta.org##.boardheader + hr + .center > :not(form)
-ylilauta.org##blockquote + hr + .center
-ylilauta.org##div[id^="thread_"] + br + .center
 ylilauta.org##a[href*="affiliatelounge.com"]
 ylilauta.org##a[href*="guava-affiliate.com"]
 ylilauta.org##a[href*="kultaisetkysymykset.fi/tt/?tt="]
 ylilauta.org##a[href*="tilaus.aller.fi/tt/?tt="]
+ylilauta.org##blockquote + hr + .center
+ylilauta.org##div[id^="thread_"] + br + .center
+ylilauta.org##div[id^="thread_"] + br + .center + .center
+ylilauta.org##img[src^="/img/"]
 yliopistovalmennus.fi##.mainoskikka
 ylioppilaslehti.fi##.oikeapalstakuva
 yllas-halli.fi##IMG#ctl00_sponssit

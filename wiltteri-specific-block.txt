@@ -1708,6 +1708,7 @@
 ||ylakainuu.fi^*/mpbanner/
 ||ylakaupunginyo.fi/images/stories/mainostajat/
 ||ylikerroin.com/forum/ykadzz.php
+||ylilauta.org/img/sc.gif
 ||ylilauta.org/img/suomicasino.gif
 ||ylilauta.org/img/synnit_*.jpg
 ||ylilauta.org/img/ylilauta
