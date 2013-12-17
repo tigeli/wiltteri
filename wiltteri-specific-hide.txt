@@ -1188,7 +1188,7 @@ lennalomalle.com###right-column
 lennalomalle.com###top-banner
 lentajat.fi###footer
 lentajienjuhannus.fi###vasenlohko
-lentoliikennejailmasto.fi##TD.sponsors
+lentoliikennejailmasto.fi##.sponsors
 lentopalloliitto.fi##.banner a[href*="www.newbody.fi"]
 lentopalloliitto.fi##.banner a[href*="www.visulahti.fi"]
 lentovertailu.fi##TD[width="140"]
