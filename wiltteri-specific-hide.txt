@@ -605,8 +605,6 @@ hukka-halli.com##table[style="width: 262px; height: 281px"]
 humanistinenkilta.fi##.menu_body IMG
 humantechnology.fi##TR > TD > A > IMG
 humiref.fi##.logot
-huomenta.fi##CENTER > P > A > IMG
-huomenta.fi##TD#bannerit
 huoneistokeskus.fi##EMBED
 huoneistomedia.fi##A.banner
 huumaa.net##.moduletable_bannerit
