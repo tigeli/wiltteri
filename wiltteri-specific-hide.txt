@@ -1025,6 +1025,8 @@ korutrahaksi.fi###medialogos
 kosek.fi###ctl00_LogoLinkit1_PanelFI
 kosek.fi###ctl00_LogoLinkit1_PanelSVE
 koskikeskus.fi##.journal-content-article > DIV.boxed-wrapper
+koti-kajaani.fi###column_middle > .flexslider
+koti-kajaani.fi###column_right > .basic_box
 kotijamokkikeskus.fi###body5
 kotijamokkikeskus.fi###body6
 kotikarjala.fi###bannerAreaSidebar

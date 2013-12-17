@@ -650,7 +650,6 @@
 ||kopse.org/mainoskuvat/
 ||korroosio.fi/images/banners/
 ||koskenkorvanurheilijat.fi/images/banners/
-||koti-kajaani.fi/ilmkuvat/
 ||kotikarjala.fi/edoris/
 ||kotikartio.com/images/stories/omatlogot/
 ||kotinelio.fi/graphics/banner
