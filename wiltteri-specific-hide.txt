@@ -1647,7 +1647,6 @@ opendoors.fi##TR
 openworld.fi##TD[style="padding: 8px; width: 35%; text-align: center; font-weight: bold;"]
 operafestival.fi##.SponsorsContainer
 opiskelijaliikunta.fi##DIV[align="left"]
-opiskelijaunioni.fi###banners IMG
 opko.fi###leftcolumn > DIV.module + DIV.module
 ops.fi###footer
 orivedenponnistus.fi##DIV[align="center"]
