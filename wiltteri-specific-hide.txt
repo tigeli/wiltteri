@@ -1452,8 +1452,6 @@ musiikinaika.org##TABLE[width="614"]
 musiikkikullas.fi###kuvat
 musiikkimedia.fi###logos
 musiikkimedia.fi###partners
-musiikkisaatio.fi##P + H2 + P + P
-musiikkisaatio.fi##TABLE + P + H2 + P
 musiikkitalo.fi###partners
 musikantit.fi##.bannerbox > DIV.content
 muskleforum.com###ad_global_below_navbar
