@@ -1241,6 +1241,9 @@ lostinmusic.fi##DIV + DIV.span-7.colborder2
 lounaat.fi###header > td > a.header-img
 lounaislappi.fi##.adContainer
 lounaislappi.fi##div[style*="width:956px; height:190px;"]
+lounastauko.fi###content_reklam
+lounastauko.fi##.lp_reklamgrupp
+lounastauko.fi##.lp_reklambox
 loviisa.fi###bannerit
 lprhcfest.com##td[height="170px"]
 lssy.fi##B + P[align="center"]
