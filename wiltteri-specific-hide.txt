@@ -1928,6 +1928,8 @@ ressunopkh.fi##.nucleusbutton
 restonomiylempiamk.fi##TD[style="text-align: center;"]
 retailhosting.fi##HR + P.center > IMG
 riemua.fi###oikeap
+riemurasia.net###MDkyMzE_1
+riemurasia.net###takeover
 riemurasia.net##.advertise_1
 riemurasia.net##.bannerTop
 riemurasia.net##.banners
