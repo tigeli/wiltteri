@@ -1500,6 +1500,7 @@
 ||tiaksaa.fi/images/banners/
 ||tiede.fi/images/*banner
 ||tiedeuutiset.fi/sideimage.aspx?id=
+||tieku.fi^*/emediate.js
 ||tienaus.com/img/*banner
 ||tietosuoja-lehti.fi/media/ban_
 ||tietoturva.org^*/banners/
@@ -1543,6 +1544,7 @@
 ||tuurinkonehuutokauppa.com/images/stories/kumppanit/
 ||tuusniemi.fi/images/*banner
 ||tuusniemi.fi/images/logo
+||twami.com^$script,domain=tieku.fi
 ||tvshop.com/WMS/Upload/BannerImages/
 ||tyosuhdepyora.fi/images/yhteistyossa.png^
 ||tyoterveyskirjasto.fi/sovellukset/tk/img2/*logo

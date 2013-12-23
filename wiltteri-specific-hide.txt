@@ -2387,6 +2387,7 @@ thecircus.fi###footer > A > IMG
 tiede.fi##div[style*="iltasanomat.fi/boksit/smf/"]
 tiede.fi##DIV[style="margin-top: 5px; margin-bottom: 15px;"] > DIV
 tiedonantaja.fi###banners
+tieku.fi##.pane-banner
 tietojohtajakilta.net###linkkiluettelo + DIV#linkkiluettelo
 tietokeskus.com##.mosaic
 tietokilta.fi##.boksiPieni + * > H2.boksin-otsikko + DIV.boksin-sisalto
