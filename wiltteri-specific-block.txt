@@ -1487,6 +1487,7 @@
 ||teamlaine.com/images/*banner
 ||teamlaine.com/images/pictures/www/
 ||teivonravit.fi/banner/
+||telkku.com^*/images/nostot/
 ||tenojoki.fi/tenopaasivut/images/logot/
 ||terassilehti.fi/images/stories/*banner*/
 ||terminfo.fi/media/ban_

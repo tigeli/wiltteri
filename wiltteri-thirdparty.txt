@@ -7,6 +7,7 @@
 ||etuovi.com/etuovi/flash/*_300x355.swf
 ||iltalehti.fi/nostot/$subdocument
 ||iltalehti.fi/uutisboksi/$subdocument
+||kauppalehti.fi/asc/$subdocument
 ||kauppalehti.fi^*/nosto/index.jsp$subdocument
 ||kauppalehti.fi^*/nostolaatikko.jsp$subdocument
 ||kauppalehti.fi^*/uutisikkuna/$subdocument
