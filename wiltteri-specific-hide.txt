@@ -642,7 +642,8 @@ ilotalo.com##TD[colspan="3"]
 iltalehti.fi###kl_nosto_13
 iltalehti.fi###monsterWrapper
 iltamakasiini.fi##.promo_slider_wrapper
-iltapulu.fi###header a[target="_blank"]
+iltapulu.fi###header > div
+iltapulu.fi##a[target="_blank"][style*="width: 100%"]
 iltasanomat.fi###ad-container1
 iltasanomat.fi###ad-container2
 iltasanomat.fi###ad-container3

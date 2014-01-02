@@ -202,6 +202,7 @@
 ||digitoday.fi/radiohelsinkibox.html
 ||digitoday.fi/uutisikkuna.php
 ||digivideo.fi/files/mainostajat/
+||diilit.com/*_spot.html
 ||dome.fi/headlines$third-party
 ||dreamnet.fi/vps/images/*banner
 ||dumppi.fi/images/banners/
