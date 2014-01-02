@@ -206,6 +206,7 @@
 ||dreamnet.fi/vps/images/*banner
 ||dumppi.fi/images/banners/
 ||duunituote.fi/images/stories/kuvat/logot/
+||dvdplaza.fi/Valkoani*.gif
 ||dvdplaza.fi/valkokangas2v.gif
 ||dynamiitti.com/pix/dyny.gif
 ||dynamiitti.com/pix/icelink_banneri.gif
