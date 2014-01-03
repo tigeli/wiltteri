@@ -1071,6 +1071,8 @@ kuntokuu.fi##.row2 > .cell3
 kuntokuu.fi###footer
 kuntoutusportti.fi##img[src$="/ray_tukee_pieni.gif"]
 kuolo.fi###linkcat-3
+kuono.fi##.banner
+kuono.fi##.widget_adsingle
 kuopio.fi##IMG.front-linkimage
 kuopiodancefestival.fi##TD > A[target="pois"] > IMG
 kuopiodancefestival.fi##TD.kalenteri
