@@ -1482,6 +1482,7 @@ myyitseasuntosi.com###columnC_3columns
 myyjaosta.com##.affiliates
 myyttilukukansasta.fi###sidebar.right img
 naamakustannus.net##LI > A > IMG
+naamapalmu.com##a[href*="suomicasino.com"]
 naamapalmu.com##div[style*="text-align"] > a
 naantalinmatkailu.fi###rightContent > .systemBanner
 naantalinmusiikkijuhlat.fi##.footer_logos
@@ -2712,6 +2713,7 @@ ylilauta.org##a[href*="guava-affiliate.com"]
 ylilauta.org##a[href*="kultaisetkysymykset.fi/tt/?tt="]
 ylilauta.org##a[href*="tilaus.aller.fi/tt/?tt="]
 ylilauta.org##blockquote + hr + .center
+ylilauta.org##div[id^="thread_"] + * + .center
 ylilauta.org##div[id^="thread_"] + br + .center
 ylilauta.org##div[id^="thread_"] + br + .center + .center
 ylilauta.org##div[style*="text-align"] > a

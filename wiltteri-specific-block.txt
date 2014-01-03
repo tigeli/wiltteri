@@ -1713,9 +1713,11 @@
 ||ylakainuu.fi^*/mpbanner/
 ||ylakaupunginyo.fi/images/stories/mainostajat/
 ||ylikerroin.com/forum/ykadzz.php
+||ylilauta.org/img/1.png
 ||ylilauta.org/img/sc.gif
+||ylilauta.org/img/scasino.gif
 ||ylilauta.org/img/suomicasino.gif
-||ylilauta.org/img/synnit_*.jpg
+||ylilauta.org/img/synnit*.jpg
 ||ylilauta.org/img/ylilauta
 ||yllas.fi/sites/default/files/*150x60
 ||yllas.fi/sites/default/files/*201x77
