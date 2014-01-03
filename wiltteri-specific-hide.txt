@@ -1588,6 +1588,7 @@ nokianteatteri.fi##TABLE.valikonAlusZone TD[align="center"]
 nokianuutiset.fi##.adContainer
 nokianuutiset.fi##.adContainerWithMeta
 nokianuutiset.fi##div[style*="width:956px; height:190px;"]
+nopeustesti.com###header_banner
 nordea.fi##.PictureLeftTextRightContainer
 nordicnet.fi##.pagecontainer-advertising
 norex.fi##DIV[style="padding: 200px 0pt 0pt 50px;"]
