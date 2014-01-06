@@ -843,7 +843,6 @@
 ||mestis.fi/mestis/www/swf/
 ||metallimusiikki.net/files/*.swf
 ||metclub.fi/pics/*banner
-||meteli.net/img*/nosto*/
 ||metropoli.net/images/limusiini_small.jpg
 ||metropoli.net/images/lukijatutkimus.gif
 ||metsastajaliitto.fi/imgs/*banner

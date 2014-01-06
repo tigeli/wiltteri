@@ -1377,14 +1377,6 @@ mestis.fi##.add
 mestis.fi##.rightbanner
 metalfromfinland.com###heading > A:first-child
 metallitori.com###column > center > a > img
-meteli.net##.fp-nosto-box
-meteli.net###fp-vp-logos-0
-meteli.net###page-banners-right
-meteli.net###page-right-banners
-meteli.net###page-top-banners
-meteli.net##a[href*="mainos"]
-meteli.net##DIV[style="float: left; padding: 8px;"]
-meteli.net##TABLE#contents-table + TABLE TD
 metkaweb.fi###sidebar2
 metku.net##TD[align="center"] > A > IMG
 metro.fi##.ads-ad
