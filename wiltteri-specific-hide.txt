@@ -493,8 +493,7 @@ hansaprint.fi###footerlinks + *
 happee.fi##.moduletable_linkit
 happee.fi##.sponsorit
 happee.fi##.video
-hardware.fi##.newsArticleGoogle
-hardware.fi##.niTop
+hardware.fi##.advertisement
 harkaviikot.fi###footer
 harkaviikot.fi###logo
 harmankuntokeskus.fi##TD + TD + TD[align="center"]
