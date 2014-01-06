@@ -2025,9 +2025,8 @@ salmisali.fi##TD > A + BR + A > IMG
 sampotours.com##.top_right
 samsec.fi##TD[style="padding-top: 25px;"]
 sana.fi##.banner
-sanakirja.org##.hs-links
-sanakirja.org##.promo.first
 sanakirja.org###hs_logo
+sanakirja.org##.hs-links
 sanasto.fi##.banner
 sandelsrock.com##DIV[align="right"]
 sankarit.fi##BR + BR + A > IMG
