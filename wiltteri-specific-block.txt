@@ -818,7 +818,6 @@
 ||matka-atlas.fi/img/*banner
 ||matkantekijat.fi/images/euro_iso
 ||matkaviikko.fi/banner/
-||mato78.com/openx1/
 ||maxinetti.fi/images/banners/
 ||meautot.fi/images/bannerit/
 ||media.a-lehdet.fi/wallpapers/
