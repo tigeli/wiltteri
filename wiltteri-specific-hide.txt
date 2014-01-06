@@ -1338,6 +1338,7 @@ matkailuinfo.net##TD.banneri_bannerit
 matkalehti.fi##DIV > BR + * + A + * + * + A > IMG
 matkaopaslehti.fi##.smf-footer-content
 matkaopaslehti.fi###smf-sites
+matkapuhelinfoorumi.fi##.sidebar > .widget-container:last-of-type
 matkarasti.fi##BR + BR + A > IMG
 matkarasti.fi##TABLE#AutoNumber9 TR + * + * + * > TD
 matkareitti.fi##TD[align="center"]
