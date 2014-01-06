@@ -2322,9 +2322,6 @@ taskumuro.com##.om-magazines
 taskumuro.com##IMG[style="margin:0 auto;display:block"]
 tasna.fi###yhteistyossa
 teatterihelsinki.fi##DIV[align="center"] + * + * + * + * + * + P
-teatterikesa.fi###te-token-1773888
-teatterikesa.fi##TD[style="width: 216px; padding-right: 5px;"]
-teatterikesa.fi##TD[style="width: 345px; padding-right: 5px;"]
 teatterisoittorasia.com###osa
 teatteritakomo.fi##TD[width="609"] > IMG
 tector.fi##.sectionSidebarRight

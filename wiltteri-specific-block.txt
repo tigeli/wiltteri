@@ -1483,6 +1483,8 @@
 ||tarvikkeet.fi/kuvat/tyokalukauppa.jpg^
 ||teamlaine.com/images/*banner
 ||teamlaine.com/images/pictures/www/
+||teatterikesa.fi/@Bin/*_nettiin.jpeg
+||teatterikesa.fi^*/footerRoller.js
 ||teivonravit.fi/banner/
 ||telkku.com^*/images/nostot/
 ||tenojoki.fi/tenopaasivut/images/logot/
