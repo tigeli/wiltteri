@@ -65,6 +65,8 @@ ampparit.com##DIV[class^="ad"]
 ampparit.com##DIV[style="border-color: rgb(221, 0, 0); border-width: 2px 0pt; border-style: solid; background: none repeat scroll 0% 0% rgb(255, 255, 255);"]
 ampparit.com##DIV[style="width: 300px; height: 250px; overflow: hidden;"]
 ampumaurheiluliitto.fi##.banner
+androidsuomi.fi###mainmodules
+androidsuomi.fi##a[href*="androidsuomi.fi/counter/click.php?"]
 ankkarock.fi##.banner_container
 ankkarock.fi###top_banner:last-child
 ankkarock.fi###upper_banner_container
@@ -156,8 +158,6 @@ birdlandjazzclub.fi###radio
 birdlandjazzclub.fi##P + A > IMG
 bisnesmiehet.com##IMG[style="margin-left: 40px;"]
 bjjliitto.fi##div[style="width:500px;float:left;font-size:12px;height:100px;border-right:1px solid #ddd;text-align:right;"]
-blog.androidsuomi.fi###text-17.widget.widget_text
-blog.androidsuomi.fi###text-22.widget.widget_text
 blogilista.fi##.is-navi-container
 blogit.fi##a[href^="http://tracking.euroads.fi"]
 blues-finland.com##TABLE[width="142"] TD > A > IMG

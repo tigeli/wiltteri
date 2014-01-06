@@ -67,6 +67,8 @@
 ||ampumavaruste.com/bannerit/
 ||amt.fi^*/ostobannerit/
 ||amt.fi^*/ylabannerit/
+||androidsuomi.fi/wp-content/uploads/*_banner_
+||androidsuomi.fi^*/page-bg*.png
 ||ankkarock.fi/bannerit/
 ||ankkarock.fi/logo*.swf
 ||anninjuhla.fi/galleria/oik_kuva3_uus.jpg
@@ -132,10 +134,6 @@
 ||bikeplanet.fi/images/logosetti.gif
 ||bikeworld.fi/img/banners/
 ||bjjliitto.fi^*/kv_banneri.swf
-||blog.androidsuomi.fi^*/page-bg*.png
-||blog.androidsuomi.fi/wp-content/*BuffaloPysty
-||blog.androidsuomi.fi/wp-content/*klarna
-||blog.androidsuomi.fi/wp-content/uploads/*banner
 ||blogit.fi/images/bonari.
 ||blogspot.com^*/sheinside.jpg$domain=kristakuparinen.blogspot.fi
 ||blues-finland.com/images/cdon/
@@ -1384,7 +1382,6 @@
 ||stayhome.fi^*/webawards-suurtaulu.
 ||stll.fi/@Bin/*banner
 ||studiofeelit.fi/shop/logos/logot
-||stuff.afterdawn.com/$third-party
 ||sue.fi/images/*.swf
 ||sue.fi/images/*banner
 ||suezine.fi/images/*.swf

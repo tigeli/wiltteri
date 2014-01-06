@@ -1,5 +1,6 @@
 ! -------------------- wiltteri-thirdparty.txt ---------------------- !
 ||81.209.1.241^$subdocument
+||afterdawn.com/edukas_nosto_$subdocument,third-party
 ||almamedia.fi/mp/$subdocument
 ||autotalli.com/externalquicksearch?$subdocument
 ||bmm.fi^$third-party
