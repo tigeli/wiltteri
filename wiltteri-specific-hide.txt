@@ -2685,8 +2685,7 @@ ydinlehti.fi##.view-item.view-item-Mainokset > DIV.view-field.view-data-node-bod
 yeti.fi##.oikea_laatikko
 yhteisokeskus.net##img[src$="/Pori_vari_netti.png"]
 yhteisokeskus.net##img[src$="/RAY_Tukee_CMYK_CS2.gif"]
-ykkosakseli.fi##DT > A > IMG
-ykkosakseli.fi##DT > IMG
+ykkosakseli.fi###c201
 ykkosbonus.com##DIV[align="center"] > A > IMG
 yla-savo.fi##a[href^="/modules/Banner/public/banner_redirect.aspx?id="]
 ylakainuu.fi##.adContainer
