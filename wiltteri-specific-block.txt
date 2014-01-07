@@ -34,7 +34,6 @@
 ||adcampaigns.sharewood.org^
 ||adhost.telkku.com^
 ||adoptioperheet.fi/banner
-||adults.fi/ads/
 ||afrikka.net/gfx/*banner
 ||afterdawn.fi/partner/
 ||agilitykissat.com/wp-content/uploads/*/spons
@@ -44,7 +43,6 @@
 ||ajotaidot.fi/kuvat/bg-a1.gif
 ||ajovalo.net/Kuvat/200x200_automerkit.gif
 ||alastaro.fi/SIRA_Files/images/sivupohja/logot/
-||alastonsuomi.com/ads/
 ||alibi.fi^*/bannerit/
 ||aloitekanava.fi/images/banneri_
 ||alppipuistonkesa.info/templates/alppipuisto/images/alakukka3.jpg
@@ -234,7 +232,6 @@
 ||episodi.fi/kuvat/tausta
 ||eralle.net/site/images/banners/
 ||eroakirkosta.fi/bsrv
-||erotiikkakeskus.fi/banner
 ||esaimaa.fi/tiedostot/ruokapaikka_300x
 ||espanja.com/images/banners/
 ||espanja.org/files/*banner
@@ -287,7 +284,6 @@
 ||finlandiaseura.com^*/loggor/
 ||finnboat.fi/img/linked/
 ||finnhitsfest.com/kuvat/sponsorit/
-||finswingers.com/img/logos/
 ||fintoto.fi/images/*/linkki
 ||firmarock.fi^*/sponsors/
 ||fitnesstukku.fi/bilder/*/bannerar*/
@@ -374,7 +370,6 @@
 ||helsky.net/uploadkuvat/*banner
 ||helsy.com/images/banners/
 ||helvetin16.com/666/flash-ruletti/
-||herkku.net/bannerit/
 ||herkut.net/logopalkki
 ||herttahouse.com/kuvat/*banner
 ||heseta.fi/mp/db/banneri/
@@ -752,10 +747,6 @@
 ||lintukuva.fi/birdlife.jpg
 ||lintukuva.fi/rajala.jpg
 ||lippu.fi/*banner
-||livechat.fi^*/livekamera_online.swf
-||livechat.fi^*/puhelinseksi24h_lc.png
-||livechat.fi^*/puhpuh.png
-||livedeitti.fi^*/aikuisten_kohtauspaikka.png
 ||lomakivi.com/images/logot.png
 ||lomamatkat.fi/ImageVault/Images/id_15084/ImageVaultHandler.aspx
 ||lomaradio.fi/bannerit/
@@ -1097,7 +1088,6 @@
 ||poptravel.fi/images/*banner
 ||porijazz.fi/images/banners/
 ||porinkarpat.fi/kuvat/*.swf
-||porno-videot.com/templates/style1/images/
 ||poroholma.fi/bannerit/
 ||poroholmagp.fi/bannerit/
 ||portalfiles.kainuu.com/Banner/
@@ -1275,15 +1265,6 @@
 ||seikkailupuisto.fi/kuvii/banner
 ||seikkisrock.net/images/bottom_image_seikkis.jpg
 ||seiska.fi/ads/
-||seksi.fi/seksi/banners/
-||seksideitti.fi/images/banners/
-||seksikamera.fi/layout/*trash.png
-||seksikamera.fi/modelsonline.php?
-||seksisalonki.fi/banners/
-||seksitreffit.com/images/kosminenpeili_140x300.swf
-||seksitreffit.com/mainosmokkula/
-||seksitreffit.fi/treffit/kuvat/*_banner
-||seksitreffit.fi/treffit/kuvat/*.swf
 ||seksuaaliterveysklinikka.fi/banner/
 ||sell.fi/gfx/*banner
 ||sell.fi/user_files/banners/
@@ -1294,13 +1275,6 @@
 ||services.corame.fi/tervemedia/partner-feed/$third-party
 ||seutuneloset.fi/images/CCDeitti-silma-200x200.jpg
 ||seven-1.com/matkalehti/
-||sexhibition.fi/*.swf
-||sexhibition.fi/images/*banner
-||sexhibition.fi/images/hotellipaketit
-||sexhibition.fi/images/nakuna140
-||sexhibition.fi/images/sexhibition_ennakkoliput.jpg
-||sexwork.net/dick/www/images/
-||sexwork.net/varasto/banneri/
 ||sey.fi/files/*banner
 ||sfnet.fi/banners/
 ||shl.fi/banner*/
@@ -1535,7 +1509,6 @@
 ||tuningstudio.fi/pics/banners/
 ||tunnustusten.luola.net/vaihto.jpg
 ||turisti-info.fi/upload/banners/
-||turunerotiikkamessut.com/www*/bannerit/
 ||tuska-festival.fi^*/banners/
 ||tutti.fi/yhteis_kuva.jpg
 ||tuuli.net/hopt/banneri.gif

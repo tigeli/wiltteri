@@ -27,7 +27,6 @@ acoulu.fi###footer
 adoptioperheet.fi##p[align="center"] > a > img
 adressit.com##div[class="adTop"]
 adressit.com##p[class^="underMenuAd"]
-adults.fi##.wideColumn > DIV IMG
 adventra.fi##table[width="700"]
 agronomiliitto.fi##DIV[style="margin-left: 29px; margin-top: 10px;"]
 ahtarinelainpuisto.fi###SAContent6 > .Teksti
@@ -36,9 +35,6 @@ airporttaxi.fi###finavia
 aivovammaliitto.fi##img[src$="ray.jpg"]
 ajantappo.fi###banner
 akkukauppa.com##TD[style="vertical-align: top; text-align: center;"]
-alastonsuomi.com##.sb
-alastonsuomi.com###topbanner > .jb
-alastonsuomi.com##DD > DIV[align="center"] > A > IMG
 alfmix.fi##.campaign
 alibi.fi##.hymy-nosto
 alibi.fi##.om-magazines
@@ -407,8 +403,6 @@ finnboat.fi###vasenmenuspacer > center > p > a > img
 finnbody.com##TD[align="center"] > A > IMG
 finnexpo.fi##TABLE.tblBottomBanner
 finnishcanadian.com##.xj_sidebar_content img.align-center
-finswingers.com##DIV[style="margin-top: 15px; text-align: center;"]
-finswingers.com##DIV[style="margin-top: 50px;"]
 finthai.net##P[style="text-align: center;"]
 fixgalleria.net##.layout_frame_lb + DIV
 flamenco.fi###sponsori
@@ -1220,7 +1214,6 @@ lipputoimisto.fi###bannerit2
 liukastumis.info##img[src$="/judo_logo.png"]
 liukastumis.info##img[src$="/ukk_logo.png"]
 liukuovicenter.com##.rightside
-livechat.fi###header td:not(:first-child)
 livetulokset.com##.box_over_content
 livetulokset.com##.spacer10
 livetulokset.com###mobile-caption
@@ -2047,18 +2040,6 @@ schonox.fi###ctl00_PlaceHolderMain_rifImage03__ControlWrapper_CustomRichImageFie
 sebateam.fi##IMG[width="209"][height="63"][border="0"]
 seiska.fi##DIV[style="overflow: hidden; width: 100%; position: relative;"]
 seittiweb.org##img[src$="/ray_tukee.gif"]
-seksi.net##.content > CENTER
-seksideitti.fi###divStayTopLeft
-seksikamera.fi##.oikea a[target="_blank"]
-seksilehti.fi##CENTER
-seksilehti.fi##DIV[align="center"] > P
-seksipeto.com###bannerOne
-seksipeto.com###bannerSix
-seksipiste.fi##TD.NORMAL > A > IMG
-seksitreffit.fi##table[width="1024"][bgcolor="#D31517"]
-seksitreffit.fi##TD.vaaleapohja IMG
-seksitreffit.org##CENTER
-seksiviestit.fi##.navibanner
 seniorinetti.fi###footer-left
 serena.fi##TABLE.corporatelogos
 sestatic.fi###ISBoksi
