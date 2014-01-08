@@ -1485,6 +1485,7 @@
 ||tilastopaja.org/nikehr-ms_234x63.jpg
 ||tilastopaja.org/partnership_icons-pos_whmatte.gif
 ||tlks.fi/images/banners/
+||tomaattejatomaatteja.com^*/kumppanilogot_
 ||top10matkatarjoukset.com^*/*300_90
 ||top10matkatarjoukset.com^*/timthumb.php?src=*600x60
 ||topkani.fi/flash/slideshow.swf?
