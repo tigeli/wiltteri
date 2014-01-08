@@ -5,6 +5,14 @@
 /mainos.
 /mainos/*
 /mainos_
+/mainosbanneri.
+/mainosbanneri/*
+/mainosbanneri_
+/mainosbannerit.
 /mainosbannerit/*$domain=~vr.fi
+/mainosbannerit_
+/mainoskaruselli.
+/mainoskaruselli/*
+/mainoskaruselli_
 _mainos.
 _mainosnappi.

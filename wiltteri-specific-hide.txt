@@ -167,7 +167,6 @@ bookplus.fi##.bookplus-temp + * > DIV.content-container
 boostep.fi##.BannerBlock
 boostep.fi##.RightBannerBlock
 botniagames.fi##.toLeft > div > div:nth-last-of-type(-n+2)
-boxing.fi###mainospaikka
 boxing.fi##.mainokset_ulko
 boy.fi##.advs
 boy.fi###ja-banner
@@ -1073,7 +1072,6 @@ kuopiodancefestival.fi##TD.kalenteri
 kuopionkirppari.fi##DIV[class="banner_160x600_left"]
 kuopionkirppari.fi##DIV[class="keskibanneri"]
 kuopionpursiseura.fi###zone-right a[target="_BLANK"] > img
-kuopionsuunnistajat.fi###mainokset_oikea
 kuopiorock.com###right2
 kuortane.fi##IMG[style="width: 110px; height: 100px;"]
 kupiainen.net##TABLE[width="108%"] IMG
@@ -1282,7 +1280,6 @@ maailmankirjat.fi##TD[align="center"]
 maapallo.fi##.advertisements > a[target="_blank"] > img
 maaporssi.fi###alapalkki
 maaporssi.fi###cooperation
-maaporssi.fi###ylamainokset
 maaseudulleasumaan.fi##TD + TD
 maaseutu.fi##.logos
 macpiste.fi##TD[style="vertical-align: top; text-align: center;"]
@@ -2137,7 +2134,6 @@ sportsacademy.fi##.banner
 sportti.com###kontti
 sportti.com###panorama_container
 sportti.info###zone-right
-sporttimedia.fi###mainoskaruselli
 sporttisaitti.com##TD[width="160"]
 ssl.fi##TABLE.tableborder
 ssl.fi##TD[align="center"]
@@ -2234,8 +2230,6 @@ taivassalo.fi##TD[style="padding-bottom: 20px;"]
 takaisintoimeen.fi##.aff
 takilta.fi##TD A > IMG
 takku.net##.block-box-left A > IMG
-taksifoorumi.fi###ylamainos
-taksikuski.net##.mainospaikka > *
 tallukka.fi##UL.fpbanners IMG
 taloforum.fi##CENTER
 talotekniikka-lehti.fi##.index_mainosbanneri
@@ -2282,7 +2276,6 @@ tankkaus.com##TD.footer
 tanssi.fi###footer_layer
 tanssipelit.fi##.center
 tanssiurheilu.fi##.paasivu_banneri
-tanssiurheilu.fi##TD.mainoslaatikko
 tapahtumainfo.fi###header > A
 tapahtumaopas.fi###hdr_container
 tapahtumaopas.fi##IMG[style="margin-left: -4px;"]
@@ -2300,7 +2293,6 @@ tasa-arvoklinikka.fi##DIV[style="text-align: center;"]
 tasa-arvoklinikka.fi##P[align="center"]
 taskumuro.com###tmnostoboksi
 taskumuro.com###uranus-feed
-taskumuro.com##.keskimainos
 taskumuro.com##.om-magazines
 taskumuro.com##IMG[style="margin:0 auto;display:block"]
 tasna.fi###yhteistyossa
