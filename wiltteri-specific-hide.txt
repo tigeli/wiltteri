@@ -228,6 +228,7 @@ digitoday.fi##div[class="ad"]
 digitoday.fi##div[class="taloussanomat-headlines"]
 digivideo.fi##P[style="text-align: center;"]
 djay.fi###banneri
+docpoint.info##.maino
 dome.fi##.om-magazines
 dubliner.fi###banneri
 duoduo.fi##img[src$="/933345_orig.gif"]

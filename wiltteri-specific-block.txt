@@ -199,6 +199,7 @@
 ||digitoday.fi/uutisikkuna.php
 ||digivideo.fi/files/mainostajat/
 ||diilit.com/*_spot.html
+||docpoint.info^*/maino/
 ||dome.fi/headlines$third-party
 ||dreamnet.fi/vps/images/*banner
 ||dumppi.fi/images/banners/
