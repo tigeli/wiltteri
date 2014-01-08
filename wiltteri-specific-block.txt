@@ -1450,6 +1450,7 @@
 ||talousverkko.fi/images/banner
 ||tammerfest.fi/*/img/bannerit/
 ||tampereairshow.fi/general/banners/
+||tamperefilmfestival.fi^*/banners/
 ||tamy.fi/fi/images/banners/
 ||tangomarkkinat.fi/images/org/
 ||tappara.fi/liiga/images/stories/artikkelit/yhteistyo/
@@ -1468,6 +1469,7 @@
 ||terve.fi/sites/default/files/styles/logo-stripe/public/media/
 ||testamentti.fi/*.swf
 ||tevari.fi/*_logo.jpg
+||tff.fi^*/banners/
 ||thaiklupi.fi/images/banner
 ||thaimaahan.fi/kuumatad.gif
 ||thaimaalainen.com/Bannerit/
