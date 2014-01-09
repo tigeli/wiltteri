@@ -26,9 +26,7 @@
 ||aarre.fi/TUOT/banneri/
 ||abcasemat.fi/ads/
 ||acoulu.faarao.org/files/images/bannerit/
-||acoulu.faarao.org/files/images/yhteistyossa/
 ||acoulu.fi/files/images/bannerit/
-||acoulu.fi/files/images/yhteistyossa/
 ||adcampaigns.sharewood.org^
 ||adhost.telkku.com^
 ||adoptioperheet.fi/banner
@@ -46,7 +44,6 @@
 ||alppipuistonkesa.info/templates/alppipuisto/images/alakukka3.jpg
 ||aluelehtisaimaa.fi/banners/
 ||alueviesti.fi/files/*banner
-||alvettula-futis.info/images/stories/sponsorit/
 ||alypaa.com/banner/
 ||alypaa.com/cm8space_call.js
 ||ammattinyrkkeily.net/images/selkaklinikka_head.gif
@@ -183,7 +180,6 @@
 ||curling.fi/files/bannerit/
 ||danceinfo.fi/assets/Bannerit/
 ||data-systems.fi/bannerit/
-||deifestival.fi/yhteistyokumppanit/
 ||deittisirkus.com/image/cache/data/*-980x200
 ||delicard.fi/bilder/*banner
 ||designdistrict.fi/files/district/banneri/
@@ -256,14 +252,11 @@
 ||fast.fi/pakkotoisto
 ||fauna.fi/images/banners/
 ||fbtpori.fi/etusivusponssi*.asp
-||fbtpori.fi/images/sponsorit/
 ||fchaka.fi/images/*banner
-||fchik.fi/sponsorit/
 ||fclahti.fi/uploads/images/banners/
 ||fctps.fi/files/sponssit
 ||feed.etuovi.com/tabbedbanner/
 ||ferratum.fi/gfx/banners/
-||festival.fi/sponsorit/
 ||festivals.fi/kuvat/yhteistyokumpp_tunnukset2.gif
 ||fga.fi/images/partners/
 ||fi-reggae.com/kamppikset/
@@ -282,7 +275,6 @@
 ||finbelge.fi/kuvat/logo*.gif^
 ||finlandiaseura.com^*/loggor/
 ||finnboat.fi/img/linked/
-||finnhitsfest.com/kuvat/sponsorit/
 ||fintoto.fi/images/*/linkki
 ||firmarock.fi^*/sponsors/
 ||fitnesstukku.fi/bilder/*/bannerar*/
@@ -317,7 +309,6 @@
 ||fuengirola.fi/sites/default/files/*banner
 ||futuuriry.net/images/kylterinet.gif
 ||fvwa.fi/images/banners/
-||fyysikkokilta.fi/images/sponsorit/
 ||gastronautti.fi/ad
 ||genealogia.fi/images/banners/
 ||geocache.fi/images/Garmin_logo_p2.png
@@ -389,7 +380,6 @@
 ||himosfestival.com/images/stories/yhteistyo/
 ||himosmaailma.fi/images/banners/
 ||himosnews.com/images/banner
-||himostanssijat.fi/files/himostanssijat.palvelee.fi/Yhteistyokumppanit/
 ||himosteatteri.fi/images/logo
 ||hinku.net/Portals/*/Kuvat/*banner
 ||hintakeisari.fi/kampanjat/
@@ -423,7 +413,6 @@
 ||huumaa.net/images/banners/
 ||hymy.fi^*/bannerit/
 ||hyria.fi/files/*/textsize/
-||hyvari.com/images/sponsorit/
 ||hyvasanomapalvelut.fi/filebank/*aikamedia
 ||hyvasanomapalvelut.fi/filebank/*netmission
 ||hyvinkaantahko.fi/*banner
@@ -433,8 +422,6 @@
 ||ibbf.fi/images/*banner
 ||iesaf.fi/sauna/images/banners/
 ||ihmisoikeusliitto.fi/images/banners/
-||iitinmusiikkijuhlat.net/sponsorit/
-||ilkka.fi/img/yhteistyossa.gif
 ||ilmajoki.fi/Kuvat/*banner
 ||ilmajoki.fi/logomme*.jpg
 ||ilmasto.org/media/ilmastosivut/
@@ -449,9 +436,7 @@
 ||iltapulu.fi/ads/
 ||iltapulu.fi^*/klikklik.png
 ||iltapulu.fi^*/nebula_footer.png
-||ilves.com/gfx/yhteistyokumppanit/
 ||ilves.com/wp-content/themes/ilves_new/gfx/banneri/
-||ilves.com/wp-content/themes/ilves_new/gfx/sponsorit/
 ||im.ido24.com/images/banner/
 ||images-0-goottinet.bojv.net/panneri/images/
 ||images.coronaria.fi/8113685.jpg
@@ -504,7 +489,6 @@
 ||jazzrytmit.com/images/banners/
 ||jklpaviljonki.fi/finnmateria20*/logot_yht_tyo
 ||joensuunkataja.fi/katajabasket/images/bannerit/
-||joensuunkataja.fi/katajabasket/kuvat/sponsorit/
 ||joensuunmaila.fi^*/ythkumppanit/
 ||joensuunpalloseura.fi/images/neton.jpg
 ||jokerit.*/banner/
@@ -616,7 +600,6 @@
 ||kirkkojakaupunki.fi/kuvat/*banneri
 ||kirkkojakaupunki.fi/kuvat/verkkokirkko.gif/image
 ||kirkkojakaupunki.fi/kuvat/yhtyma.jpg/image
-||kirmot.net/images/sponsorit.jpg
 ||kissaliitto.fi/images/*banner
 ||kissaliitto.fi/tiedostot/*logo
 ||kissaliitto.fi/tiedostot/banneri
@@ -672,7 +655,6 @@
 ||kuna.fi/files/keuna.com.kotisivukone.com/kuvat/nal_logot_ilman_leimaa.jpg^
 ||kunnossa.fi/gfx/logo-footer.png
 ||kuopionsuunnistajat.fi/images/banners/
-||kuopiorock.com/img/yhteistyossa/
 ||kuopiowinefestival.com/2010/kuvat/smatkat_viini
 ||kups.fi^*/Bannerit/
 ||kurikka.fi/files/Kuvitus/kurikka-banneri
@@ -690,7 +672,6 @@
 ||kyydit.net/flash/
 ||kyydit.net/images/partners/
 ||kyytipoika.com/main/images/banners/
-||laajasalonpalloseura.fi/kuvat/sponsorit/
 ||laakeinfo.fi/images/banners/
 ||laatukontaktit.fi/*_885x100.
 ||laatulehdet.net/images/logot/
@@ -714,7 +695,6 @@
 ||ldh.fi/images/lnk
 ||leatherheaven.com/editor_files/image/2012/*banner
 ||lehpa.com/images/Flash/
-||lehpa.com/images/sponsorit/
 ||lehtiluukku.fi/flash/*banner.swf
 ||lehtitori.fi/bannerit/
 ||leikkiluola.fi/gfx/kumppani
@@ -740,7 +720,6 @@
 ||like.fi/sites/default/files/imagecache/oikean_laidan_nosto/
 ||lil.fi/images/banners/
 ||lilith.fi/images/sponsori_logot/
-||linkkijkl.fi/modules/sponsorit/
 ||linnanmaki.fi^*/etusivu-tukijat.
 ||linssit.net/img/halvatnet.gif
 ||lintukuva.fi/birdlife.jpg
@@ -778,7 +757,6 @@
 ||lusto.fi/resources/Image/bannerit/
 ||lynxnet.fi/data/banners/
 ||maailma.net/files/images/*banner
-||maailmakylassa.fi/sites/www.maailmakylassa.fi/tiedostot/kuvat/yhteistyokumppanit/
 ||maailmankaupat.fi/kirahvi/kuvat/bannerit/
 ||maallemuutto.info/Bannerit/
 ||maanystavat.fi/cms/images/banners/
@@ -787,7 +765,6 @@
 ||mainosmittari.fi^$third-party
 ||maitolaituri.tv/images/banners/
 ||maksuton*sanakirja.*/img/nebula.jpg
-||makuja.fi/sponsorit/
 ||makuuni.fi/*/images/bannerit/
 ||malisilla.fi/images/*banner
 ||mallit.fi/images/banner
@@ -868,7 +845,6 @@
 ||mtv3.fi^*/EAS_redirect.js
 ||mtvkatsomo.fi/multimedia/template/images/teevee/
 ||mtvmedia.fi/eas?
-||mukavahanke.com/sponsorit/
 ||muksutmukana.fi/banners/
 ||murobbs.muropaketti.com/campaigns/
 ||murobbs.muropaketti.com/images/uranus/
@@ -943,7 +919,6 @@
 ||nettivaraosa.com/vifBoxBanner.html
 ||netville.fi^*/logo-espedesign-180x180.jpg
 ||nimenhuuto.com/banners/
-||nokian-krp.com/sponsorit/
 ||nokianuutiset.fi^*/alma_init_cjs.js
 ||nokianuutiset.fi^*/meedio_nokian_uutiset.js
 ||nokianuutiset.fi^*/mpbanner/
@@ -955,7 +930,6 @@
 ||nummi-pusula.fi/Bannerit/
 ||nummirock.fi^*/bannerit/
 ||nuortenhyvaksi.fi/*/kumppanit.png
-||nups.fi^*/Sponsorit/
 ||nupshockey.fi^*/banners/
 ||nurmeksenelokuvajuhlat.fi^*/yhteistyobanneri2012_
 ||nutriciababy.fi/bannerit/
@@ -977,7 +951,6 @@
 ||opinovi.fi/images/stories/logo/logo_vipuvoimaa_eu
 ||opiskelijantampere.fi/bannerit/
 ||opko.fi/images/banners/
-||ops.fi/image.php?src=/assets/site/images/yhteistyokumppanit/
 ||osku.info/images/*banner
 ||ostayritys.fi/templates/header_images/ostayritys_vaaka.swf
 ||otavafiles.fi^*/ilmoitus_bg.
@@ -1014,7 +987,6 @@
 ||pelicans.fi/sites/www.pelicans.fi/themes/pelicans/images/logo*.png^
 ||pelikone.fi/embed/
 ||pelikone.fi/widget/iframe?
-||peliplaza.fi^*/sponsorit/
 ||peliveljet.com/images/*banner
 ||pellervo.fi/animaatiot/
 ||pelletti.org/images/nyberg.png
@@ -1192,7 +1164,6 @@
 ||ringsidegolf.fi/gfx/logos/
 ||riverball.fi/images/iss_logo.gif
 ||riverball.fi/images/Puma.gif
-||rock.fi/sponsorit/
 ||roi-press.mainostaja.com./images/ccdate-140x300.gif
 ||rokkizine.fi/bannerit*/
 ||rops.fi^*/pjmr.swf
@@ -1208,7 +1179,6 @@
 ||rukaslalom.fi/images/stories/rukapyhalogo_rgb.png
 ||rumba.fi/kuvat/tausta
 ||runnersmagazine.fi/images/banners/
-||runolaulu.fi/sommelo/images/yhteistyokumppanit.jpg
 ||ruokaohje.fi/ban*/
 ||rytmi.com/kuvat/tausta
 ||s-kanava.*/getbinary?siteId=1&src=/kuvat/kuvapankki/bannerit/
@@ -1221,7 +1191,6 @@
 ||saiko.fi/images/banners/
 ||saimaatours.fi/images/*banner
 ||saimaavolley.fi/uploads/images/bannerit/
-||saimaavolley.fi/uploads/images/yhteistyossa/
 ||saipa.fi/templates/saipa/images/2012/sponsor_logos/
 ||saituri.org/wp-content/uploads/*/Kiva_logo.
 ||sajl.fi/@Bin/30
@@ -1232,7 +1201,6 @@
 ||salonklipsi.fi/templates/salonklipsi2/images/partner_
 ||salsa.fi/images/
 ||salsapasion.net/images/stories/bannerit/
-||samba.fi/images/yhteistyossa/
 ||sambic.com/images*/*logo
 ||samok.fi/images/stories/bannerit/
 ||sana.fi/data/kuvat/cache/*180x.
@@ -1513,14 +1481,12 @@
 ||tuska-festival.fi^*/banners/
 ||tutti.fi/yhteis_kuva.jpg
 ||tuuli.net/hopt/banneri.gif
-||tuuli.net/yhteistyokumppanit/
 ||tuulivoimayhdistys.fi/sites/www.tuulivoimayhdistys.fi/files/etusivunlogot
 ||tuurinkonehuutokauppa.com/images/stories/kumppanit/
 ||tuusniemi.fi/images/*banner
 ||tuusniemi.fi/images/logo
 ||twami.com^$script,domain=tieku.fi
 ||tvshop.com/WMS/Upload/BannerImages/
-||tyosuhdepyora.fi/images/yhteistyossa.png^
 ||tyoterveyskirjasto.fi/sovellukset/tk/img2/*logo
 ||tyrvaansanomat.fi^*/alma_init_cjs.js
 ||tyrvaansanomat.fi^*/meedio_tyrvaan_sanomat.js
@@ -1549,7 +1515,6 @@
 ||urheiluveikkaus.com/images/40/
 ||urhoklubi.net/images/ban
 ||urhotv.fi/templates/URHO_template/flash/
-||urps.fi^*/sponsorit.jpg
 ||urps.fi^*/yhteisty%C3%B6kumppanit13.jpg
 ||usasuomeksi.com/Askuvat/*banner
 ||usasuomeksi.com/Uutiskuvat/*banner
@@ -1604,7 +1569,6 @@
 ||veikkausliiga.com/images/bannereita/
 ||veikkaussivut.com^*/Bannerimainos-kuvat/
 ||veikkaussivut.com/uploads/layout/kolikkopelit.jpg
-||veitera.fi/sponsorit/
 ||venemaailma.fi/data/bannerit/
 ||venepalsta.com/bannerit/
 ||veripalvelu.fi/uploads/Image/bannerit/
@@ -1630,7 +1594,6 @@
 ||viitakko.com/images/stories/atv-kumppani.jpg
 ||vikakerta.fi/grafiikat/banner/$third-party
 ||villikihara.fi/cat/banners/
-||vimpelinveto.fi/images/stories/sponsorit/
 ||vino.fi/kuvat/*banneri*.jpg
 ||vippivertailu.com/graffa/*.swf
 ||virtasenkauppa.fi/kuvat/tarvikekauppa.jpg^
@@ -1697,7 +1660,6 @@
 ||yrittajan.net/images/banners/
 ||yrityskaupat.net/banners/
 ||yrityskuvalehti.com/style/images/banners/
-||yritysopas.com/img/yritysopas/yhteistyokumppanit/
 ||yrityssastamala.fi/images/vasen
 ||ytk-yhdistys.fi/kuvat/lahivakuutus.jpg
 ||ytk-yhdistys.fi/kuvat/YTK-Y-banner.gif

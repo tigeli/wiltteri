@@ -11,6 +11,11 @@
 ###mainoslaatikko
 ###mainospaikka
 ###mainostila
+###sponsori
+###sponsorit
+###yhteistyokaruselli
+###yhteistyokumppanit
+###yhteistyossa
 ###ylamainokset
 ###ylamainos
 ##.keskimainos
@@ -25,5 +30,10 @@
 ##.mainoslaatikko
 ##.mainospaikka
 ##.mainostila
+##.sponsori
+##.sponsorit
+##.yhteistyokaruselli
+##.yhteistyokumppanit
+##.yhteistyossa
 ##.ylamainokset
 ##.ylamainos

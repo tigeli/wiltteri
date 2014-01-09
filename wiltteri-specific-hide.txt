@@ -81,7 +81,6 @@ apteekit.org###bannerit1p
 apteekkituotteet.fi##.CategoryList > CENTER
 apteekkituotteet.fi##.NavigationText.NavBarElement4
 arcticgym.fi###sidebar > A > IMG
-arenacenter.fi##.yhteistyokumppanit
 arkisto.sydanliitto.fi###banners_small
 aromilehti.fi##.partner-top-wrapper
 aromilehti.fi###banners-left
@@ -158,7 +157,6 @@ blogilista.fi##.is-navi-container
 blogit.fi##a[href^="http://tracking.euroads.fi"]
 blues-finland.com##TABLE[width="142"] TD > A > IMG
 blues.fi###partners2
-blues.fi###yhteistyokumppanit
 bluesnews.fi##th[width="145"] p.style29
 bluesnews.fi##th[width="145"] a[target="top"]
 bluesnews.fi##th[width="366"] hr:last-of-type + p.style15
@@ -405,7 +403,6 @@ finnexpo.fi##TABLE.tblBottomBanner
 finnishcanadian.com##.xj_sidebar_content img.align-center
 finthai.net##P[style="text-align: center;"]
 fixgalleria.net##.layout_frame_lb + DIV
-flamenco.fi###sponsori
 flamenco.fi###sponsoriasiakastieto.fi
 flightforum.fi##.MainFooterBanner2
 flightforum.fi##.signature > A > IMG
@@ -485,7 +482,6 @@ hangup.fi###mainos_block
 hangup.fi###mainospaikat_top
 hansaprint.fi###footerlinks + *
 happee.fi##.moduletable_linkit
-happee.fi##.sponsorit
 happee.fi##.video
 hardware.fi##.advertisement
 harkaviikot.fi###footer
@@ -541,7 +537,6 @@ hifimaailma.fi##.banner2
 hifimaailma.fi###sidebarBanners
 hifitalo.fi##TD.sisalto > H1[align="right"]
 hifksoccer.fi###banneripalsta
-hifksoccer.fi###sponsorit
 hiidenkivi-lehti.fi##IMG + BR + A > IMG
 hiihtoliitto.fi##.banner
 hikingtravelhit.fi##.style10
@@ -766,7 +761,6 @@ jurassicrock.fi##img[usemap*="sponssit"]
 jutajaiset.fi##.shadow
 jymy.net##.div_advert300
 jymy.net##.div_blackbox650 + DIV.div_blackbox650
-jypliiga.fi##.sponsori
 jypliiga.fi###front_mini_ads
 jypliiga.fi###partnerit
 jyrock.fi###col-main-2
@@ -938,7 +932,6 @@ kilpailumaailma.fi##img[src^="lastenleffat"]
 kilpailumaailma.fi##img[src^="seiska"]
 kilpailumaailma.fi##img[src^="sisters"]
 kingpart.fi##P.style7[align="left"]
-kinolokakuu.com###sponsorit
 kipa90.com##.sponsor-slider
 kipa90.com##a[href^="https://www.veikkaus.fi/info/pmu/index.html?myPartnerId="]
 kippis.fi###sidebar
@@ -1038,7 +1031,6 @@ koululainen.fi###bannersright
 koululainen.fi##.om-magazines
 koulutus.fi##.ContentColumnAds
 koulutus.msn.fi##.parent.chrome29.single1.editorschoice.customcontainer.black LI.last
-kouvolanpallonlyojat.fi###yhteistyokaruselli
 kouvolansanomat.fi##.banner_top
 kouvolansanomat.fi##.tsFrameContainer
 kp24.fi##.perusblokkisisaltoAd
@@ -1268,7 +1260,6 @@ luottamus.fi##P[align="left"]
 luovatampere.fi##.contact > IMG
 luovatampere.fi##.tsi_bannerslot.tsi_bannerslot_2
 lupiini.com##CENTER
-luuppi.fi##.sponsori
 luuri.com##TABLE + * + *
 luvy.fi##.right_logo
 lykky.fi###footer
@@ -1409,7 +1400,6 @@ mpc.fi##.crossPromoWrapper
 mpc.fi##.samBanner
 mpc.fi##.samTop
 mpc.fi##.uratie_box
-mpifinland.org###sponsorit
 mtgsuomi.fi###sponsors
 mtv.fi##.ad
 mtv.fi##.mainos-text
@@ -1474,7 +1464,6 @@ naimisiin.info##TD + TD > A > IMG
 naimisiin.info##TD + TD > IMG
 naimisiin.info##TD[width="130"] > A > IMG
 naisfutis.net##.bannergroup
-naistenkymppi.fi###sponsorit
 naisyrittajyyskeskus.fi###vvnavi + DIV
 nal.fi##img[src$="/ray_tukee.jpg"]
 nam.fi##TD[style="text-align: center;"]
@@ -1583,7 +1572,6 @@ nuoretkotkat.fi##P[align="center"] + P[align="center"] IMG
 nuorikulttuuri.fi##.bannerstripe
 nuorisoasunnot.fi##.selector
 nuorisoseurat.fi##TR + * + TR + * + * > TD
-nuorisuomi.fi###sponsorit
 nuoriteatteri.com##DIV[style="padding-left: 15px;"]
 nuoriyrittajyys.fi##.left > DIV.moduletable + DIV.moduletable
 nuortenlaturi.fi##.xmldoc + DIV.xmldoc
@@ -1645,7 +1633,6 @@ ounasvaara.fi##DIV[style="text-align: center;"]
 outokummunkaupunki.fi##DIV[align="center"]
 overdrive.fi###banneri
 overdrive.fi###oikea
-ovv.com##.yhteistyokumppanit
 ovv.com###bcenter > DIV[align="center"]
 paakaupunkijuoksu.fi###zone-right
 paasykoekirjat.fi##.NavigationText.NavBarElement4
@@ -2081,7 +2068,6 @@ sjal.fi##IMG[src="/@Bin/126225/eerikkila.jpg"]
 sjl.fi##TD[width="160"]
 skidiviihde.fi##.alapalkki
 skidiviihde.fi##TD.sisalto_oikea
-skisaariselka.fi###yhteistyossa
 skp.fi##TD[colspan="14"]
 sksl.fi##p[align="center"] > a[target="_new"] > img
 sktl.fi###content-right .banner
@@ -2154,7 +2140,6 @@ sukol.fi##IMG[src="files/1384/204/Educa.jpg"]
 summerup.fi###oikea_sisalto_yhteistyokumppanit
 sunlahti.fi##td[height="150"][bgcolor="#FFFFFF"]
 sunlight.fi###linkit
-sunpampas.fi###sponsori
 sunsali.net##TABLE + BR + DIV[align="center"]
 suntuubi.com##DIV[onclick="location.href='http://sa.suntuubi.com/sa/w/d/ck.php?oaparams=2__bannerid=130__zoneid=3__cb=501731c24e__oadest=http%3A%2F%2Fwww.suntuubi.com%2F%3Fnewspage%3D173';"]
 suntuubi.com##DIV[style="border: 1px solid blue; background: rgb(255, 255, 255) url(http://sa.suntuubi.com/sa/www/images/suntuubilogo14.png) no-repeat scroll right bottom; overflow: hidden; width: 140px; text-align: left ! important; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; padding-bottom: 5px;"]
@@ -2177,7 +2162,6 @@ suomentanssistudiot.fi##IMG.banner
 suomentivoli.fi##TD > P[style="text-align: center;"]
 suomentule.fi##img[src$="/RAY_Tukee.jpg"]
 suomenurheilugaala.fi###logot
-suomenurheilugaala.fi##TABLE#yhteistyossa
 suomenviihderavintolat.fi###banner2
 suomenyritykset.fi###almalogo
 suomi-seura.fi##NOLAYER
@@ -2221,7 +2205,6 @@ sysmansuvisoitto.com###footer2
 tackla.fi##BR + BR + * > IMG
 tackla.fi##TD.left_marginaali + TD > A > IMG
 tahko.com##div[style$="border-color: #efefef; border-style: solid; border-width: 1px;"]
-taidekouluestradi.fi##.sponsorit
 taikahanke.fi##TR + * TABLE[border="0"]
 taimiry.fi##img[src$="/RAY_tukee.png"]
 taito.fi###colbottom
@@ -2295,7 +2278,6 @@ taskumuro.com###tmnostoboksi
 taskumuro.com###uranus-feed
 taskumuro.com##.om-magazines
 taskumuro.com##IMG[style="margin:0 auto;display:block"]
-tasna.fi###yhteistyossa
 teatterihelsinki.fi##DIV[align="center"] + * + * + * + * + * + P
 teatterisoittorasia.com###osa
 teatteritakomo.fi##TD[width="609"] > IMG
@@ -2485,7 +2467,6 @@ usasuomeksi.com##img[width="234"]
 uskalla.fi##.tukijat
 usp.fi###banneri
 utbildning.se##.ContentColumnAds
-uudenmaankokoomusnuoret.fi###yhteistyossa
 uusifuengirola.fi##.spacer
 uusikaupunki.fi###ukifi-yritys-logot
 uusikaupunki.fi##NOBR

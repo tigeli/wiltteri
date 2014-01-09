@@ -14,5 +14,14 @@
 /mainoskaruselli.
 /mainoskaruselli/*
 /mainoskaruselli_
+/sponsorit.
+/sponsorit/*
+/sponsorit_
+/yhteistyokumppanit.
+/yhteistyokumppanit/*
+/yhteistyokumppanit_
+/yhteistyossa.
+/yhteistyossa/*
+/yhteistyossa_
 _mainos.
 _mainosnappi.
