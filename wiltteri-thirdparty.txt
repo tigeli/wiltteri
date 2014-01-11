@@ -29,7 +29,7 @@
 ||tracking*.euroads.fi^$third-party
 ||userneeds.dk^$third-party
 ! Sanoma
-||cts.sanoma.fi^
+||cts.sanoma.fi^$domain=~radiosuomipop.fi
 ||ko.snstatic.fi^
 ||snstatic.fi^*/ads/
 ||snstatic.fi^*/sanoma_bt.js
