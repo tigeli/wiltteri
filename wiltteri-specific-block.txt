@@ -246,6 +246,7 @@
 ||f1-forum.fi/banner
 ||f1-forum.fi^*/*banner
 ||faces.fi/sumuSHOP/kuvat/yhteistyokumppanit
+||fantasiapelit.com/sotavasara/$subdocument
 ||farkku.com/idevaffiliate/banners/
 ||farmit.net/farmit/kuvat/Bannerit/
 ||fast.fi/images/stories/banner
