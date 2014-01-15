@@ -1568,6 +1568,7 @@
 ||vegaaniliitto.fi/kuvat/valitesevegebanneri.jpg
 ||veikkaus.fi/edunsaajamittari/
 ||veikkaus.fi/edunsaajat/$third-party
+||veikkausliiga.com^*/veikkausliiga_sponsors_
 ||veikkausliiga.com/images/bannereita/
 ||veikkaussivut.com^*/Bannerimainos-kuvat/
 ||veikkaussivut.com/uploads/layout/kolikkopelit.jpg

@@ -2533,6 +2533,7 @@ vauvapiste.fi##P > BR + * + * + * + * IMG
 veekasi.net##TD[align="right"]
 veevee.info##IMG[style="border: medium none;"]
 veikkaus.org###rightcollumn
+veikkausliiga.com##.banner_bg
 veikkausliiga.com##.partnerbar > IMG
 veikkausliiga.com##.rightsidecontainer
 veikkaussivut.com##.banner-click
