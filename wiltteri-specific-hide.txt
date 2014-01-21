@@ -1879,6 +1879,9 @@ rantajatkat.fi###mainoslinkit_oikea
 rantapallo.fi###car-suppliers
 rantapallo.fi###logot
 rantapallo.fi###navinmainos2
+rantapallo.fi###shopbop-core-widget
+rantapallo.fi###sidebanners
+rantapallo.fi###sivubannerit
 ranua.fi##IMG[width="200px"]
 raumalainen.fi###footerBannerBox DIV.view-content
 raumanlukko.fi##.sb-sisalto-oikea a[target="_blank"] > img
