@@ -1617,6 +1617,7 @@ orivedenponnistus.fi##DIV[align="center"]
 ort.fi###BannersLeft
 oskut.fi##TABLE[cellspacing="8"][cellpadding="0"]
 oslalive.fi###footer
+ostohyvitys.fi###retailersdiv
 ostayritys.fi##TD.oikeareunamainokset
 otava.fi##div[class^="lift forbanner"]
 ougf.fi###footer-inner
