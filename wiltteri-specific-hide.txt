@@ -1956,6 +1956,8 @@ runtoshop.fi###fpwidget
 runtoshop.fi##DIV[style="width: 238px; border: 1px solid rgb(150, 163, 193); text-align: center; padding: 5px;"]
 ruoka.fi##.om-magazines
 ruokala.net###hdr_container
+ruokalistat.net##.lv-border
+ruokalistat.net##.mustareuna tr:first-child > td:last-child
 ruokamenot.fi##.banneritem
 ruokaohje.fi##DIV[style="border: 3px solid rgb(255, 255, 255);"]
 ruotsinsuomalainen.com##P > A > IMG
