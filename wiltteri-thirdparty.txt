@@ -4,9 +4,11 @@
 ||aller.fi/banner/$third-party
 ||almamedia.fi/mp/$subdocument
 ||autotalli.com/externalquicksearch?$subdocument
+||autotalli.com^*/htmlbanners/$subdocument
 ||bmm.fi^$third-party
 ||eas.almamedia.fi^
 ||etuovi.com/etuovi/flash/*_300x355.swf
+||etuovi.com^*/htmlbanners/$subdocument
 ||iltalehti.fi/nostot/$subdocument
 ||iltalehti.fi/uutisboksi/$subdocument
 ||kauppalehti.fi/asc/$subdocument
