@@ -454,6 +454,7 @@ glanspower.fi##TD.bottom
 globalplatform.fi###block-views-Bannerit
 gloria.fi###footerContent
 goldenring.fi##DIV[align="center"] + * > P
+golf.fi##.banner-content-area
 golf.fi##.footer-logos
 golf.fi##div[id*="banner"]
 golfcenter.fi###extramainos
