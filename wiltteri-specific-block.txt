@@ -1431,6 +1431,7 @@
 ||teatterikesa.fi^*/footerRoller.js
 ||teivonravit.fi/banner/
 ||telkku.com^*/images/nostot/
+||tennis.fi^*/img/sitebanner/
 ||tenojoki.fi/tenopaasivut/images/logot/
 ||terassilehti.fi/images/stories/*banner*/
 ||terminfo.fi/media/ban_

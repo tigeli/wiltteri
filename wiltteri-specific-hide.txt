@@ -2318,6 +2318,9 @@ telvis.fi##.fullad-wide
 telvis.fi###adsjatti
 telvis.fi###adstaulu
 telvis.fi##div[class^="fullad"]
+tennis.fi##.banneripaikka_top
+tennis.fi##a[href*="?snb_adname="]
+tennis.fi##div[style="position:absolute;top:100px;right:-160px;z-index:50;"]
 tepsilaiset.net###footerRight
 tepsilaiset.net###linkit
 terassisaa.fi###newsbox
