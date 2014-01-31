@@ -400,6 +400,7 @@ finnboat.fi###porri
 finnboat.fi###vasenmenuspacer > center > p > a > img
 finnbody.com##TD[align="center"] > A > IMG
 finnexpo.fi##TABLE.tblBottomBanner
+finnhandball.net##.sponssi-wrap
 finnishcanadian.com##.xj_sidebar_content img.align-center
 finthai.net##P[style="text-align: center;"]
 fixgalleria.net##.layout_frame_lb + DIV

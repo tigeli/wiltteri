@@ -274,6 +274,7 @@
 ||finanssi.org/cms/images/logot/
 ||finanssi.org/kilta/grafiikka/*.gif
 ||finbelge.fi/kuvat/logo*.gif^
+||finnhandball.net/wp-content/uploads/*_banner_
 ||finlandiaseura.com^*/loggor/
 ||finnboat.fi/img/linked/
 ||fintoto.fi/images/*/linkki
