@@ -5,6 +5,7 @@
 @@||feissarimokat.com^*/advertisement.js
 @@||fusion.adtoma.com/script.js$domain=findance.com
 @@||moontv.fi/bannerit/fb_banneri.jpg
+@@||murobbs.plaza.fi^*/adfr.js
 @@||murobbs.plaza.fi^*/adframe.js
 @@||murobbs.plaza.fi^*/advertisement.js
 @@||muropaketti.com^*/adframe.js
