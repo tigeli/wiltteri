@@ -472,6 +472,7 @@ granada.fi##TD[valign="top"][align="center"]
 greenriders.com##.logos
 greenriders.fi##.ads
 greenriders.fi###partners
+groovefm.fi##.ad
 haapavesifolk.com##TD.tdmainos
 haastaitsesikunnolla.fi##TD[align="center"] IMG
 haatjajuhlat.fi###listBanner
