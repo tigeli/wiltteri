@@ -12,6 +12,7 @@
 ||etuovi.com^*/htmlbanners/$subdocument
 ||iltalehti.fi/nostot/$subdocument
 ||iltalehti.fi/uutisboksi/$subdocument
+||jdn.monster.com/render/$subdocument,third-party
 ||kauppalehti.fi/asc/$subdocument
 ||kauppalehti.fi^*/nosto/index.jsp$subdocument
 ||kauppalehti.fi^*/nostolaatikko.jsp$subdocument
