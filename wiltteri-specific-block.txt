@@ -430,6 +430,7 @@
 ||ilmatieteenlaitos.fi/img/banners/$image,match-case
 ||ilmis.net/img/nebula.jpg
 ||ilmis.org/img/nebula.jpg
+||ilmoituskone.mtv.fi^$subdocument
 ||ilmonet.*/ilmo/VAADIN/themes/pks-theme/img/toimittajalogo
 ||ilonpolku.fi/kauppa/logos/logot
 ||ilosaarirock.fi^*/banners/
