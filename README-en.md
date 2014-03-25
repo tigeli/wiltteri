@@ -24,5 +24,5 @@ or install both lists as separate subscriptions
 Development
 -----------
 
-* Suggestions and issues: [GitHub Issues](https://github.com/wiltteri/wiltteri/issues) or using [other contact methods](http://wiltteri.net/contact/).
+* Suggestions and issues: [wiltteri.net/contact](http://wiltteri.net/contact/).
 * Website: [wiltteri.net](http://wiltteri.net/)

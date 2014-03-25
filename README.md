@@ -24,5 +24,5 @@ tai kumpikin lista erikseen
 Kehitys
 -------
 
-* Lisäykset, muutokset ja parannusehdotukset listaan: [GitHub Issues](https://github.com/wiltteri/wiltteri/issues) tai [muilla yhteydenottotavoilla](http://wiltteri.net/contact/).
+* Lisäykset, muutokset ja parannusehdotukset listaan: [wiltteri.net/contact](http://wiltteri.net/contact/).
 * Verkkosivusto: [wiltteri.net](http://wiltteri.net/)
