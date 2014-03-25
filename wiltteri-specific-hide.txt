@@ -44,6 +44,8 @@ alueviesti.fi##.textwidget > a[target="_blank"] > img
 alueviesti.fi###above-everything
 alypaa.com##div:first-child:last-child > div:first-child + div:last-child > a
 alypaa.com##LI.right-col-box.ad
+ammattiautot.fi###top-banner-wrapper
+ammattiautot.fi##.banners
 ammattilehti.fi##.bannerbox
 ammattinetti.fi###promoContent
 amoriini.com##.newspadding IMG
