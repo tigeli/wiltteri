@@ -2581,6 +2581,8 @@ vihreatehdokkaat.fi###banneri
 vihreatnaiset.fi###banneri
 viihde.fi.msn.com##.parent.chrome25.single1.customcontainer.black DIV.mycontent
 viihteelle.com###sponsorad
+viikonloppu.com###content-right > h2:last-of-type
+viikonloppu.com###content-right > h2:last-of-type + a
 viikonloppu.com###content-right a[target="_blank"] > img
 viikonloppu.com###footer a[href="http://www.nebula.fi"]
 viikonloppu.com##a[href^="http://www.orkki.org/click_counter.php?"]

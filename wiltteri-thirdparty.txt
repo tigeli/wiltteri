@@ -6,6 +6,7 @@
 ||autotalli.com/externalquicksearch?$subdocument
 ||autotalli.com^*/htmlbanners/$subdocument
 ||bmm.fi^$third-party
+||diilit.com/vkl_video.html$subdocument,third-party
 ||eas.almamedia.fi^
 ||etuovi.com/etuovi/flash/*_300x355.swf
 ||etuovi.com^*/htmlbanners/$subdocument
