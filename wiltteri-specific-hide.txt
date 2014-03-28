@@ -628,7 +628,6 @@ ilmio.fi##.widget
 ilmoitukset.com##TABLE.main_page
 ilmoitukset.com##TD[width="138"]
 ilonpolku.fi##TD.navigation IMG
-ilosaarirock.fi###footerimg
 ilotalo.com##TD[colspan="3"]
 iltalehti.fi###kl_nosto_13
 iltalehti.fi###monsterWrapper

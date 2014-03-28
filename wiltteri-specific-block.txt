@@ -429,8 +429,7 @@
 ||ilmoituskone.mtv.fi^$subdocument
 ||ilmonet.*/ilmo/VAADIN/themes/pks-theme/img/toimittajalogo
 ||ilonpolku.fi/kauppa/logos/logot
-||ilosaarirock.fi^*/banners/
-||ilosaarirock.fi/2013/images/_footer.png
+||ilosaarirock.fi^*/images/_footer.png
 ||iltalehti.fi^*/alma_init_cjs.js
 ||iltapulu.fi/ads/
 ||iltapulu.fi^*/klikklik.png
