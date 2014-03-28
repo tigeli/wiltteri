@@ -920,6 +920,10 @@ kiekkoareena.fi###block-menu-menu-mediavalikko-fi
 kiekkoareena.fi##footer
 kiekkolaser.fi##TD[valign="top"]
 kiekko.tk##.sideBar a[target="_blank"]
+kierratystehdas.fi###logot strong:first-of-type
+kierratystehdas.fi###logot strong:first-of-type + br
+kierratystehdas.fi###logot strong:first-of-type + br + br
+kierratystehdas.fi###logot table
 kihvelisoikoon.com##.sidebar-inner
 kiinnostaakohuumeet.fi###left A > IMG
 kiinteistoliitto.fi##TD.midcolumn

@@ -588,7 +588,6 @@
 ||kesyrottayhdistys.fi/images/banners/
 ||kevyt.net/images/bannerit/
 ||kevyt.net/images/kerta/banner
-||kierratystehdas.fi/wp-content/uploads/2013/02/*160.png
 ||kilometrikisa.fi/assets/files/
 ||kilpailumaailma.fi/kotelo*.png
 ||kilpailumaailma.fi/lasten*.png
