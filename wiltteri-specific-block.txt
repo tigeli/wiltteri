@@ -375,7 +375,7 @@
 ||himos.fi/images/stories/logot/banner-
 ||himosareena.fi/images/stories/banner
 ||himosareena.fi/images/stories/front/banner
-||himosfestival.com/images/stories/yhteistyo/
+||himosfestival.com^*/img/kumppanit.png
 ||himosmaailma.fi/images/banners/
 ||himosnews.com/images/banner
 ||himosteatteri.fi/images/logo

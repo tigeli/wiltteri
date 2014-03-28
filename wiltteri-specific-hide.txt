@@ -544,6 +544,7 @@ hiidenkivi-lehti.fi##IMG + BR + A > IMG
 hiihtoliitto.fi##.banner
 hikingtravelhit.fi##.style10
 hikingtravelhit.fi##.style8
+himosfestival.com##.footer-header
 himosmaailma.fi##iframe[src="http://www.himosmaailma.fi/extra/himosnyt.html"]
 himosresort.fi###footer > #syndicate
 hinku.com##.frontBanner2
