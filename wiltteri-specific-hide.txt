@@ -1788,7 +1788,8 @@ privatehotels.fi##.moduletable_footerleft > p > a > img
 pro-tukipiste.fi##.csc-textpic-imagewrap
 projectia.fi##.box.flagarea
 promosystems.fi###footer_layer
-provinssirock.fi,provinssirock.net###sponsors
+provinssirock.fi##.sponsors
+provinssirock.net##.sponsors
 pudottajat.fi###footer-row3
 pudottajat.fi##UL#footer-row2
 puhelimeni.fi###sidebar > .box:first-child

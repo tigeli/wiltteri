@@ -1070,8 +1070,10 @@
 ||progear.net/skin/frontend/default/progear/images/bottomlogos.gif^
 ||proseniorkummit.fi/images/stories/ET
 ||proseniorkummit.fi/images/stories/varamies
-||provinssirock.fi/images/sponsor_
-||provinssirock.net/images/sponsor_
+||provinssirock.fi/images/sponsor
+||provinssirock.fi/images/*_logo.
+||provinssirock.net/images/sponsor
+||provinssirock.net/images/*_logo.
 ||psyli.fi/banner/
 ||puhdastulevaisuus.fi/media/ulkoasu/bannerit/
 ||puhti.com/kuvat/*banner
