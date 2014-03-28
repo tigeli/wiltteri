@@ -1658,8 +1658,6 @@ pakilankukkatalo.fi##.sidebox + * + DIV.sidebox
 pakkalanpalloseura.fi##.region-sidebar-second img
 paljakka.fi###add-banner
 palkintokauppa.fi###freetextbox
-palloliitto.fi##TD.homeRightCol
-palloliitto.fi##TD[width="160"]
 panimoliitto.fi##TD.logot
 pantti.fi###logo > IMG
 papunet.net###ray
