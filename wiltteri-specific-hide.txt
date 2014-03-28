@@ -793,8 +793,7 @@ kaisafest.fi###footer
 kakkusankarit.fi##.ContextBoxBody.NavBarElement3
 kaksplus.fi###cooperation
 kaksplus.fi##.om-magazines
-kalajoenjuhannus.com###footer
-kalajoenjuhannus.com##P[style="text-align: center;"]
+kalajoenjuhannus.com###logot
 kalakortti.com##img[src$="/VeneBat_eivuotta.jpg"]
 kalastajan.info##.sbicontent
 kaleva.fi###banner-top

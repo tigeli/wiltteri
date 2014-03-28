@@ -521,7 +521,6 @@
 ||kainuunsanomat.fi^*/meedio_kainuun_sanomat.js
 ||kainuunsanomat.fi^*/mpbanner/
 ||kalaan.fi/bannerit/
-||kalajoenjuhannus.com/images/*kiintea.swf
 ||kalajokimatkailu.fi/media/files/bannerit/
 ||kalamies.com/images/banners/
 ||kalastajanmaailma.com/PublisherFishinglordsBannerPicture?
