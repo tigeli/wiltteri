@@ -1192,7 +1192,7 @@
 ||saimaablues.fi/wp-content/uploads/*logo
 ||saimaatours.fi/images/*banner
 ||saimaavolley.fi/uploads/images/bannerit/
-||saipa.fi/templates/saipa/images/2012/sponsor_logos/
+||saipa.fi^*/sponsors/
 ||saituri.org/wp-content/uploads/*/Kiva_logo.
 ||sajl.fi/@Bin/30
 ||sakkinet.fi/easydata/customers/sakki/files/Bannerit/

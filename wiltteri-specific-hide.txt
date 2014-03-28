@@ -1999,7 +1999,7 @@ saimaanvesityo.fi##.leftCol a > img
 saimaaspirit.fi###palsta-right + DIV#bottomline
 saimaavolley.fi##.left_banner
 saimaavolley.fi##.sponsors
-saipa.fi###top_banner
+saipa.fi###top-sponsors
 saipafanit.com###friends
 sak.fi##.etusivu_keskibanneri_border
 sakury.net###block-block-7
