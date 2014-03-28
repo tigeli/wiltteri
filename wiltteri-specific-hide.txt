@@ -2084,6 +2084,8 @@ sixdegrees.wm.fi##.sidecol IMG
 sixdegrees.wm.fi###sidecol-top + * + * + * + DIV.module
 sixdegrees.wm.fi###sidecol-top + * + * + DIV.module
 sjal.fi##IMG[src="/@Bin/126225/eerikkila.jpg"]
+sjk2007.fi###Yhteystyölogot
+sjk2007.fi##table[style="width: 650px; height: 733px;"] tr:last-of-type
 sjl.fi##TD[width="160"]
 skidiviihde.fi##.alapalkki
 skidiviihde.fi##TD.sisalto_oikea
