@@ -1,6 +1,4 @@
 ! -------------------- wiltteri-specific-hide.txt ------------------- !
-3t.fi###footerContentTop
-3t.fi###footerCovers
 a-kiltojenliitto.fi###bottom
 aamukampa.net##.mainosteksti
 aamulehti.fi##.adContainer

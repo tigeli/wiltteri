@@ -4,10 +4,6 @@
 ||193.93.132.142/*ads
 ||194.188.93.124/scripts/edoris/edoris.dll?
 ||216.92.95.133/parisuhde/ad
-||3t.fi/amt_hakubanneri/
-||3t.fi/files/images/cover/thumb/
-||3t.fi/files/promobox/
-||3t.fi/promobox/
 ||7ht.fi/nappi/
 ||80.64.13.37/vtoy/peltomaki/
 ||81.22.160.163/banners.php?
