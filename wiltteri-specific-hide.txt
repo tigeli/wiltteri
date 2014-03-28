@@ -357,7 +357,6 @@ festarit.fi###page-banners-between
 festarit.fi###page-banners-footer
 festarit.org##DIV[style="text-align: center;"]
 feto.fi##TD + TD[valign="top"][align="left"]
-ffjaro.fi##DIV[align="center"]
 ffp-motorsport.com###mainright
 fi.msn.com##.rowArea + * + DIV.rowArea
 fi.msn.com###msnie8
