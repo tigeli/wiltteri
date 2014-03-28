@@ -983,8 +983,8 @@
 ||pelaajalehti.com/*_wallpaper.
 ||pelaajaporssi.net/*/i/nebula_tarjoaa_yhteydet.gif
 ||pelastetaankissat24.com/images/banners/
-||pelicans.fi/sites/www.pelicans.fi/files/image/kumppanit/
-||pelicans.fi/sites/www.pelicans.fi/themes/pelicans/images/logo*.png^
+||pelicans.fi^*/banner/
+||pelicans.fi^*/partner/
 ||pelikone.fi/embed/
 ||pelikone.fi/widget/iframe?
 ||peliveljet.com/images/*banner

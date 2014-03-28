@@ -1676,9 +1676,6 @@ pelaajalehti.com###konsolifin
 pelaajalehti.com###wallpaper
 pelastakaalapset.fi###partners
 pelastamaailma.fi##.module-pic-gallery.clear > UL.module-pic-text.module-pic-xs
-pelicans.fi##.e2e-widget1
-pelicans.fi###block-block-26
-pelicans.fi###header-region
 pelikone.fi##.is-bar
 peliplaneetta.net##div > iframe#haku:last-child
 peliplaza.fi###visa_bannerit
