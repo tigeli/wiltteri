@@ -551,8 +551,7 @@ himosresort.fi###footer > #syndicate
 hinku.com##.frontBanner2
 hiusmaailma.fi##.LeftIn-part
 hiusverkko.fi##TD[style="vertical-align: top; text-align: center;"]
-hjk.fi##.mainos_lev
-hjk.fi###partners
+hjk.fi###mainSP
 hki-pavi.fi###imCel1_05_Cont
 hki-pavi.fi###imObj1_02
 hkt.fi###bannerit2

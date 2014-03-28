@@ -394,8 +394,7 @@
 ||hiusyrittajat.fi^*/Kannatusj%C3%A4senent-20121112.jpg
 ||hiusyrittajat.fi^*/sam-images/
 ||hiusyrittäjät.fi^*/logo_
-||hjk.fi/adv/
-||hjk.fi/splash/
+||hjk.fi/adds/
 ||hoitonetti.fi/vimages/html/images/sponsoredby
 ||hollola.fi/Elixir_logo_150_lev200.jpg
 ||hollola.fi/paketti.jpg
