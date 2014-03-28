@@ -345,7 +345,9 @@ fcjjk.com##.Footer-inner
 fcjjk.com##HR + CENTER > TABLE[border="0"]
 fckontu.fi##.content-container TR > TD > A > IMG
 fckontu.fi###token-147367 > DIV.content-container > TABLE.contentFrame
-fclahti.fi###EssTopBanners
+fclahti.fi###logoslider
+fclahti.fi###mainsponsors
+fclahti.fi##.veikkausbox
 feissarimokat.com###adzone1-top
 feissarimokat.com###fixedtower
 fennia.fi##TD[align="center"]

@@ -252,7 +252,7 @@
 ||fchaka.fi/images/*banner
 ||fchonka.fi^*/bannerit/
 ||fchonka.fi^*/img/sponsors_all.png
-||fclahti.fi/uploads/images/banners/
+||fclahti.fi^*/etusivusliderlogot/
 ||fctps.fi/files/sponssit
 ||feed.etuovi.com/tabbedbanner/
 ||ferratum.fi/gfx/banners/
