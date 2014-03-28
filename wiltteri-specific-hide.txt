@@ -1205,6 +1205,7 @@ liikuntakeskus.info##CENTER > A > IMG
 liikuntakeskussyke.fi###extras
 linnajazz.fi##P.jazzklubi
 linnajazz.fi##TD[valign="center"]
+linnanmaki.fi###region-footer-second
 lippo.fi###logosNew
 lippo.fi###top-right
 lippojuniorit.fi##.sbWrapper1 + DIV.sideCol

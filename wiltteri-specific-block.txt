@@ -716,7 +716,7 @@
 ||like.fi/sites/default/files/imagecache/oikean_laidan_nosto/
 ||lil.fi/images/banners/
 ||lilith.fi/images/sponsori_logot/
-||linnanmaki.fi^*/etusivu-tukijat.
+||linnanmaki.fi^*/logo/public/
 ||linssit.net/img/halvatnet.gif
 ||lintukuva.fi/birdlife.jpg
 ||lintukuva.fi/rajala.jpg
