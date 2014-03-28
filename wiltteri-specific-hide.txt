@@ -1795,6 +1795,7 @@ pudottajat.fi##UL#footer-row2
 puhelimeni.fi###sidebar > .box:first-child
 puhelinvertailu.com##.news-wrapper
 puhtaastiparas.fi###main_navi > A > IMG
+puistoblues.fi###palsta_oikea
 puistolanurheilijat.fi##BR + TABLE[valign="top"]
 puistolanurheilijat.fi##TABLE.moduletable + * + * TD
 puistolanurheilijat.fi##TABLE.moduletable + * DIV[style="text-align: center;"]

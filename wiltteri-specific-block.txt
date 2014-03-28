@@ -1076,9 +1076,7 @@
 ||psyli.fi/banner/
 ||puhdastulevaisuus.fi/media/ulkoasu/bannerit/
 ||puhti.com/kuvat/*banner
-||puistoblues.fi/images/banner
-||puistoblues.fi/matsku/
-||puistoblues.fi/uploadkuvat/bannerit-oikea-reuna/
+||puistoblues.fi^*/bannerit-oikea-reuna/
 ||pulju.net/shop/mainpics/bannerit/
 ||punamustat.net/kumppanit/
 ||punkalaidun.fi/punkalaidun/liitetiedostot/bannerit/
