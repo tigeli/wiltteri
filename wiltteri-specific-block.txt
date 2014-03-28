@@ -1185,6 +1185,7 @@
 ||saastopankki.fi/VerkkopalvelutWeb/ip/sisalto.do?
 ||sahkoala.fi/bannerit/
 ||saiko.fi/images/banners/
+||saimaablues.fi/wp-content/uploads/*logo
 ||saimaatours.fi/images/*banner
 ||saimaavolley.fi/uploads/images/bannerit/
 ||saipa.fi/templates/saipa/images/2012/sponsor_logos/

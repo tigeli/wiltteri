@@ -1996,6 +1996,7 @@ saastopankki.fi##TD.Alas.BTDot
 saastopankki.fi##TD[style="width: 185px;"]
 sahkoala.fi##a[target="_blank"] > img[src^="/_shared/_files/"]
 sahkovertailu.fi###topSection
+saimaablues.fi###footer-widgets
 saimaanvesityo.fi##.leftCol a > img
 saimaaspirit.fi###palsta-right + DIV#bottomline
 saimaavolley.fi##.left_banner
