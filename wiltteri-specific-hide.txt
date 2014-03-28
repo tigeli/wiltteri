@@ -1948,9 +1948,8 @@ roihu.fi##TD.captionModel0 > A > IMG
 rokkikauppa.com##TD#right_division
 rokkizine.fi##.palsta_last
 roosters.fi###linkcat-2
-rops.fi###banner
-rops.fi###bottom a[target="_blank"] > img
-rops.fi###right a[target="_blank"] > img
+rops.fi###sp-bottom-wrapper
+rops.fi##.sprocket-mosaic
 rosebud.fi##TD#vass3
 rovaniemi.fi##.logot
 rtv.fi##IMG.bonus

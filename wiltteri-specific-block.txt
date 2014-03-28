@@ -1164,8 +1164,8 @@
 ||riverball.fi/images/Puma.gif
 ||roi-press.mainostaja.com./images/ccdate-140x300.gif
 ||rokkizine.fi/bannerit*/
-||rops.fi^*/pjmr.swf
-||rops.fi/images/stories/Edustusjoukkue/*banner
+||rops.fi^*/bannerit/
+||rops.fi^*/kumppanit/
 ||rovaniemenmarkkinat.fi/images/banners/
 ||royalartistclub.com/addons/widget*.swf?
 ||rpthaku.fi/*banner
