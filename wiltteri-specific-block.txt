@@ -125,6 +125,7 @@
 ||bjjliitto.fi^*/kv_banneri.swf
 ||blogit.fi/images/bonari.
 ||blogspot.com^*/sheinside.jpg$domain=kristakuparinen.blogspot.fi
+||blues.fi^*/sponsorilogot/
 ||blues-finland.com/images/cdon/
 ||blues-finland.com/images/Commercial/
 ||bmwforum.fi/ads/

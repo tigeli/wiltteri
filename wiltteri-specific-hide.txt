@@ -156,7 +156,6 @@ bjjliitto.fi##div[style="width:500px;float:left;font-size:12px;height:100px;bord
 blogilista.fi##.is-navi-container
 blogit.fi##a[href^="http://tracking.euroads.fi"]
 blues-finland.com##TABLE[width="142"] TD > A > IMG
-blues.fi###partners2
 bluesnews.fi##th[width="145"] p.style29
 bluesnews.fi##th[width="145"] a[target="top"]
 bluesnews.fi##th[width="366"] hr:last-of-type + p.style15
