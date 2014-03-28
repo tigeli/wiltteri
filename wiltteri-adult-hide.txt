@@ -1,6 +1,7 @@
 ! -------------------- wiltteri-adult-hide.txt ---------------------- !
 alastonsuomi.com##.jb
 alastonsuomi.com##.sb
+livechat.fi###frontrow
 livechat.fi###header td:not(:first-child)
 porno-videot.com###footer img
 seksi.fi##.bannerlink

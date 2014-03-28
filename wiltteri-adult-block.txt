@@ -1,6 +1,7 @@
 ! -------------------- wiltteri-adult-block.txt --------------------- !
 ||adults.fi/ads/
 ||adults.fi^*/homoseksi.jpg
+||adulttv.fi/images/kuvat/$domain=livechat.fi
 ||finswingers.com/img/logos/
 ||herkku.net/alabanneri.php
 ||herkku.net/bannerit/
@@ -17,4 +18,5 @@
 ||seksitreffit.fi/treffit/kuvat/*.swf
 ||seksitreffit.fi/treffit/kuvat/*_banner
 ||seksitreffit.org/button-
+||top100.valmiskauppa.fi/images/kuvat/$domain=livechat.fi
 ||turunerotiikkamessut.com^*/yhteistyo/$image
