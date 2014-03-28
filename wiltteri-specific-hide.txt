@@ -337,8 +337,7 @@ fatalii.net##HR + A > IMG
 fbtpori.fi##BR + CENTER
 fchaka.fi##.moduletable_left_banners
 fchaka.fi##.outside
-fchonka.fi###banner_column
-fchonka.fi###footer
+fchonka.fi###honkaponssit
 fcinter.com##BR + A > IMG
 fcinter.com##TABLE.runko6 TD > CENTER
 fcjjk.com##.Block + * CENTER

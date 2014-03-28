@@ -250,6 +250,8 @@
 ||fauna.fi/images/banners/
 ||fbtpori.fi/etusivusponssi*.asp
 ||fchaka.fi/images/*banner
+||fchonka.fi^*/bannerit/
+||fchonka.fi^*/img/sponsors_all.png
 ||fclahti.fi/uploads/images/banners/
 ||fctps.fi/files/sponssit
 ||feed.etuovi.com/tabbedbanner/
