@@ -249,11 +249,12 @@
 ||fast.fi/pakkotoisto
 ||fauna.fi/images/banners/
 ||fbtpori.fi/etusivusponssi*.asp
+||fc.tps.fi/files/*_banner
 ||fchaka.fi/images/*banner
 ||fchonka.fi^*/bannerit/
 ||fchonka.fi^*/img/sponsors_all.png
 ||fclahti.fi^*/etusivusliderlogot/
-||fctps.fi/files/sponssit
+||fctps.fi^*/sponssit_
 ||feed.etuovi.com/tabbedbanner/
 ||ferratum.fi/gfx/banners/
 ||festivals.fi/kuvat/yhteistyokumpp_tunnukset2.gif

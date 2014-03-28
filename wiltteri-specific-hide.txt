@@ -335,6 +335,7 @@ f-cup.fi###text-3
 faces.fi###menu1 IMG
 fatalii.net##HR + A > IMG
 fbtpori.fi##BR + CENTER
+fc.tps.fi###nostokuvat_rivi2
 fchaka.fi##.moduletable_left_banners
 fchaka.fi##.outside
 fchonka.fi###honkaponssit
@@ -2416,6 +2417,7 @@ tourdehelsinki.fi###sponsors
 tourdehelsinki.fi###sub_sponsors
 tpnaillounge.fi##P > IMG
 tps.fi###rightBanners
+tps.fi##.footerlogot
 tredea.fi###token-29235
 trety.org###rt-sidebar-a > .rt-block:last-child
 trivago.fi###skyscraper
