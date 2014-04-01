@@ -765,6 +765,8 @@ jymy.net##.div_advert300
 jymy.net##.div_blackbox650 + DIV.div_blackbox650
 jypliiga.fi###front_mini_ads
 jypliiga.fi###partnerit
+jypliiga.fi###veikkaus
+jypliiga.fi##.profile_sponsor
 jyrock.fi###col-main-2
 jyvaskyla.fi##.oikeala > DIV.xmldoc > P
 jyvaskylankesa.fi##.sponsorHolder

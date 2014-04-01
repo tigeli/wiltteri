@@ -514,7 +514,7 @@
 ||juoksija-lehti.fi/portals/*/Bannerit/
 ||juoksukoulu.fi/sites/default/files/imagecache/Main_Sponsors_Bottom/
 ||juoksukoulu.fi/sites/default/files/imagecache/Main_Sponsors/
-||jypliiga.fi/themes/site_themes/jyp2011/images/partnerit/
+||jypliiga.fi^*/partnerit/
 ||jyvaskylankesa.fi^*/sponsors/
 ||k-kauppiasliitto.fi/banner/
 ||kaannos.com/img/nebula.jpg
