@@ -18,5 +18,6 @@
 ||seksitreffit.fi/treffit/kuvat/*.swf
 ||seksitreffit.fi/treffit/kuvat/*_banner
 ||seksitreffit.org/button-
+||sexwork.net/click/
 ||top100.valmiskauppa.fi/images/kuvat/$domain=livechat.fi
 ||turunerotiikkamessut.com^*/yhteistyo/$image
