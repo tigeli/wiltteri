@@ -600,9 +600,6 @@
 ||kirkkojakaupunki.fi/kuvat/*banneri
 ||kirkkojakaupunki.fi/kuvat/verkkokirkko.gif/image
 ||kirkkojakaupunki.fi/kuvat/yhtyma.jpg/image
-||kissaliitto.fi/images/*banner
-||kissaliitto.fi/tiedostot/*logo
-||kissaliitto.fi/tiedostot/banneri
 ||kissarmyfinland.com/webpage/pictures/ad/
 ||kites.fi/images/stories/Digi_FIN
 ||kites.fi/images/stories/digibusinessfi
