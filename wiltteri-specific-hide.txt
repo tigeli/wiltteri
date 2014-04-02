@@ -2271,7 +2271,8 @@ tampereunited.com##.front_column_right.float_right
 tampereunited.com##.partners
 tampereunited.com##A + A > IMG
 tampereunited.com##DIV[style="padding: 5px 0pt;"] IMG
-tangomarkkinat.fi##TD[bgcolor="#ffffff"]
+tangomarkkinat.fi##table[width="212"] a.linkki
+tangomarkkinat.fi##table[width="620"] td[bgcolor="#ffffff"]
 tankkaus.com##.bannerBorder
 tankkaus.com##TD.footer
 tanssi.fi###footer_layer
