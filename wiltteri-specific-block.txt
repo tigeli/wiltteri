@@ -957,6 +957,7 @@
 ||oulunkarpat.fi/20*/bannerit/
 ||ouluthisweek.net/banners/
 ||overdrive.fi/bannerit/
+||overdrive.fi/mainonta/
 ||paf.com/cmsstatic/PAF/bannergraphics/
 ||paihdelinkki.fi/images/172.gif
 ||paijannepurjehdus.fi/DesktopModules/Thumbnailer/Thumbnail.ashx?src=/Portals/20/Pictures/Logot/

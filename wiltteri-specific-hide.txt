@@ -1647,6 +1647,7 @@ ounasvaara.fi##DIV[style="text-align: center;"]
 outokummunkaupunki.fi##DIV[align="center"]
 overdrive.fi###banneri
 overdrive.fi###oikea
+overdrive.fi##hr:last-of-type + div.last.textcenter
 ovv.com###bcenter > DIV[align="center"]
 paakaupunkijuoksu.fi###zone-right
 paasykoekirjat.fi##.NavigationText.NavBarElement4
