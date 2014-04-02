@@ -2425,7 +2425,6 @@ trety.org###rt-sidebar-a > .rt-block:last-child
 trivago.fi###skyscraper
 ts.fi###aamuset_feed_div
 ts.fi###precontent-ads
-ts.fi##.adOuterContainer
 ts.fi##.banner-box
 ts.fi##.footer-banner
 ttlry.fi###block-views-banners-block_1
@@ -2511,7 +2510,6 @@ uusisuomi.fi##.palvelut_artikkeli
 uutissiturust.fi###logobar
 uutisvirta.fi###bigbanner
 uutisvuoksi.fi##.tsFrameContainer
-v2.fi##a[href^="http://track.adform.net/"]
 vaakahuone.fi##DIV[style="padding-top: 20px;"]
 vaellusnet.com##img[src$="!cid_image001_gif@01CDE44F.gif"]
 vaellusnet.com##TABLE[width="623"]
@@ -2688,7 +2686,6 @@ ylilauta.org##a[href*="tilaus.aller.fi/tt/?tt="]
 ylilauta.org##a[href^="https://ylilauta.org/"] > img[alt=""]
 ylilauta.org##blockquote + hr + .center
 ylilauta.org##div[id^="thread_"] + * + .center
-ylilauta.org##div[id^="thread_"] + br + .center
 ylilauta.org##div[id^="thread_"] + br + .center + .center
 ylilauta.org##div[id^="thread_"] + br:last-of-type + *
 ylilauta.org##div[style*="text-align"] > a

@@ -206,7 +206,6 @@
 ||eastrockbikemeet.com/images/logos/V8.png
 ||eastway-event.fi/vag/banner/$third-party
 ||eat.fi/vartti/
-||ecess1.cdn.continent8.com/wlbetclic/bannerflow/$domain=livetulokset.com
 ||ecross.fi/*files/imagemanagermodule/@random
 ||educations.com^*/partners/$domain=koulutus.fi|utbildning.se
 ||ekoenergia.fi/bannerit/
@@ -663,7 +662,6 @@
 ||kuvaton.com/*mainos.jpg
 ||kuvaton.com/banners/
 ||kuvaton.com/bansku
-||kvaak.fi/keskustelu/adseller/
 ||kvps.fi/pics/muut-logot/
 ||kyamk.fi/folders/Images/Etusivun%20bannerit/
 ||kymppipaikka.fi/wp-content/banners/
@@ -1150,7 +1148,6 @@
 ||remax.fi/files/flash/*banner
 ||remontti.net/Logot/
 ||rentalcars.com/affiliates/
-||resources.kiosked.com^$third-party
 ||reverbnation.com^$domain=verkkomedia.org
 ||rgline.com/medialibrary/data/*banner
 ||riheda.net/banner/
