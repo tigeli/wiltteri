@@ -1362,8 +1362,9 @@ merikarvialehti.fi##div[style*="width:956px; height:190px;"]
 merimieskirkko.fi##TD[width="200"]
 meripaiva-areena.fi###aside
 meripaiva-areena.fi###footer
-mersuforum.net##TABLE.ylabanneri
-mersuforum.net##TD[width="120"]
+mersuforum.net##.vt-seperator + .content
+mersuforum.net##.ylabanneri
+mersuforum.net##td[width="120"]
 mese.fi##TD[align="middle"]
 mestaritradalla.com##P[align="center"]
 mestis.fi##.add
