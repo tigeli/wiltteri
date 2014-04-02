@@ -512,8 +512,8 @@ helsinki.fi###sidebar-right EMBED
 helsinkibeerfestival.com###sisaltoVasen1 + DIV#sisaltoVasen1
 helsinkicitymarathon.fi###right
 helsinkicityrun.fi###right
-helsinkicup.fi##.left > DIV.moduletable > TABLE.contentpaneopen
-helsinkicup.fi###banner
+helsinkicup.fi###left_column_banner_box
+helsinkicup.fi##.right_banner_box_edit
 helsinkilivefestival.fi###partners
 helsinkilivefestival.fi###vr
 helsinkipride.fi##.footer
