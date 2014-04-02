@@ -577,6 +577,7 @@
 ||kelkkailijat.net/pix/os_banner.gif
 ||kelkkalehti.com/bannerit/
 ||kelkkapalsta.com/bannerit/
+||keltamustat.com^*/images/friends/
 ||kemi.fi/jalokivigalleria/footer.gif
 ||kemi.fi/logo
 ||kennelliitto.fi/NR/rdonlyres/*banner

@@ -890,6 +890,7 @@ keltainenporssi.fi##.huuto_search
 keltainenporssi.fi###dBannerGoogleAdPlace
 keltainenporssi.fi##a[onclick^="google_track(this.href, 'Text link', '"]
 keltainenporssi.fi##div[onclick="document.getElementById('banner_text').click()"]
+keltamustat.com###friends
 kemi.fi##TD[width="20%"]
 kemora.fi###fotter
 kennelliitto.fi###_ctl0_cphMainContent_Koiramme1_radKoiramme_RadEditor
