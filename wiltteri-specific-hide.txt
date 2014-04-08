@@ -548,6 +548,7 @@ himosfestival.com##.footer-header
 himosmaailma.fi##iframe[src="http://www.himosmaailma.fi/extra/himosnyt.html"]
 himosresort.fi###footer > #syndicate
 hinku.com##.frontBanner2
+hintavertailu.muropaketti.com###wrapper-left-hv
 hiusmaailma.fi##.LeftIn-part
 hiusverkko.fi##TD[style="vertical-align: top; text-align: center;"]
 hjk.fi###mainSP

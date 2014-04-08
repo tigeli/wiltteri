@@ -391,6 +391,8 @@
 ||hintaseuranta.fi/static/css/affiliatebannerit.css?
 ||hintaseuranta.fi/static/kuvat/affiliatebannerit/
 ||hintaseuranta.fi/static/kuvat/kampanjat/
+||hintavertailu.muropaketti.com/a/
+||hintavertailu.muropaketti.com^*/ilmoitus_bg.gif
 ||hippos.fi/banner/
 ||historicralli.net/images/*mainos.jpg
 ||hiusyrittajat.fi^*/Kannatusj%C3%A4senent-20121112.jpg
