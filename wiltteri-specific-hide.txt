@@ -2049,6 +2049,7 @@ seittiweb.org##img[src$="/ray_tukee.gif"]
 seniorinetti.fi###footer-left
 serena.fi##TABLE.corporatelogos
 sestatic.fi###ISBoksi
+sestatic.net##.banner
 seta.fi##img[src$="/RAY_Tukee_MV_CS2.gif"]
 seura.fi##.mainbox
 seura.fi##.om-magazines

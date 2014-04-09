@@ -1239,6 +1239,7 @@
 ||seniorinetti.fi/sites/seniorinetti.fi/files/banners/
 ||seniorinetti.fi/themes/base/images/kumppanit/
 ||services.corame.fi/tervemedia/partner-feed/$third-party
+||sestatic.net^*/banner.
 ||seutuneloset.fi/images/CCDeitti-silma-200x200.jpg
 ||seven-1.com/matkalehti/
 ||sey.fi/files/*banner
