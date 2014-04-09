@@ -250,6 +250,7 @@
 ||fauna.fi/images/banners/
 ||fbtpori.fi/etusivusponssi*.asp
 ||fc.tps.fi/files/*_banner
+||fckuusysi.fi/sponsors/
 ||fchaka.fi/images/*banner
 ||fchonka.fi^*/bannerit/
 ||fchonka.fi^*/img/sponsors_all.png
