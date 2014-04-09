@@ -1,4 +1,5 @@
 ! -------------------- wiltteri-adult-hide.txt ---------------------- !
+adulttv.fi##.box_main_sisalto_sisaltotila a[target="_blank"] > img
 alastonsuomi.com##.jb
 alastonsuomi.com##.sb
 livechat.fi###frontrow
