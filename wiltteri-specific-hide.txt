@@ -600,6 +600,7 @@ huoneistomedia.fi##A.banner
 huumaa.net##.moduletable_bannerit
 huuto.net##.sanoma-services
 huviopas.net##.esittelyt
+hvs-tennis.fi##.partners
 hymy.fi###alibi-feedbox
 hymy.fi###inhouse-banners
 hymy.fi##.om-magazines
