@@ -268,8 +268,7 @@
 ||fillari-lehti.fi/ybannerit.asp
 ||fillarifoorumi.fi/forum/images/bannerit/
 ||fillaristit.fi/images/banners/
-||fillaritori.com/kuvat/1074x59_ending3.jpg
-||fillaritori.com/kuvat/fillariosa2013.jpg
+||fillaritori.com/kuvat/
 ||fin-tuning.net/bannerit/
 ||fin5.fi/SSL/sslweb.nsf/images/fin5_mainospalkki_ala.gif/$FILE/fin5_mainospalkki_ala.gif
 ||finanssi.org/cms/images/logot/
