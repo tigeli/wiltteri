@@ -1212,6 +1212,7 @@
 ||satakunnankansa.fi^*/meedio_satakunnan_kansa.js
 ||satakunnankansa.fi^*/mpbanner/
 ||sateenkaariperheet.fi^*/banneri_perheaikaa.jpg
+||satshop.fi/huoltovalikko.php$domain=huoltovalikko.com
 ||sauna-open-air.fi/soa/wp-content/themes/soa/img/links_*.jpg^
 ||saunacenterruka.fi/images/finfun.gif
 ||saunacenterruka.fi/images/kelomestarit.gif
