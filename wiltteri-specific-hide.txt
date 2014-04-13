@@ -892,8 +892,10 @@ kellojokinen.net###SAContent4 > P[align="center"]
 keltainenporssi.fi##.banner_mp_box
 keltainenporssi.fi##.bg10 img[width="160"]:last-of-type
 keltainenporssi.fi##.bg10 table[width="161"]:nth-of-type(2)
-keltainenporssi.fi##.huuto_search
+keltainenporssi.fi##.hintaseuranta
+keltainenporssi.fi##.huuto-search
 keltainenporssi.fi###dBannerGoogleAdPlace
+keltainenporssi.fi###dBannerTop
 keltainenporssi.fi##a[onclick^="google_track(this.href, 'Text link', '"]
 keltainenporssi.fi##div[onclick="document.getElementById('banner_text').click()"]
 keltamustat.com###friends
