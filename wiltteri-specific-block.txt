@@ -414,6 +414,7 @@
 ||hunks.fi^*/sponsors.swf
 ||hurrikaani.fi/SIRA_Files/images/Logot/Kumppanit_Sponsorit/
 ||huumaa.net/images/banners/
+||huuto.net/mso/
 ||hvs-tennis.fi^*/hvs_partnerit.
 ||hymy.fi^*/bannerit/
 ||hyria.fi/files/*/textsize/
