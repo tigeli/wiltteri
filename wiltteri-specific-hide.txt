@@ -2151,6 +2151,10 @@ spinfm.fi###sidebar
 sportsacademy.fi##.banner
 sportti.com###kontti
 sportti.com###panorama_container
+sportti.com##.grid_4 > div[style$=";margin-bottom:6px;"] > a
+sportti.com##.grid_12 > div[style$=";margin-bottom:6px;"] > a
+sportti.com##.grid_12 > div[style$=";margin-bottom:6px;"] > div[style^="float:left;"]
+sportti.com##.grid_12 > div[style$=";margin-top:6px;"]
 sportti.info###zone-right
 sporttisaitti.com##TD[width="160"]
 ssl.fi##TABLE.tableborder
