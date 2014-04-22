@@ -1434,6 +1434,7 @@
 ||teatterikesa.fi/@Bin/*_nettiin.jpeg
 ||teatterikesa.fi^*/footerRoller.js
 ||teivonravit.fi/banner/
+||tekniikanmaailma.fi^*/bannerit/
 ||telkku.com^*/images/nostot/
 ||tennis.fi^*/img/sitebanner/
 ||tenojoki.fi/tenopaasivut/images/logot/
