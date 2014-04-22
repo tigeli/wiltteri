@@ -102,6 +102,7 @@
 ||automaatioseura.com/images/banners/
 ||automaatiotekniikankilta.fi/gfx/wartsila.gif
 ||autot.oikotie.fi/commercial/iframe?
+||autot.oikotie.fi/nosto/$domain=hs.fi
 ||autotalli.com/autotalli_upotus/
 ||autotalli.com/bannerdata/
 ||auto1.fi/ad/
