@@ -931,6 +931,7 @@
 ||novajagazeta.fi/bannerit/
 ||novajagazeta.fi/kuvat/kansikuva
 ||novita.fi/public/Flash/banner
+||nrj.fi^*/body-bg-nrj.
 ||nummi-pusula.fi/Bannerit/
 ||nummirock.fi^*/bannerit/
 ||nuortenhyvaksi.fi/*/kumppanit.png
