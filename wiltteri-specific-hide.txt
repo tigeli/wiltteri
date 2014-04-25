@@ -2603,6 +2603,8 @@ vihreateatteri.net##BR + A > IMG
 vihreatehdokkaat.fi###banneri
 vihreatnaiset.fi###banneri
 viihde.fi.msn.com##.parent.chrome25.single1.customcontainer.black DIV.mycontent
+viihde24.com##.banneri
+viihde24.com##a[rel="external"]
 viihteelle.com###sponsorad
 viikonloppu.com###content-right > h2:last-of-type
 viikonloppu.com###content-right > h2:last-of-type + a
