@@ -2062,6 +2062,7 @@ sebateam.fi##IMG[width="209"][height="63"][border="0"]
 seikkisrock.net###logot
 seiska.fi##DIV[style="overflow: hidden; width: 100%; position: relative;"]
 seittiweb.org##img[src$="/ray_tukee.gif"]
+semifinal.fi##td[width="640"] a[target="_blank"] > img
 seniorinetti.fi###footer-left
 serena.fi##TABLE.corporatelogos
 sestatic.fi###ISBoksi
