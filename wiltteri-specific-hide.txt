@@ -1623,7 +1623,8 @@ olekustannus.com##TD[align="center"]:last-child IMG
 olekustannus.com##TD[align="middle"]
 olennainen.fi##TD.infoBoxWhite > BR + A > IMG
 oll.fi##DIV[align="left"]
-oluset.fi##.left
+oluset.fi##.footerrow
+oluset.fi##.footerRow:last-of-type
 olympia.fi##BR + BR + A > IMG
 omaisten.org##img[src$="/prospect_logo_box_small.gif"]
 omaisten.org##img[src$="/raytukee.png"]
