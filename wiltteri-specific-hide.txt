@@ -2699,6 +2699,7 @@ yla-savo.fi##a[href^="/modules/Banner/public/banner_redirect.aspx?id="]
 ylakainuu.fi##.adContainer
 ylakainuu.fi##.adContainerWithMeta
 ylakainuu.fi##div[style*="width:956px; height:190px;"]
+ylakaupunginyo.fi###sponsors
 yleisotyo.fi###footer
 yleisurheilu.fi##.item-list
 ylikerroin.com##DIV[style="padding-left: 10px;"]
