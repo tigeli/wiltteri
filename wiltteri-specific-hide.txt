@@ -1907,6 +1907,9 @@ rantapallo.fi###shopbop-core-widget
 rantapallo.fi###sidebanners
 rantapallo.fi###sivubannerit
 ranua.fi##IMG[width="200px"]
+raumablues.com##.LINKIT a[target="_blank"] > img
+raumablues.com##a[href*="/oiva.public.adclick.php?"]
+raumablues.com##td[width="170"]
 raumalainen.fi###footerBannerBox DIV.view-content
 raumanlukko.fi##.sb-sisalto-oikea a[target="_blank"] > img
 raumarock.fi##TD + TD[align="center"]
