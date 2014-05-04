@@ -61,6 +61,7 @@ ampparit.com##DIV[class^="ad"]
 ampparit.com##DIV[style="border-color: rgb(221, 0, 0); border-width: 2px 0pt; border-style: solid; background: none repeat scroll 0% 0% rgb(255, 255, 255);"]
 ampparit.com##DIV[style="width: 300px; height: 250px; overflow: hidden;"]
 ampumaurheiluliitto.fi##.banner
+amyrock.org###right a[target="_blank"] > img
 androidsuomi.fi###mainmodules
 androidsuomi.fi##a[href*="androidsuomi.fi/counter/click.php?"]
 ankkarock.fi##.banner_container
