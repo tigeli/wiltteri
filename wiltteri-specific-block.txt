@@ -239,6 +239,7 @@
 ||europorssi.com/images/bann
 ||euroviisuklubi.fi/images/banners/
 ||event-travel.fi/static/images/partners/
+||eventeam.fi^*/images/logot.
 ||extraviihde.fi/images/stories/banners/
 ||f-musiikki.fi/images/stories/bannerit/
 ||f1-forum.fi/banner
