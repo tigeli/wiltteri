@@ -523,6 +523,7 @@
 ||juoksukoulu.fi/sites/default/files/imagecache/Main_Sponsors_Bottom/
 ||juoksukoulu.fi/sites/default/files/imagecache/Main_Sponsors/
 ||jypliiga.fi^*/partnerit/
+||jyrock.fi/wp-content/uploads/*-150x150.
 ||jyvaskylankesa.fi^*/sponsors/
 ||k-kauppiasliitto.fi/banner/
 ||kaannos.com/img/nebula.jpg
