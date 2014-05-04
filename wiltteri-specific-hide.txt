@@ -776,6 +776,7 @@ jypliiga.fi###veikkaus
 jypliiga.fi##.profile_sponsor
 jyrock.fi###col-main-2
 jyvaskyla.fi##.oikeala > DIV.xmldoc > P
+jyvaskylankesa.fi##.logo-area
 jyvaskylankesa.fi##.sponsorHolder
 jyvaskylankesa.fi##img[src$="/figarobanner.png"]
 jyvaskylankiri.fi##a[onclick^="javascript:_gaq.push(['_trackEvent','outbound-article'"]
