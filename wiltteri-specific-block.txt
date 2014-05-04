@@ -563,6 +563,7 @@
 ||karkola.fi/uusikunta_selvitys_banneri.gif
 ||karkola.fi/vapaita_tontteja.JPG
 ||karkulaiset.fi/images/banners/
+||karmarock.com^*/logo_
 ||karppaus.info/images/*.swf
 ||karsamaenkesa.fi/sivut/images/banners/
 ||karstula.fi/banner
