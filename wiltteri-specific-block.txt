@@ -1241,7 +1241,7 @@
 ||seby.fi/kuvat/rc_logo
 ||sefe.fi/pics/banners/
 ||seikkailupuisto.fi/kuvii/banner
-||seikkisrock.net/images/bottom_image_seikkis.jpg
+||seikkisrock.net^*/logot_2011.
 ||seiska.fi/ads/
 ||seksuaaliterveysklinikka.fi/banner/
 ||sell.fi/gfx/*banner
