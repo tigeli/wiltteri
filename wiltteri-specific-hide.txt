@@ -2179,6 +2179,7 @@ summerup.fi###oikea_sisalto_yhteistyokumppanit
 sunlahti.fi##td[height="150"][bgcolor="#FFFFFF"]
 sunlight.fi###linkit
 sunsali.net##TABLE + BR + DIV[align="center"]
+sunsetbeachparty.net###colophon
 suntuubi.com##DIV[onclick="location.href='http://sa.suntuubi.com/sa/w/d/ck.php?oaparams=2__bannerid=130__zoneid=3__cb=501731c24e__oadest=http%3A%2F%2Fwww.suntuubi.com%2F%3Fnewspage%3D173';"]
 suntuubi.com##DIV[style="border: 1px solid blue; background: rgb(255, 255, 255) url(http://sa.suntuubi.com/sa/www/images/suntuubilogo14.png) no-repeat scroll right bottom; overflow: hidden; width: 140px; text-align: left ! important; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; padding-bottom: 5px;"]
 sunvolley.fi##TABLE[style="height: 202px;"]
