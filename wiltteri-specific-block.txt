@@ -1494,6 +1494,7 @@
 ||tuningstudio.fi/pics/banners/
 ||tunnustusten.luola.net/vaihto.jpg
 ||turisti-info.fi/upload/banners/
+||turkumusicfestival.fi^*/wp-responsive-thumbnail-slider/imagestoscroll/
 ||tuska-festival.fi^*/banners/
 ||tutti.fi/yhteis_kuva.jpg
 ||tuuli.net/hopt/banneri.gif

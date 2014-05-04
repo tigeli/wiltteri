@@ -2468,6 +2468,7 @@ tuoreeksterveeks.fi###content-middle .contentImageArea
 tups.fi##.banner
 turku2011.fi###footer-sponsors
 turkumodern.com##.icons IMG
+turkumusicfestival.fi###divSliderMain
 turkusoundcheck.com###sponssit-row
 turmion-katilot.info##.release
 turunkokoomus.fi###footer_logos
