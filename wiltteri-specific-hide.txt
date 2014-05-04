@@ -1952,6 +1952,7 @@ riversidetruck.fi##img[style="width:600px"]
 rkl.fi##IMG[width="180"]
 rmj.fi##TD[width="147"]
 roboshop.fi##TD[style="vertical-align: top; text-align: center;"]
+rockfutis.fi##.sidebar2
 rockkonttori.net##A.rss
 rockmodels.fi##BR + * + CENTER
 rockmodels.fi##TABLE.smalltext TD + TD
