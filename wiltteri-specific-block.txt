@@ -1013,6 +1013,7 @@
 ||perhokalastajat.net/kuvat/nebulogo.gif
 ||perhomessut.fi/images/banners/
 ||perhot.com/images/banner
+||personal.inet.fi/yhdistys/keravajazz/kaikki_logot.
 ||perunkirjoitus.fi/images/banneri.jpg
 ||perustayritys.fi/bannerit/
 ||pesakarhut.fi/SIRA_Files/downloads/*.swf
