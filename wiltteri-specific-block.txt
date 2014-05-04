@@ -1523,6 +1523,7 @@
 ||unelmacuppi.fi/UserFiles/Image/
 ||unibet.com/banners/
 ||untorock.com/img/*sponsorit
+||untorock.com/kumppanit/
 ||uranus.fi/kuvat/bannerit/
 ||urheilu.net/*ad.gif
 ||urheiluakatemia.fi/style/logot/

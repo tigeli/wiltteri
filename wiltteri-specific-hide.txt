@@ -2491,6 +2491,7 @@ uinti.com##img[src$="/TYRLogo.gif"]
 uit.fi###footerRight
 uittoyhdistys.fi##TABLE[width="360"]
 ulvilanpesa-veikot.fi###yritystenlogoja2
+untorock.com###partners
 uranus.fi###sidebanners
 uratie.fi##TD[width="176"]
 urheiluakatemia.fi###footerbottom
