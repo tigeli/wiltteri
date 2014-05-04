@@ -2543,6 +2543,7 @@ valepa.fi##.add_scroll_box
 valkeakoskensanomat.fi##.adContainer
 valkeakoskensanomat.fi##.adContainerWithMeta
 valkeakoskensanomat.fi##div[style*="width:956px; height:190px;"]
+valmu.com##.headertopleft a[target="_blank"] > img
 valmu.com##td[style="padding-top:12px;"]
 valo-cd.fi###partners
 valoa-hanke.fi##TABLE[style="width: 265px; height: 67px;"]
