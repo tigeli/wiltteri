@@ -277,6 +277,7 @@ elixir.fi###footer > IMG.footer_logo
 ellit.fi###topadwrapper
 ellit.fi##.ad
 ellit.fi##.om-magazines
+elojazz.com###showbiz_kumppanit2014_1
 ellos.fi###spotBottom
 enzoy.net##TD + TD[valign="top"]
 episodi.fi##UL.pro15
