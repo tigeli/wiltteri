@@ -1433,7 +1433,7 @@
 ||taloussanomat.fi/ts_global_promo_box.php
 ||taloussanomat.fi/ts_promo_box.php
 ||talousverkko.fi/images/banner
-||tammerfest.fi/*/img/bannerit/
+||tammerfest.fi/oiva/files/images/*_fosters_300.jpg
 ||tampereairshow.fi/general/banners/
 ||tamperefilmfestival.fi^*/banners/
 ||tampere-talo.fi/images/partners-

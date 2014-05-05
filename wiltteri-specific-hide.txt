@@ -2293,7 +2293,8 @@ taloussanomat.fi##iframe#rak_otsikot
 taloustaito.fi##.control.image > DIV.content
 taloustaito.fi###ctl00_body_ctl00_banner_ctl01_sectionFlashContent
 taloyhtio.net##DIV[style="border-top: 1px solid rgb(255, 255, 255);"]
-tammerfest.fi###footer
+tammerfest.fi##a[href*="/oiva.public.adclick.php?"]
+tammerfest.fi##footer
 tampere-talo.fi###memberof
 tampere-talo.fi###spons
 tampereairshow.fi###partners
