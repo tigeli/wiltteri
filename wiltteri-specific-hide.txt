@@ -102,6 +102,7 @@ audiovideo.fi##.view-mainospaikka-j-ttibanneri
 audiovideo.fi##.view-mainospaikka-suurtaulu-vasen
 audiovideo.fi##.view-panoraama-mainospaikka
 audiovideo.fi###block-views-mainospaikka-suurtaulu-block
+aukusti.fi###container > p[style="text-align: center;"]
 auranaallot.fi##TD.banneri_vasen
 auranaallot.fi##TD.banneri_yla
 auranaallot.fi##TD.sisalto_keski TD > DIV[align="center"]
