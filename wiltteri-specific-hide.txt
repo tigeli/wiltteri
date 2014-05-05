@@ -334,7 +334,7 @@ eviju.fi##DIV[style="margin: 10px 0pt 0pt;"] IMG
 evl.fi##.banneri
 f1-forum.fi##iframe[src^="http://ajantappo.fi/"]
 f-cup.fi###text-3
-faces.fi###menu1 IMG
+faces.fi###secondary
 fatalii.net##HR + A > IMG
 fbtpori.fi##BR + CENTER
 fc.tps.fi###nostokuvat_rivi2
