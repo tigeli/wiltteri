@@ -880,6 +880,8 @@ kaupunkiviljely.fi##.textwidget
 kaustinen.fi##IMG[width="200"]
 kaustinen.fi##P[style="margin-top: 5px; margin-bottom: 5px;"]
 kaustinen.net##.wbAdvert.m56
+kaustinen.net###bottom > .bottomblock
+kaustinen.net###headerbar > .right
 kaustinen.net###pikkukumppanit
 kaustinen.net###vas_bannerit
 kavereita.net###footer_affiliates
