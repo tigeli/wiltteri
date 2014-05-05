@@ -91,6 +91,7 @@
 ||atoplkv.fi/fin/*banner
 ||atvpalsta.com/bannerit/
 ||audiovideo.fi/mrhifi-banner/
+||augustrock.fi/sites/default/files/*-logo.png
 ||aukusti.fi/images/majoitus_banner.png
 ||aurinkojuhla.net/images/stories/ohjelmalogo
 ||autoilmoitukset.com/*/images/banners/
