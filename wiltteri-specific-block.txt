@@ -1141,6 +1141,7 @@
 ||rannikkoseutu.fi^*/meedio_rannikkoseutu.js
 ||rannikkoseutu.fi^*/mpbanner/
 ||ranska.net/_images/id/pub*.png
+||rantajatkat.fi^*/images/lemminkainen_iso.jpg
 ||rantasalmitravel.com/images/banners/
 ||rantasalmitravel.com/material/kannat_ilmo/
 ||rasia.city.fi/*_140x300
