@@ -1432,6 +1432,7 @@
 ||tammerfest.fi/*/img/bannerit/
 ||tampereairshow.fi/general/banners/
 ||tamperefilmfestival.fi^*/banners/
+||tampere-talo.fi/images/partners-
 ||tamy.fi/fi/images/banners/
 ||tangomarkkinat.fi/images/org/
 ||tappara.fi/liiga/images/stories/artikkelit/yhteistyo/
