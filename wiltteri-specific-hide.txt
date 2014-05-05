@@ -889,7 +889,7 @@ kaypahoito.fi##.portlet-borderless-container > DIV > IMG
 kehy.fi##.banners
 keilailu.fi##TD[style="padding-right: 20px;"]
 keitele.fi##TD[align="center"]
-keitelejazz.fi##P[align="Left"] IMG
+keitelejazz.fi###footer
 keittiomaailma.fi##.mid
 kelkkakerho.fi##.multithumb
 kelkkakerho.fi##img[src$="/menokone%202013.png"]
