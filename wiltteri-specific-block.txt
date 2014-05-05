@@ -840,6 +840,7 @@
 ||monster.fi/partners/
 ||moontv.fi/bannerit/
 ||moottoripyora.org/kuvat/bannerit/
+||moottoripyora.org^*/cooperation-
 ||moottorit.net/img/bannerit/
 ||motiva.fi/banner/
 ||motivus.fi/kuvat/motivus_banneri.gif
