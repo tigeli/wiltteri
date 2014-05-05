@@ -345,6 +345,7 @@
 ||harder.fi/images/banners/
 ||harjoittelu.net/images/bannerit/
 ||hartwall-areena.com/*/banner/
+||hartwallarena.fi^*/collaboration-logos.
 ||hauva.com/sites/hauva.com/themes/hauva/bannerit/
 ||haven.fi/images/banners/
 ||heinola.net/data/jyraa/logot2.jpg

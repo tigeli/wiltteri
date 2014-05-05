@@ -496,6 +496,7 @@ harkaviikot.fi###logo
 harmankuntokeskus.fi##TD + TD + TD[align="center"]
 harmony.fi##.muuttuotteet
 hartwall.fi###flashContent2
+hartwallarena.fi###collaboration-logos
 hbf.fi###sisaltoVasen1 + #sisaltoVasen1
 hdfin.com###bannertop_new
 hdfin.com###cal_right_grey > .box_border > .box_simple_greybackgr:last-of-type
