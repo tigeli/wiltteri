@@ -2681,10 +2681,12 @@ vuokatti.fi###column_right > .nosto_narrow:last-child
 vuokatticampus.fi##TR + * + * > TD[width="172"]
 vuokrakas.com##TD > DIV > A > IMG
 vuokraovi.com###banner
+vuokraovi.com###bottomDesktopBanner
 vuokraovi.com###content_right_outer
 vuokraovi.com###electricityCalculator
 vuokraovi.com###list_page_bottom_banner
 vuokraovi.com###topBarBanner
+vuokraovi.com##.advertising
 vuokraovi.com##.middlebannerrow
 vyy.fi###banner6
 wanajafestival.fi###footerLogot

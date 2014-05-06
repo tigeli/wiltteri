@@ -1646,6 +1646,7 @@
 ||vuokatti.fi/binary/file/-/fid/1655
 ||vuokatticampus.fi/images/ban
 ||vuokralaistenkeskusliitto.fi/bannerit/
+||vuokraovi.com^*/EAS_fif.html
 ||vuokraturva.fi/images/keskusliitto.png
 ||vuokraturva.fi/images/vuokranantajat.png
 ||vuosaari.fi/images/stories/Logot/
