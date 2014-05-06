@@ -513,6 +513,7 @@
 ||josba.fi/swf/
 ||joulupukki.fi/banners/
 ||joupiska.fi/kuvia/*logo
+||joutsa.fi^*/image/Yhteisty%C3%B6kumppanit%20kooste.jpg
 ||joutsa.fi^*/mainosrulla.swf
 ||joutsenolehti.fi/tiedostot/*kopio.jpg
 ||joutsenolehti.fi/tiedostot/*logo.gif
