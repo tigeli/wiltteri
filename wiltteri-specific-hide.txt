@@ -78,6 +78,8 @@ anttolansanomat.fi##SPAN > A > IMG[style="border: 0px solid; width: 270px; heigh
 anttolansanomat.fi##SPAN > IMG[style="border: 0px solid; width: 270px; height: 400px;"]
 anttolansanomat.fi##TR > TD + TD > DIV[style="text-align: center;"]
 apeced.org###logot
+apriljazz.fi###left a[target="_blank"]
+apriljazz.fi###right > a[target="_blank"]
 apteekit.org###bannerit1p
 apteekkituotteet.fi##.CategoryList > CENTER
 apteekkituotteet.fi##.NavigationText.NavBarElement4
