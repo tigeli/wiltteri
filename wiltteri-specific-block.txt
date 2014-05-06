@@ -131,6 +131,7 @@
 ||blues.fi^*/sponsorilogot/
 ||blues-finland.com/images/cdon/
 ||blues-finland.com/images/Commercial/
+||blueslive.net/bluesfi.jpg
 ||bmwforum.fi/ads/
 ||bodylehti.fi/customfiles/banner
 ||bomber.fi/ads/
