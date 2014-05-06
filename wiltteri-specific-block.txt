@@ -667,6 +667,7 @@
 ||kuna.fi/files/keuna.com.kotisivukone.com/kuvat/nal_logot_ilman_leimaa.jpg^
 ||kunnossa.fi/gfx/logo-footer.png
 ||kuopionsuunnistajat.fi/images/banners/
+||kuopiorock.com/img/sokoshotel-banner.png
 ||kuopiowinefestival.com/2010/kuvat/smatkat_viini
 ||kups.fi^*/Bannerit/
 ||kurikka.fi/files/Kuvitus/kurikka-banneri

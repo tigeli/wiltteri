@@ -1092,7 +1092,9 @@ kuopiodancefestival.fi##TD.kalenteri
 kuopionkirppari.fi##DIV[class="banner_160x600_left"]
 kuopionkirppari.fi##DIV[class="keskibanneri"]
 kuopionpursiseura.fi###zone-right a[target="_BLANK"] > img
-kuopiorock.com###right2
+kuopiorock.com###recommendations
+kuopiorock.com###sponsored
+kuopiorock.com###sponsors
 kuortane.fi##IMG[style="width: 110px; height: 100px;"]
 kupiainen.net##TABLE[width="108%"] IMG
 kupiainen.net##TABLE[width="140%"] IMG
