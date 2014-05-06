@@ -638,6 +638,7 @@
 ||kopse.org/kuvat/korsonkoti.png
 ||kopse.org/mainoskuvat/
 ||korroosio.fi/images/banners/
+||kortti.net/kuumatcom.gif
 ||koskenkorvanurheilijat.fi/images/banners/
 ||kotikarjala.fi/edoris/
 ||kotikartio.com/images/stories/omatlogot/
