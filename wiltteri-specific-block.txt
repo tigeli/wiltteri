@@ -1076,6 +1076,9 @@
 ||poppamies.fi/images/manala_logo.jpg
 ||poppamies.fi/images/rokit_kokit_jack_rooster.jpg
 ||poptravel.fi/images/*banner
+||pori.fi^*/Lippulinja_logo_175_cr.png
+||pori.fi^*/Pori_Energia_vari-01_90.png
+||pori.fi^*/sanser_90.png
 ||porijazz.fi/images/banners/
 ||porinkarpat.fi/kuvat/*.swf
 ||poroholma.fi/bannerit/
