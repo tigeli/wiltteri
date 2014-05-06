@@ -1300,6 +1300,7 @@ lyy.fi##.kampanja
 maabrandi.fi##.sidebar_2.sbar3
 maailma.net###block-block-24 > H2 + DIV.content
 maailmankirjat.fi##TD[align="center"]
+maailmakylassa.fi###block-views-main-partners-block-1
 maapallo.fi##.advertisements > a[target="_blank"] > img
 maaporssi.fi###alapalkki
 maaporssi.fi###cooperation
