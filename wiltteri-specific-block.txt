@@ -675,7 +675,6 @@
 ||kups.fi^*/Bannerit/
 ||kurikka.fi/files/Kuvitus/kurikka-banneri
 ||kutsunohjaus.tns-gallup.fi/public/js/
-||kuvake.net/500x240.php^$third-party
 ||kuvalauta.fi/bannerit/
 ||kuvanmaailma.fi/swf/
 ||kuvaton.com/*mainos.jpg

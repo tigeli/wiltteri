@@ -18,6 +18,8 @@
 ||kauppalehti.fi^*/nostolaatikko.jsp$subdocument
 ||kauppalehti.fi^*/uutisikkuna/$subdocument
 ||kotikokki.net/daily_recipe_*_lift.html$subdocument
+||kuvake.net/500x240.php^$subdocument,third-party
+||kuvake.net/600x240.php^$subdocument,third-party
 ||mikko.fi^*/420x241ps.html$subdocument
 ||adservicemedia.dk^$third-party
 ||cromet.fi/commercials/$third-party
