@@ -1734,6 +1734,7 @@ pesis.fi##.banner
 pesis.fi###content-banners
 pesis.fi###extrabanners
 pesis.fi###logot
+pesis.net##.sidebar2 img[width="175"]
 petsie.fi###logobar
 phlu.fi###token-123590
 phlu.fi##img[src$="/KU_LOGO.jpeg"]
