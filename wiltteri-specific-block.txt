@@ -1177,7 +1177,9 @@
 ||rgline.com/medialibrary/data/*banner
 ||riheda.net/banner/
 ||riemurasia.net/images/banner_
-||riemurasia.net/m/maxi/
+||riemurasia.net/m/$image,subdocument
+||riemurasia.net/m?$popup
+||riemurasia.net/show.php?$subdocument
 ||riihimaki.fi/Tiedostot/RIIHIM%C3%A4KI_Kuvat/Rmk_Bannerit/
 ||riista.fi/pix/*banner
 ||riku.fi/binary/file/-/fid/1344/
