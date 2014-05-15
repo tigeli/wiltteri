@@ -270,6 +270,7 @@
 ||fi-reggae.com/kamppikset/
 ||fiercermedia.fi/wp-content/uploads/2011/08/fiercer-media-referenssit.png^
 ||fightclubfinland.fi/tiedostot/elmo_sports_grill_logo.jpg
+||fiima.net/data/banners/
 ||files.snstatic.fi^*/KCM/$domain=iltasanomat.fi
 ||fillari-lehti.fi/obannerit.asp
 ||fillari-lehti.fi/ybannerit.asp
