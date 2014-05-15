@@ -744,6 +744,7 @@
 ||lomaradio.fi/bannerit/
 ||lomaseutu.fi/images/*/banner
 ||lomaseutu.fi/images/*/mainos
+||loop.fi/content-ad/
 ||lops.fi/Bannerit/
 ||lounaat.com/images/bannerit/
 ||lounastauko.fi^*/banners/
