@@ -2169,6 +2169,7 @@ sotiemmeveteraanit.fi###block-block-12 > DIV.content
 sotkamolehti.fi##.adContainer
 sotkamolehti.fi##.adContainerWithMeta
 sotkamolehti.fi##div[style*="width:956px; height:190px;"]
+sotkamonjymypesis.fi##.right-sidebar-wrapper a[target="_blank"] > img
 southwood.fi##P + HR + P > IMG
 southwood.fi##TD
 speedmotorcircus.fi###right > DIV.block.block-block > DIV.content
