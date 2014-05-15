@@ -1402,7 +1402,7 @@
 ||suorahuuto.fi/banners/
 ||suosikki.fi/*/img/bannerit/
 ||suositut.net/images/metalli_musiikki.jpg
-||superjymy.fi/*files/yhteistyokumppanit
+||superjymy.fi^*/kumppanilogot/
 ||superliitto.fi/datafiles/banners/
 ||supssalibandy.com^*/thumbs_kumppanit/
 ||surfcamp.fi/images/banners/

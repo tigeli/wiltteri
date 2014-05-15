@@ -2238,7 +2238,7 @@ suomimeloo.fi##a[target="_blank"] > img[width="115"]
 suomiopas.fi##.oikea a[target="_blank"] > img
 suomiruotsimaaottelu.fi###footer DIV.view-content
 suoraplus.fi##.frontBanner1
-superjymy.fi##DIV[style="z-index: 5; position: relative; top: 35px;"]
+superjymy.fi##.kumppanit
 supersaver.fi##.footerPane
 supersaver.fi##DIV[style="padding-top: 15px; padding-bottom: 20px;"]
 supersaver.fi##OBJECT#foto_banner
