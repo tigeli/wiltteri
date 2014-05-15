@@ -1382,7 +1382,7 @@
 ||suomenlomapalvelu.fi/kuvat/logo.gif
 ||suomenpelikauppa.com/*mainos$third-party
 ||suomenyritykset.fi/images/banners/
-||suomi-seura.fi/site_v3/images/banners/
+||suomi-seura.fi^*/banners/
 ||suomi24-static.fi/aller_store/terveys/widget.html
 ||suomi24-static.fi/campaigns/
 ||suomi24-static.fi/promotions/
