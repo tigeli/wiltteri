@@ -1128,6 +1128,7 @@
 ||radalle.com/materiaalit/
 ||radio957.fi/files/*sponsor/
 ||radiodei.fi/images/banners/
+||radiofinlandia.net/images/autonvaraosat24_250x250.gif
 ||radiofinlandia.net/images/banners/*_banner
 ||radiomega.fi/files/banners/
 ||radiopooki.fi/kuvat/bannerit/
