@@ -29,6 +29,7 @@ adventra.fi##table[width="700"]
 agronomiliitto.fi##DIV[style="margin-left: 29px; margin-top: 10px;"]
 ahtarinelainpuisto.fi###SAContent6 > .Teksti
 ahtarinelainpuisto.fi###SAContent7
+aijaa.com###ad1
 airporttaxi.fi###finavia
 aivovammaliitto.fi##img[src$="ray.jpg"]
 ajantappo.fi###banner
