@@ -680,7 +680,6 @@
 ||kutsunohjaus.tns-gallup.fi/public/js/
 ||kuvalauta.fi/bannerit/
 ||kuvanmaailma.fi/swf/
-||kuvaton.com/*mainos.jpg
 ||kuvaton.com/banners/
 ||kuvaton.com/bansku
 ||kvps.fi/pics/muut-logot/
