@@ -15,7 +15,6 @@ aamuset.fi###sidebar-second
 aapeli.com###main_games_mid_center:first-child:last-child > div.ad:first-child
 aapeli.com###padright
 aarnealligaattori.fi##P.style3 > A > IMG
-aarre.fi##DIV[align="center"]
 aarremaanalla.com###top_banner
 aawg.fi###mainfooter a.logolink
 abc.fi##TD.banneri_bannerit
