@@ -1353,6 +1353,7 @@
 ||static.vertaa.fi/data/*/banner/
 ||stayhome.fi^*/webawards-suurtaulu.
 ||stll.fi/@Bin/*banner
+||storage.googleapis.com/suomensanomat/img/savikauppa/$domain=suomensanomat.fi
 ||studiofeelit.fi/shop/logos/logot
 ||sue.fi/images/*.swf
 ||sue.fi/images/*banner

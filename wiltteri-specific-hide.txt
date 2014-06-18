@@ -2225,6 +2225,7 @@ suomenmonikkoperheet.fi##img[src="pix/ray_tukee.gif"]
 suomenpolkupyoratukku.fi##.banners
 suomenpolkupyoratukku.fi###bannerbox2
 suomenpolkupyoratukku.fi###bannerboxall
+suomensanomat.fi###static-info
 suomentanssistudiot.fi##IMG.banner
 suomentivoli.fi##TD > P[style="text-align: center;"]
 suomentule.fi##img[src$="/RAY_Tukee.jpg"]
