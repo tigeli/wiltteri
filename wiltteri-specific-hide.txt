@@ -646,6 +646,7 @@ ilmoitukset.com##TABLE.main_page
 ilmoitukset.com##TD[width="138"]
 ilonpolku.fi##TD.navigation IMG
 ilotalo.com##TD[colspan="3"]
+iltalehti.fi###com-autotalli-multibanner
 iltalehti.fi###kl_nosto_13
 iltalehti.fi###monsterWrapper
 iltamakasiini.fi##.promo_slider_wrapper

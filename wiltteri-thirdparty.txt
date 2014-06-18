@@ -5,6 +5,7 @@
 ||almamedia.fi/mp/$subdocument
 ||autotalli.com/externalquicksearch?$subdocument
 ||autotalli.com^*/htmlbanners/$subdocument
+||autotalli.com^*/html_multibanner/$third-party
 ||bmm.fi^$third-party
 ||diilit.com/vkl_video.html$subdocument,third-party
 ||eas.almamedia.fi^
