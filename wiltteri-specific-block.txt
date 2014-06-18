@@ -979,6 +979,7 @@
 ||otavafiles.fi^*/matkalaukku/nostot/
 ||otavafiles.fi/plaza/s/img2/muro/
 ||oty.fi/images/banners/
+||oululehti.fi/edoris?
 ||oulunkarpat.fi/20*/bannerit/
 ||ouluthisweek.net/banners/
 ||overdrive.fi/bannerit/

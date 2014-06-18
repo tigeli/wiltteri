@@ -1665,6 +1665,7 @@ otava.fi##div[class^="lift forbanner"]
 ougf.fi###footer-inner
 oulainen.fi##TD#palsta2
 oulufutis.com###ylakuva
+oululehti.fi###bannerAreaTop
 oulunkarpat.fi##table[style*="ouluopas.com"]
 oulunsalo.fi##DT
 ouluntaiteidenyo.net###content_right_header2 + DIV#right_content
