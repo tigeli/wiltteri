@@ -212,6 +212,8 @@
 ||eat.fi/vartti/
 ||ecross.fi/*files/imagemanagermodule/@random
 ||educations.com^*/partners/$domain=koulutus.fi|utbildning.se
+||eivmp.com/images/*banneri
+||eivmp.com/images/mainos
 ||ekoenergia.fi/bannerit/
 ||ekokompassi.fi/kuvat/ala_logot.gif
 ||elamalapselle.fi/banner/
