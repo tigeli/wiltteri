@@ -194,7 +194,6 @@ clubliberte.fi##TD > P > A > IMG
 clubliberte.fi##TD[width="150"]:last-child > A > IMG
 cmsclub.fi###sidelist_banners_bottomcenter
 collieyhdistys.fi##img[src="RC.jpg"]
-com##.bannerlist
 como.fi##UL.pro15
 corgiseura.net##img[src$="Royal_Canin_front.jpg"]
 corner.fi###col-right-sidebar
@@ -1520,7 +1519,6 @@ nesteoilrallyfinland.fi##TD.bottom
 nesteoilrallyfinland.fi##TD[style="width: 16%; border: medium none;"]
 nesteoilrallyfinland.fi##TD[style="width: 20%; border: medium none;"]
 nesteoilrallyfinland.fi##TD[style="width: 24%; border: medium none;"]
-net##.bannerlist
 net##.tsFrameContainer
 netmission.fi##.bannerContainer
 netmission.fi##.flashBanner
