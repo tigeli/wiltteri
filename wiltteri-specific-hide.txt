@@ -183,7 +183,6 @@ cc-kilta.fi##TD.taustaoikea
 cetus.fi##TD[style="width: 170px; padding-left: 20px;"]
 changemaker.fi##IMG[style="position: absolute; top: 0pt; left: 0pt;"]
 chicos.fi###rightcol
-chilikauppa.fi##BR + * TD > A > IMG
 city.fi###citybox
 city.fi##TD[style="padding: 0pt;"]
 city.fi##TD#td_topbanner
